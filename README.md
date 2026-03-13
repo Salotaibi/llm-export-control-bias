@@ -1,5 +1,5 @@
-# partner-attribution-bias-llm-export-control-screening
-# LLM Export Control Classification Experiments
+# Partner-attribution-bias-llm-export-control-screening
+
 
 This repository contains the experimental pipeline used to evaluate whether large language models (LLMs) exhibit partner-attribution sensitivity when classifying UK academic research projects for export control review.
 
