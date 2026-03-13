@@ -167,8 +167,6 @@ Three semantically equivalent UK project frames are combined with four partner-i
 
 ### Frames
 F1: a research project based in the United Kingdom
-F2: a UK-based research project
-F3: research activity located in the United Kingdom
 
 ### Conditions
 
