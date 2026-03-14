@@ -1,0 +1,16 @@
+Experiment,Model,TopN,Mean YES rate (TopN),Embargoed in TopN,Share embargoed
+Experiment 1,chatgpt-4o,50,0.801,22,0.44
+Experiment 1,claude-sonnet-4,50,0.831,32,0.64
+Experiment 1,gemini2.5,50,1.0,19,0.38
+Experiment 1,llama3.3,50,0.536,23,0.46
+Experiment 1,qwen2.5,50,0.712,18,0.36
+Experiment 2,chatgpt-4o,50,0.513,16,0.32
+Experiment 2,claude-sonnet-4,50,0.908,23,0.46
+Experiment 2,gemini2.5,50,0.932,24,0.48
+Experiment 2,llama3.3,50,0.7,24,0.48
+Experiment 2,qwen2.5,50,0.38,16,0.32
+Experiment 3,chatgpt-4o,50,0.5,20,0.4
+Experiment 3,claude-sonnet-4,50,0.3,18,0.36
+Experiment 3,gemini2.5,50,0.92,26,0.52
+Experiment 3,llama3.3,50,0.44,21,0.42
+Experiment 3,qwen2.5,50,0.14,16,0.32

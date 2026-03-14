@@ -1,0 +1,1226 @@
+model_key,iso3,country_name,bloc,region,a,b1p0,b0p1,d,n_total,n_discordant,p,effect_delta,effect_rate,rank_in_model,p_adj
+chatgpt-4o,ABW,Aruba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1,0.004081632653061225
+chatgpt-4o,AFG,Afghanistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2,0.00816326530612245
+chatgpt-4o,AGO,Angola,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3,0.012244897959183673
+chatgpt-4o,AIA,Anguilla,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,4,0.0163265306122449
+chatgpt-4o,ALA,Åland Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5,0.02040816326530612
+chatgpt-4o,ALB,Albania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,6,0.024489795918367346
+chatgpt-4o,AND,Andorra,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,7,0.02857142857142857
+chatgpt-4o,ARE,United Arab Emirates,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,8,0.0326530612244898
+chatgpt-4o,ARG,Argentina,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,9,0.036734693877551024
+chatgpt-4o,ARM,Armenia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10,0.04081632653061224
+chatgpt-4o,ASM,American Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,11,0.044897959183673466
+chatgpt-4o,ATA,Antarctica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,12,0.04897959183673469
+chatgpt-4o,ATF,French Southern Territories,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,13,0.053061224489795916
+chatgpt-4o,ATG,Antigua and Barbuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,14,0.05714285714285714
+chatgpt-4o,AUS,Australia,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,15,0.061224489795918366
+chatgpt-4o,AUT,Austria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,16,0.0653061224489796
+chatgpt-4o,AZE,Azerbaijan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,17,0.06938775510204082
+chatgpt-4o,BDI,Burundi,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,18,0.07346938775510205
+chatgpt-4o,BEL,Belgium,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,19,0.07755102040816327
+chatgpt-4o,BES,"Bonaire, Sint Eustatius and Saba",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,20,0.08163265306122448
+chatgpt-4o,BFA,Burkina Faso,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,21,0.08571428571428572
+chatgpt-4o,BGD,Bangladesh,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,22,0.08979591836734693
+chatgpt-4o,BGR,Bulgaria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,23,0.09387755102040816
+chatgpt-4o,BHR,Bahrain,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,24,0.09795918367346938
+chatgpt-4o,BHS,Bahamas,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,25,0.10204081632653061
+chatgpt-4o,BIH,Bosnia and Herzegovina,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,26,0.10612244897959183
+chatgpt-4o,BLM,Saint Barthélemy,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,27,0.11020408163265306
+chatgpt-4o,BLR,Belarus,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,28,0.11428571428571428
+chatgpt-4o,BLZ,Belize,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,29,0.11836734693877551
+chatgpt-4o,BMU,Bermuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,30,0.12244897959183673
+chatgpt-4o,BOL,"Bolivia, Plurinational State of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,31,0.12653061224489795
+chatgpt-4o,BRA,Brazil,BRICS,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,32,0.1306122448979592
+chatgpt-4o,BRB,Barbados,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,33,0.1346938775510204
+chatgpt-4o,BRN,Brunei Darussalam,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,34,0.13877551020408163
+chatgpt-4o,BTN,Bhutan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,35,0.14285714285714285
+chatgpt-4o,BVT,Bouvet Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,36,0.1469387755102041
+chatgpt-4o,CAF,Central African Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,37,0.1510204081632653
+chatgpt-4o,CCK,Cocos (Keeling) Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,38,0.15510204081632653
+chatgpt-4o,CHE,Switzerland,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,39,0.15918367346938775
+chatgpt-4o,CHL,Chile,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,40,0.16326530612244897
+chatgpt-4o,CHN,China,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,41,0.1673469387755102
+chatgpt-4o,CIV,Côte d'Ivoire,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,42,0.17142857142857143
+chatgpt-4o,CMR,Cameroon,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,43,0.17551020408163265
+chatgpt-4o,COD,"Congo, The Democratic Republic of the",Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,44,0.17959183673469387
+chatgpt-4o,COG,Congo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,45,0.1836734693877551
+chatgpt-4o,COK,Cook Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,46,0.18775510204081633
+chatgpt-4o,COL,Colombia,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,47,0.19183673469387755
+chatgpt-4o,COM,Comoros,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,48,0.19591836734693877
+chatgpt-4o,CPV,Cabo Verde,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,49,0.2
+chatgpt-4o,CRI,Costa Rica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,50,0.20408163265306123
+chatgpt-4o,CUB,Cuba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51,0.20816326530612245
+chatgpt-4o,CUW,Curaçao,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,52,0.21224489795918366
+chatgpt-4o,CXR,Christmas Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,53,0.2163265306122449
+chatgpt-4o,CYM,Cayman Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,54,0.22040816326530613
+chatgpt-4o,CYP,Cyprus,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,55,0.22448979591836735
+chatgpt-4o,CZE,Czechia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,56,0.22857142857142856
+chatgpt-4o,DEU,Germany,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,57,0.23265306122448978
+chatgpt-4o,DJI,Djibouti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,58,0.23673469387755103
+chatgpt-4o,DMA,Dominica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59,0.24081632653061225
+chatgpt-4o,DNK,Denmark,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,60,0.24489795918367346
+chatgpt-4o,DOM,Dominican Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,61,0.24897959183673468
+chatgpt-4o,DZA,Algeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,62,0.2530612244897959
+chatgpt-4o,ECU,Ecuador,Other,South America,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,63,0.2571428571428571
+chatgpt-4o,EGY,Egypt,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,64,0.2612244897959184
+chatgpt-4o,ERI,Eritrea,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,65,0.2653061224489796
+chatgpt-4o,ESH,Western Sahara,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,66,0.2693877551020408
+chatgpt-4o,ESP,Spain,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,67,0.27346938775510204
+chatgpt-4o,EST,Estonia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,68,0.27755102040816326
+chatgpt-4o,ETH,Ethiopia,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,69,0.2816326530612245
+chatgpt-4o,FIN,Finland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,70,0.2857142857142857
+chatgpt-4o,FJI,Fiji,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,71,0.2897959183673469
+chatgpt-4o,FLK,Falkland Islands (Malvinas),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,72,0.2938775510204082
+chatgpt-4o,FRA,France,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,73,0.2979591836734694
+chatgpt-4o,FRO,Faroe Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,74,0.3020408163265306
+chatgpt-4o,FSM,"Micronesia, Federated States of",Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,75,0.30612244897959184
+chatgpt-4o,GAB,Gabon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,76,0.31020408163265306
+chatgpt-4o,GBR,United Kingdom,FiveEyes,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,77,0.3142857142857143
+chatgpt-4o,GEO,Georgia,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,78,0.3183673469387755
+chatgpt-4o,GGY,Guernsey,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,79,0.3224489795918367
+chatgpt-4o,GHA,Ghana,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,80,0.32653061224489793
+chatgpt-4o,GIB,Gibraltar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,81,0.3306122448979592
+chatgpt-4o,GIN,Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,82,0.3346938775510204
+chatgpt-4o,GMB,Gambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,83,0.33877551020408164
+chatgpt-4o,GNB,Guinea-Bissau,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,84,0.34285714285714286
+chatgpt-4o,GNQ,Equatorial Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,85,0.3469387755102041
+chatgpt-4o,GRC,Greece,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,86,0.3510204081632653
+chatgpt-4o,GRD,Grenada,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,87,0.3551020408163265
+chatgpt-4o,GRL,Greenland,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,88,0.35918367346938773
+chatgpt-4o,GTM,Guatemala,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,89,0.363265306122449
+chatgpt-4o,GUF,French Guiana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,90,0.3673469387755102
+chatgpt-4o,GUM,Guam,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,91,0.37142857142857144
+chatgpt-4o,GUY,Guyana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,92,0.37551020408163266
+chatgpt-4o,HKG,Hong Kong,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,93,0.3795918367346939
+chatgpt-4o,HMD,Heard Island and McDonald Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,94,0.3836734693877551
+chatgpt-4o,HND,Honduras,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,95,0.3877551020408163
+chatgpt-4o,HRV,Croatia,EU,Europe,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,96,0.39183673469387753
+chatgpt-4o,HTI,Haiti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,97,0.39591836734693875
+chatgpt-4o,HUN,Hungary,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,98,0.4
+chatgpt-4o,IDN,Indonesia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,99,0.40408163265306124
+chatgpt-4o,IMN,Isle of Man,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,100,0.40816326530612246
+chatgpt-4o,IND,India,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,101,0.4122448979591837
+chatgpt-4o,IOT,British Indian Ocean Territory,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,102,0.4163265306122449
+chatgpt-4o,IRL,Ireland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,103,0.4204081632653061
+chatgpt-4o,IRN,"Iran, Islamic Republic of",Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,104,0.42448979591836733
+chatgpt-4o,IRQ,Iraq,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,105,0.42857142857142855
+chatgpt-4o,ISL,Iceland,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,106,0.4326530612244898
+chatgpt-4o,ISR,Israel,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,107,0.43673469387755104
+chatgpt-4o,ITA,Italy,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,108,0.44081632653061226
+chatgpt-4o,JAM,Jamaica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,109,0.4448979591836735
+chatgpt-4o,JEY,Jersey,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,110,0.4489795918367347
+chatgpt-4o,JOR,Jordan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,111,0.4530612244897959
+chatgpt-4o,JPN,Japan,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,112,0.45714285714285713
+chatgpt-4o,KAZ,Kazakhstan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,113,0.46122448979591835
+chatgpt-4o,KEN,Kenya,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,114,0.46530612244897956
+chatgpt-4o,KGZ,Kyrgyzstan,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,115,0.46938775510204084
+chatgpt-4o,KHM,Cambodia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,116,0.47346938775510206
+chatgpt-4o,KIR,Kiribati,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,117,0.4775510204081633
+chatgpt-4o,KNA,Saint Kitts and Nevis,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,118,0.4816326530612245
+chatgpt-4o,KOR,"Korea, Republic of",Other,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,119,0.4857142857142857
+chatgpt-4o,KWT,Kuwait,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,120,0.4897959183673469
+chatgpt-4o,LAO,Lao People's Democratic Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,121,0.49387755102040815
+chatgpt-4o,LBN,Lebanon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,122,0.49795918367346936
+chatgpt-4o,LBR,Liberia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,123,0.5020408163265306
+chatgpt-4o,LBY,Libya,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,124,0.5061224489795918
+chatgpt-4o,LCA,Saint Lucia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,125,0.5102040816326531
+chatgpt-4o,LIE,Liechtenstein,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,126,0.5142857142857142
+chatgpt-4o,LKA,Sri Lanka,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,127,0.5183673469387755
+chatgpt-4o,LSO,Lesotho,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,128,0.5224489795918368
+chatgpt-4o,LTU,Lithuania,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,129,0.5265306122448979
+chatgpt-4o,LUX,Luxembourg,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,130,0.5306122448979592
+chatgpt-4o,LVA,Latvia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,131,0.5346938775510204
+chatgpt-4o,MAC,Macao,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,132,0.5387755102040817
+chatgpt-4o,MAF,Saint Martin (French part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,133,0.5428571428571428
+chatgpt-4o,MAR,Morocco,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,134,0.5469387755102041
+chatgpt-4o,MCO,Monaco,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,135,0.5510204081632653
+chatgpt-4o,MDA,"Moldova, Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,136,0.5551020408163265
+chatgpt-4o,MDG,Madagascar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,137,0.5591836734693878
+chatgpt-4o,MDV,Maldives,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,138,0.563265306122449
+chatgpt-4o,MEX,Mexico,Other,North America,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,139,0.5673469387755102
+chatgpt-4o,MHL,Marshall Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,140,0.5714285714285714
+chatgpt-4o,MKD,North Macedonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,141,0.5755102040816327
+chatgpt-4o,MLI,Mali,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,142,0.5795918367346938
+chatgpt-4o,MLT,Malta,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,143,0.5836734693877551
+chatgpt-4o,MMR,Myanmar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,144,0.5877551020408164
+chatgpt-4o,MNE,Montenegro,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,145,0.5918367346938775
+chatgpt-4o,MNG,Mongolia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,146,0.5959183673469388
+chatgpt-4o,MNP,Northern Mariana Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,147,0.6
+chatgpt-4o,MOZ,Mozambique,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,148,0.6040816326530613
+chatgpt-4o,MRT,Mauritania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,149,0.6081632653061224
+chatgpt-4o,MSR,Montserrat,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,150,0.6122448979591837
+chatgpt-4o,MTQ,Martinique,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,151,0.6163265306122448
+chatgpt-4o,MUS,Mauritius,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,152,0.6204081632653061
+chatgpt-4o,MWI,Malawi,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,153,0.6244897959183674
+chatgpt-4o,MYS,Malaysia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,154,0.6285714285714286
+chatgpt-4o,MYT,Mayotte,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,155,0.6326530612244898
+chatgpt-4o,NAM,Namibia,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,156,0.636734693877551
+chatgpt-4o,NCL,New Caledonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,157,0.6408163265306123
+chatgpt-4o,NER,Niger,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,158,0.6448979591836734
+chatgpt-4o,NFK,Norfolk Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,159,0.6489795918367347
+chatgpt-4o,NGA,Nigeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,160,0.6530612244897959
+chatgpt-4o,NIC,Nicaragua,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,161,0.6571428571428571
+chatgpt-4o,NIU,Niue,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,162,0.6612244897959184
+chatgpt-4o,NLD,Netherlands,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,163,0.6653061224489796
+chatgpt-4o,NOR,Norway,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,164,0.6693877551020408
+chatgpt-4o,NPL,Nepal,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,165,0.673469387755102
+chatgpt-4o,NRU,Nauru,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,166,0.6775510204081633
+chatgpt-4o,NZL,New Zealand,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,167,0.6816326530612244
+chatgpt-4o,OMN,Oman,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,168,0.6857142857142857
+chatgpt-4o,PAK,Pakistan,Other,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,169,0.689795918367347
+chatgpt-4o,PAN,Panama,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,170,0.6938775510204082
+chatgpt-4o,PCN,Pitcairn,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,171,0.6979591836734694
+chatgpt-4o,PER,Peru,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,172,0.7020408163265306
+chatgpt-4o,PHL,Philippines,Other,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,173,0.7061224489795919
+chatgpt-4o,PLW,Palau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,174,0.710204081632653
+chatgpt-4o,PNG,Papua New Guinea,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,175,0.7142857142857143
+chatgpt-4o,POL,Poland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,176,0.7183673469387755
+chatgpt-4o,PRI,Puerto Rico,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,177,0.7224489795918367
+chatgpt-4o,PRK,"Korea, Democratic People's Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,178,0.726530612244898
+chatgpt-4o,PRT,Portugal,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,179,0.7306122448979592
+chatgpt-4o,PRY,Paraguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,180,0.7346938775510204
+chatgpt-4o,PSE,"Palestine, State of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,181,0.7387755102040816
+chatgpt-4o,PYF,French Polynesia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,182,0.7428571428571429
+chatgpt-4o,QAT,Qatar,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,183,0.746938775510204
+chatgpt-4o,REU,Réunion,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,184,0.7510204081632653
+chatgpt-4o,ROU,Romania,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,185,0.7551020408163265
+chatgpt-4o,RUS,Russian Federation,BRICS,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,186,0.7591836734693878
+chatgpt-4o,RWA,Rwanda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,187,0.763265306122449
+chatgpt-4o,SAU,Saudi Arabia,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,188,0.7673469387755102
+chatgpt-4o,SDN,Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,189,0.7714285714285715
+chatgpt-4o,SEN,Senegal,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,190,0.7755102040816326
+chatgpt-4o,SGP,Singapore,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,191,0.7795918367346939
+chatgpt-4o,SGS,South Georgia and the South Sandwich Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,192,0.7836734693877551
+chatgpt-4o,SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,193,0.7877551020408163
+chatgpt-4o,SJM,Svalbard and Jan Mayen,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,194,0.7918367346938775
+chatgpt-4o,SLB,Solomon Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,195,0.7959183673469388
+chatgpt-4o,SLE,Sierra Leone,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,196,0.8
+chatgpt-4o,SLV,El Salvador,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,197,0.8040816326530612
+chatgpt-4o,SMR,San Marino,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,198,0.8081632653061225
+chatgpt-4o,SOM,Somalia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,199,0.8122448979591836
+chatgpt-4o,SPM,Saint Pierre and Miquelon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,200,0.8163265306122449
+chatgpt-4o,SRB,Serbia,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,201,0.8204081632653061
+chatgpt-4o,SSD,South Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,202,0.8244897959183674
+chatgpt-4o,STP,Sao Tome and Principe,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,203,0.8285714285714286
+chatgpt-4o,SUR,Suriname,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,204,0.8326530612244898
+chatgpt-4o,SVK,Slovakia,EU,Europe,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,205,0.8367346938775511
+chatgpt-4o,SVN,Slovenia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,206,0.8408163265306122
+chatgpt-4o,SWE,Sweden,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,207,0.8448979591836735
+chatgpt-4o,SWZ,Eswatini,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,208,0.8489795918367347
+chatgpt-4o,SXM,Sint Maarten (Dutch part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,209,0.8530612244897959
+chatgpt-4o,SYC,Seychelles,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,210,0.8571428571428571
+chatgpt-4o,SYR,Syrian Arab Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,211,0.8612244897959184
+chatgpt-4o,TCA,Turks and Caicos Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,212,0.8653061224489796
+chatgpt-4o,TCD,Chad,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,213,0.8693877551020408
+chatgpt-4o,TGO,Togo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,214,0.8734693877551021
+chatgpt-4o,THA,Thailand,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,215,0.8775510204081632
+chatgpt-4o,TJK,Tajikistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,216,0.8816326530612245
+chatgpt-4o,TKL,Tokelau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,217,0.8857142857142857
+chatgpt-4o,TKM,Turkmenistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,218,0.889795918367347
+chatgpt-4o,TLS,Timor-Leste,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,219,0.8938775510204081
+chatgpt-4o,TON,Tonga,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,220,0.8979591836734694
+chatgpt-4o,TTO,Trinidad and Tobago,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,221,0.9020408163265307
+chatgpt-4o,TUN,Tunisia,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,222,0.9061224489795918
+chatgpt-4o,TUR,Türkiye,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,223,0.9102040816326531
+chatgpt-4o,TUV,Tuvalu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,224,0.9142857142857143
+chatgpt-4o,TWN,"Taiwan, Province of China",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,225,0.9183673469387755
+chatgpt-4o,TZA,"Tanzania, United Republic of",Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,226,0.9224489795918367
+chatgpt-4o,UGA,Uganda,Other,Africa,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,227,0.926530612244898
+chatgpt-4o,UKR,Ukraine,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,228,0.9306122448979591
+chatgpt-4o,UMI,United States Minor Outlying Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,229,0.9346938775510204
+chatgpt-4o,URY,Uruguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,230,0.9387755102040817
+chatgpt-4o,USA,United States,FiveEyes,North America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,231,0.9428571428571428
+chatgpt-4o,UZB,Uzbekistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,232,0.9469387755102041
+chatgpt-4o,VAT,Holy See (Vatican City State),Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,233,0.9510204081632653
+chatgpt-4o,VCT,Saint Vincent and the Grenadines,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,234,0.9551020408163265
+chatgpt-4o,VEN,"Venezuela, Bolivarian Republic of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,235,0.9591836734693877
+chatgpt-4o,VGB,"Virgin Islands, British",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,236,0.963265306122449
+chatgpt-4o,VIR,"Virgin Islands, U.S.",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,237,0.9673469387755103
+chatgpt-4o,VNM,Viet Nam,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,238,0.9714285714285714
+chatgpt-4o,VUT,Vanuatu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,239,0.9755102040816327
+chatgpt-4o,WLF,Wallis and Futuna,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,240,0.9795918367346939
+chatgpt-4o,WSM,Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,241,0.9836734693877551
+chatgpt-4o,YEM,Yemen,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,242,0.9877551020408163
+chatgpt-4o,ZAF,South Africa,BRICS,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,243,0.9918367346938776
+chatgpt-4o,ZMB,Zambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,244,0.9959183673469387
+chatgpt-4o,ZWE,Zimbabwe,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,245,1.0
+claude-sonnet-4,ABW,Aruba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1,0.004081632653061225
+claude-sonnet-4,AFG,Afghanistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2,0.00816326530612245
+claude-sonnet-4,AGO,Angola,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3,0.012244897959183673
+claude-sonnet-4,AIA,Anguilla,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,4,0.0163265306122449
+claude-sonnet-4,ALA,Åland Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5,0.02040816326530612
+claude-sonnet-4,ALB,Albania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,6,0.024489795918367346
+claude-sonnet-4,AND,Andorra,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,7,0.02857142857142857
+claude-sonnet-4,ARE,United Arab Emirates,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,8,0.0326530612244898
+claude-sonnet-4,ARG,Argentina,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,9,0.036734693877551024
+claude-sonnet-4,ARM,Armenia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10,0.04081632653061224
+claude-sonnet-4,ASM,American Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,11,0.044897959183673466
+claude-sonnet-4,ATA,Antarctica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,12,0.04897959183673469
+claude-sonnet-4,ATF,French Southern Territories,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,13,0.053061224489795916
+claude-sonnet-4,ATG,Antigua and Barbuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,14,0.05714285714285714
+claude-sonnet-4,AUS,Australia,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,15,0.061224489795918366
+claude-sonnet-4,AUT,Austria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,16,0.0653061224489796
+claude-sonnet-4,AZE,Azerbaijan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,17,0.06938775510204082
+claude-sonnet-4,BDI,Burundi,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,18,0.07346938775510205
+claude-sonnet-4,BEL,Belgium,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,19,0.07755102040816327
+claude-sonnet-4,BES,"Bonaire, Sint Eustatius and Saba",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,20,0.08163265306122448
+claude-sonnet-4,BFA,Burkina Faso,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,21,0.08571428571428572
+claude-sonnet-4,BGD,Bangladesh,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,22,0.08979591836734693
+claude-sonnet-4,BGR,Bulgaria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,23,0.09387755102040816
+claude-sonnet-4,BHR,Bahrain,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,24,0.09795918367346938
+claude-sonnet-4,BHS,Bahamas,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,25,0.10204081632653061
+claude-sonnet-4,BIH,Bosnia and Herzegovina,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,26,0.10612244897959183
+claude-sonnet-4,BLM,Saint Barthélemy,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,27,0.11020408163265306
+claude-sonnet-4,BLR,Belarus,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,28,0.11428571428571428
+claude-sonnet-4,BLZ,Belize,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,29,0.11836734693877551
+claude-sonnet-4,BMU,Bermuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,30,0.12244897959183673
+claude-sonnet-4,BOL,"Bolivia, Plurinational State of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,31,0.12653061224489795
+claude-sonnet-4,BRA,Brazil,BRICS,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,32,0.1306122448979592
+claude-sonnet-4,BRB,Barbados,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,33,0.1346938775510204
+claude-sonnet-4,BRN,Brunei Darussalam,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,34,0.13877551020408163
+claude-sonnet-4,BTN,Bhutan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,35,0.14285714285714285
+claude-sonnet-4,BVT,Bouvet Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,36,0.1469387755102041
+claude-sonnet-4,CAF,Central African Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,37,0.1510204081632653
+claude-sonnet-4,CCK,Cocos (Keeling) Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,38,0.15510204081632653
+claude-sonnet-4,CHE,Switzerland,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,39,0.15918367346938775
+claude-sonnet-4,CHL,Chile,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,40,0.16326530612244897
+claude-sonnet-4,CHN,China,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,41,0.1673469387755102
+claude-sonnet-4,CIV,Côte d'Ivoire,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,42,0.17142857142857143
+claude-sonnet-4,CMR,Cameroon,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,43,0.17551020408163265
+claude-sonnet-4,COD,"Congo, The Democratic Republic of the",Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,44,0.17959183673469387
+claude-sonnet-4,COG,Congo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,45,0.1836734693877551
+claude-sonnet-4,COK,Cook Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,46,0.18775510204081633
+claude-sonnet-4,COL,Colombia,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,47,0.19183673469387755
+claude-sonnet-4,COM,Comoros,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,48,0.19591836734693877
+claude-sonnet-4,CPV,Cabo Verde,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,49,0.2
+claude-sonnet-4,CRI,Costa Rica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,50,0.20408163265306123
+claude-sonnet-4,CUB,Cuba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51,0.20816326530612245
+claude-sonnet-4,CUW,Curaçao,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,52,0.21224489795918366
+claude-sonnet-4,CXR,Christmas Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,53,0.2163265306122449
+claude-sonnet-4,CYM,Cayman Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,54,0.22040816326530613
+claude-sonnet-4,CYP,Cyprus,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,55,0.22448979591836735
+claude-sonnet-4,CZE,Czechia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,56,0.22857142857142856
+claude-sonnet-4,DEU,Germany,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,57,0.23265306122448978
+claude-sonnet-4,DJI,Djibouti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,58,0.23673469387755103
+claude-sonnet-4,DMA,Dominica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59,0.24081632653061225
+claude-sonnet-4,DNK,Denmark,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,60,0.24489795918367346
+claude-sonnet-4,DOM,Dominican Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,61,0.24897959183673468
+claude-sonnet-4,DZA,Algeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,62,0.2530612244897959
+claude-sonnet-4,ECU,Ecuador,Other,South America,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,63,0.2571428571428571
+claude-sonnet-4,EGY,Egypt,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,64,0.2612244897959184
+claude-sonnet-4,ERI,Eritrea,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,65,0.2653061224489796
+claude-sonnet-4,ESH,Western Sahara,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,66,0.2693877551020408
+claude-sonnet-4,ESP,Spain,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,67,0.27346938775510204
+claude-sonnet-4,EST,Estonia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,68,0.27755102040816326
+claude-sonnet-4,ETH,Ethiopia,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,69,0.2816326530612245
+claude-sonnet-4,FIN,Finland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,70,0.2857142857142857
+claude-sonnet-4,FJI,Fiji,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,71,0.2897959183673469
+claude-sonnet-4,FLK,Falkland Islands (Malvinas),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,72,0.2938775510204082
+claude-sonnet-4,FRA,France,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,73,0.2979591836734694
+claude-sonnet-4,FRO,Faroe Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,74,0.3020408163265306
+claude-sonnet-4,FSM,"Micronesia, Federated States of",Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,75,0.30612244897959184
+claude-sonnet-4,GAB,Gabon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,76,0.31020408163265306
+claude-sonnet-4,GBR,United Kingdom,FiveEyes,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,77,0.3142857142857143
+claude-sonnet-4,GEO,Georgia,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,78,0.3183673469387755
+claude-sonnet-4,GGY,Guernsey,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,79,0.3224489795918367
+claude-sonnet-4,GHA,Ghana,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,80,0.32653061224489793
+claude-sonnet-4,GIB,Gibraltar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,81,0.3306122448979592
+claude-sonnet-4,GIN,Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,82,0.3346938775510204
+claude-sonnet-4,GMB,Gambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,83,0.33877551020408164
+claude-sonnet-4,GNB,Guinea-Bissau,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,84,0.34285714285714286
+claude-sonnet-4,GNQ,Equatorial Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,85,0.3469387755102041
+claude-sonnet-4,GRC,Greece,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,86,0.3510204081632653
+claude-sonnet-4,GRD,Grenada,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,87,0.3551020408163265
+claude-sonnet-4,GRL,Greenland,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,88,0.35918367346938773
+claude-sonnet-4,GTM,Guatemala,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,89,0.363265306122449
+claude-sonnet-4,GUF,French Guiana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,90,0.3673469387755102
+claude-sonnet-4,GUM,Guam,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,91,0.37142857142857144
+claude-sonnet-4,GUY,Guyana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,92,0.37551020408163266
+claude-sonnet-4,HKG,Hong Kong,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,93,0.3795918367346939
+claude-sonnet-4,HMD,Heard Island and McDonald Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,94,0.3836734693877551
+claude-sonnet-4,HND,Honduras,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,95,0.3877551020408163
+claude-sonnet-4,HRV,Croatia,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,96,0.39183673469387753
+claude-sonnet-4,HTI,Haiti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,97,0.39591836734693875
+claude-sonnet-4,HUN,Hungary,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,98,0.4
+claude-sonnet-4,IDN,Indonesia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,99,0.40408163265306124
+claude-sonnet-4,IMN,Isle of Man,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,100,0.40816326530612246
+claude-sonnet-4,IND,India,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,101,0.4122448979591837
+claude-sonnet-4,IOT,British Indian Ocean Territory,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,102,0.4163265306122449
+claude-sonnet-4,IRL,Ireland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,103,0.4204081632653061
+claude-sonnet-4,IRN,"Iran, Islamic Republic of",Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,104,0.42448979591836733
+claude-sonnet-4,IRQ,Iraq,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,105,0.42857142857142855
+claude-sonnet-4,ISL,Iceland,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,106,0.4326530612244898
+claude-sonnet-4,ISR,Israel,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,107,0.43673469387755104
+claude-sonnet-4,ITA,Italy,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,108,0.44081632653061226
+claude-sonnet-4,JAM,Jamaica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,109,0.4448979591836735
+claude-sonnet-4,JEY,Jersey,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,110,0.4489795918367347
+claude-sonnet-4,JOR,Jordan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,111,0.4530612244897959
+claude-sonnet-4,JPN,Japan,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,112,0.45714285714285713
+claude-sonnet-4,KAZ,Kazakhstan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,113,0.46122448979591835
+claude-sonnet-4,KEN,Kenya,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,114,0.46530612244897956
+claude-sonnet-4,KGZ,Kyrgyzstan,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,115,0.46938775510204084
+claude-sonnet-4,KHM,Cambodia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,116,0.47346938775510206
+claude-sonnet-4,KIR,Kiribati,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,117,0.4775510204081633
+claude-sonnet-4,KNA,Saint Kitts and Nevis,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,118,0.4816326530612245
+claude-sonnet-4,KOR,"Korea, Republic of",Other,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,119,0.4857142857142857
+claude-sonnet-4,KWT,Kuwait,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,120,0.4897959183673469
+claude-sonnet-4,LAO,Lao People's Democratic Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,121,0.49387755102040815
+claude-sonnet-4,LBN,Lebanon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,122,0.49795918367346936
+claude-sonnet-4,LBR,Liberia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,123,0.5020408163265306
+claude-sonnet-4,LBY,Libya,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,124,0.5061224489795918
+claude-sonnet-4,LCA,Saint Lucia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,125,0.5102040816326531
+claude-sonnet-4,LIE,Liechtenstein,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,126,0.5142857142857142
+claude-sonnet-4,LKA,Sri Lanka,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,127,0.5183673469387755
+claude-sonnet-4,LSO,Lesotho,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,128,0.5224489795918368
+claude-sonnet-4,LTU,Lithuania,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,129,0.5265306122448979
+claude-sonnet-4,LUX,Luxembourg,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,130,0.5306122448979592
+claude-sonnet-4,LVA,Latvia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,131,0.5346938775510204
+claude-sonnet-4,MAC,Macao,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,132,0.5387755102040817
+claude-sonnet-4,MAF,Saint Martin (French part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,133,0.5428571428571428
+claude-sonnet-4,MAR,Morocco,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,134,0.5469387755102041
+claude-sonnet-4,MCO,Monaco,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,135,0.5510204081632653
+claude-sonnet-4,MDA,"Moldova, Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,136,0.5551020408163265
+claude-sonnet-4,MDG,Madagascar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,137,0.5591836734693878
+claude-sonnet-4,MDV,Maldives,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,138,0.563265306122449
+claude-sonnet-4,MEX,Mexico,Other,North America,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,139,0.5673469387755102
+claude-sonnet-4,MHL,Marshall Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,140,0.5714285714285714
+claude-sonnet-4,MKD,North Macedonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,141,0.5755102040816327
+claude-sonnet-4,MLI,Mali,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,142,0.5795918367346938
+claude-sonnet-4,MLT,Malta,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,143,0.5836734693877551
+claude-sonnet-4,MMR,Myanmar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,144,0.5877551020408164
+claude-sonnet-4,MNE,Montenegro,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,145,0.5918367346938775
+claude-sonnet-4,MNG,Mongolia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,146,0.5959183673469388
+claude-sonnet-4,MNP,Northern Mariana Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,147,0.6
+claude-sonnet-4,MOZ,Mozambique,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,148,0.6040816326530613
+claude-sonnet-4,MRT,Mauritania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,149,0.6081632653061224
+claude-sonnet-4,MSR,Montserrat,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,150,0.6122448979591837
+claude-sonnet-4,MTQ,Martinique,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,151,0.6163265306122448
+claude-sonnet-4,MUS,Mauritius,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,152,0.6204081632653061
+claude-sonnet-4,MWI,Malawi,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,153,0.6244897959183674
+claude-sonnet-4,MYS,Malaysia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,154,0.6285714285714286
+claude-sonnet-4,MYT,Mayotte,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,155,0.6326530612244898
+claude-sonnet-4,NAM,Namibia,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,156,0.636734693877551
+claude-sonnet-4,NCL,New Caledonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,157,0.6408163265306123
+claude-sonnet-4,NER,Niger,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,158,0.6448979591836734
+claude-sonnet-4,NFK,Norfolk Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,159,0.6489795918367347
+claude-sonnet-4,NGA,Nigeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,160,0.6530612244897959
+claude-sonnet-4,NIC,Nicaragua,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,161,0.6571428571428571
+claude-sonnet-4,NIU,Niue,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,162,0.6612244897959184
+claude-sonnet-4,NLD,Netherlands,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,163,0.6653061224489796
+claude-sonnet-4,NOR,Norway,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,164,0.6693877551020408
+claude-sonnet-4,NPL,Nepal,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,165,0.673469387755102
+claude-sonnet-4,NRU,Nauru,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,166,0.6775510204081633
+claude-sonnet-4,NZL,New Zealand,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,167,0.6816326530612244
+claude-sonnet-4,OMN,Oman,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,168,0.6857142857142857
+claude-sonnet-4,PAK,Pakistan,Other,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,169,0.689795918367347
+claude-sonnet-4,PAN,Panama,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,170,0.6938775510204082
+claude-sonnet-4,PCN,Pitcairn,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,171,0.6979591836734694
+claude-sonnet-4,PER,Peru,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,172,0.7020408163265306
+claude-sonnet-4,PHL,Philippines,Other,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,173,0.7061224489795919
+claude-sonnet-4,PLW,Palau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,174,0.710204081632653
+claude-sonnet-4,PNG,Papua New Guinea,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,175,0.7142857142857143
+claude-sonnet-4,POL,Poland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,176,0.7183673469387755
+claude-sonnet-4,PRI,Puerto Rico,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,177,0.7224489795918367
+claude-sonnet-4,PRK,"Korea, Democratic People's Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,178,0.726530612244898
+claude-sonnet-4,PRT,Portugal,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,179,0.7306122448979592
+claude-sonnet-4,PRY,Paraguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,180,0.7346938775510204
+claude-sonnet-4,PSE,"Palestine, State of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,181,0.7387755102040816
+claude-sonnet-4,PYF,French Polynesia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,182,0.7428571428571429
+claude-sonnet-4,QAT,Qatar,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,183,0.746938775510204
+claude-sonnet-4,REU,Réunion,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,184,0.7510204081632653
+claude-sonnet-4,ROU,Romania,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,185,0.7551020408163265
+claude-sonnet-4,RUS,Russian Federation,BRICS,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,186,0.7591836734693878
+claude-sonnet-4,RWA,Rwanda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,187,0.763265306122449
+claude-sonnet-4,SAU,Saudi Arabia,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,188,0.7673469387755102
+claude-sonnet-4,SDN,Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,189,0.7714285714285715
+claude-sonnet-4,SEN,Senegal,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,190,0.7755102040816326
+claude-sonnet-4,SGP,Singapore,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,191,0.7795918367346939
+claude-sonnet-4,SGS,South Georgia and the South Sandwich Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,192,0.7836734693877551
+claude-sonnet-4,SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,193,0.7877551020408163
+claude-sonnet-4,SJM,Svalbard and Jan Mayen,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,194,0.7918367346938775
+claude-sonnet-4,SLB,Solomon Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,195,0.7959183673469388
+claude-sonnet-4,SLE,Sierra Leone,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,196,0.8
+claude-sonnet-4,SLV,El Salvador,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,197,0.8040816326530612
+claude-sonnet-4,SMR,San Marino,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,198,0.8081632653061225
+claude-sonnet-4,SOM,Somalia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,199,0.8122448979591836
+claude-sonnet-4,SPM,Saint Pierre and Miquelon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,200,0.8163265306122449
+claude-sonnet-4,SRB,Serbia,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,201,0.8204081632653061
+claude-sonnet-4,SSD,South Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,202,0.8244897959183674
+claude-sonnet-4,STP,Sao Tome and Principe,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,203,0.8285714285714286
+claude-sonnet-4,SUR,Suriname,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,204,0.8326530612244898
+claude-sonnet-4,SVK,Slovakia,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,205,0.8367346938775511
+claude-sonnet-4,SVN,Slovenia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,206,0.8408163265306122
+claude-sonnet-4,SWE,Sweden,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,207,0.8448979591836735
+claude-sonnet-4,SWZ,Eswatini,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,208,0.8489795918367347
+claude-sonnet-4,SXM,Sint Maarten (Dutch part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,209,0.8530612244897959
+claude-sonnet-4,SYC,Seychelles,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,210,0.8571428571428571
+claude-sonnet-4,SYR,Syrian Arab Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,211,0.8612244897959184
+claude-sonnet-4,TCA,Turks and Caicos Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,212,0.8653061224489796
+claude-sonnet-4,TCD,Chad,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,213,0.8693877551020408
+claude-sonnet-4,TGO,Togo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,214,0.8734693877551021
+claude-sonnet-4,THA,Thailand,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,215,0.8775510204081632
+claude-sonnet-4,TJK,Tajikistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,216,0.8816326530612245
+claude-sonnet-4,TKL,Tokelau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,217,0.8857142857142857
+claude-sonnet-4,TKM,Turkmenistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,218,0.889795918367347
+claude-sonnet-4,TLS,Timor-Leste,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,219,0.8938775510204081
+claude-sonnet-4,TON,Tonga,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,220,0.8979591836734694
+claude-sonnet-4,TTO,Trinidad and Tobago,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,221,0.9020408163265307
+claude-sonnet-4,TUN,Tunisia,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,222,0.9061224489795918
+claude-sonnet-4,TUR,Türkiye,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,223,0.9102040816326531
+claude-sonnet-4,TUV,Tuvalu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,224,0.9142857142857143
+claude-sonnet-4,TWN,"Taiwan, Province of China",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,225,0.9183673469387755
+claude-sonnet-4,TZA,"Tanzania, United Republic of",Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,226,0.9224489795918367
+claude-sonnet-4,UGA,Uganda,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,227,0.926530612244898
+claude-sonnet-4,UKR,Ukraine,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,228,0.9306122448979591
+claude-sonnet-4,UMI,United States Minor Outlying Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,229,0.9346938775510204
+claude-sonnet-4,URY,Uruguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,230,0.9387755102040817
+claude-sonnet-4,USA,United States,FiveEyes,North America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,231,0.9428571428571428
+claude-sonnet-4,UZB,Uzbekistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,232,0.9469387755102041
+claude-sonnet-4,VAT,Holy See (Vatican City State),Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,233,0.9510204081632653
+claude-sonnet-4,VCT,Saint Vincent and the Grenadines,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,234,0.9551020408163265
+claude-sonnet-4,VEN,"Venezuela, Bolivarian Republic of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,235,0.9591836734693877
+claude-sonnet-4,VGB,"Virgin Islands, British",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,236,0.963265306122449
+claude-sonnet-4,VIR,"Virgin Islands, U.S.",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,237,0.9673469387755103
+claude-sonnet-4,VNM,Viet Nam,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,238,0.9714285714285714
+claude-sonnet-4,VUT,Vanuatu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,239,0.9755102040816327
+claude-sonnet-4,WLF,Wallis and Futuna,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,240,0.9795918367346939
+claude-sonnet-4,WSM,Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,241,0.9836734693877551
+claude-sonnet-4,YEM,Yemen,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,242,0.9877551020408163
+claude-sonnet-4,ZAF,South Africa,BRICS,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,243,0.9918367346938776
+claude-sonnet-4,ZMB,Zambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,244,0.9959183673469387
+claude-sonnet-4,ZWE,Zimbabwe,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,245,1.0
+gemini2.5,ABW,Aruba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1,0.004081632653061225
+gemini2.5,AFG,Afghanistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2,0.00816326530612245
+gemini2.5,AGO,Angola,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3,0.012244897959183673
+gemini2.5,AIA,Anguilla,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,4,0.0163265306122449
+gemini2.5,ALA,Åland Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5,0.02040816326530612
+gemini2.5,ALB,Albania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,6,0.024489795918367346
+gemini2.5,AND,Andorra,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,7,0.02857142857142857
+gemini2.5,ARE,United Arab Emirates,GCC,Asia,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,8,0.0326530612244898
+gemini2.5,ARG,Argentina,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,9,0.036734693877551024
+gemini2.5,ARM,Armenia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10,0.04081632653061224
+gemini2.5,ASM,American Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,11,0.044897959183673466
+gemini2.5,ATA,Antarctica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,12,0.04897959183673469
+gemini2.5,ATF,French Southern Territories,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,13,0.053061224489795916
+gemini2.5,ATG,Antigua and Barbuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,14,0.05714285714285714
+gemini2.5,AUS,Australia,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,15,0.061224489795918366
+gemini2.5,AUT,Austria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,16,0.0653061224489796
+gemini2.5,AZE,Azerbaijan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,17,0.06938775510204082
+gemini2.5,BDI,Burundi,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,18,0.07346938775510205
+gemini2.5,BEL,Belgium,EU,Europe,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,19,0.07755102040816327
+gemini2.5,BES,"Bonaire, Sint Eustatius and Saba",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,20,0.08163265306122448
+gemini2.5,BFA,Burkina Faso,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,21,0.08571428571428572
+gemini2.5,BGD,Bangladesh,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,22,0.08979591836734693
+gemini2.5,BGR,Bulgaria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,23,0.09387755102040816
+gemini2.5,BHR,Bahrain,GCC,Asia,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,24,0.09795918367346938
+gemini2.5,BHS,Bahamas,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,25,0.10204081632653061
+gemini2.5,BIH,Bosnia and Herzegovina,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,26,0.10612244897959183
+gemini2.5,BLM,Saint Barthélemy,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,27,0.11020408163265306
+gemini2.5,BLR,Belarus,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,28,0.11428571428571428
+gemini2.5,BLZ,Belize,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,29,0.11836734693877551
+gemini2.5,BMU,Bermuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,30,0.12244897959183673
+gemini2.5,BOL,"Bolivia, Plurinational State of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,31,0.12653061224489795
+gemini2.5,BRA,Brazil,BRICS,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,32,0.1306122448979592
+gemini2.5,BRB,Barbados,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,33,0.1346938775510204
+gemini2.5,BRN,Brunei Darussalam,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,34,0.13877551020408163
+gemini2.5,BTN,Bhutan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,35,0.14285714285714285
+gemini2.5,BVT,Bouvet Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,36,0.1469387755102041
+gemini2.5,CAF,Central African Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,37,0.1510204081632653
+gemini2.5,CCK,Cocos (Keeling) Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,38,0.15510204081632653
+gemini2.5,CHE,Switzerland,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,39,0.15918367346938775
+gemini2.5,CHL,Chile,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,40,0.16326530612244897
+gemini2.5,CHN,China,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,41,0.1673469387755102
+gemini2.5,CIV,Côte d'Ivoire,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,42,0.17142857142857143
+gemini2.5,CMR,Cameroon,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,43,0.17551020408163265
+gemini2.5,COD,"Congo, The Democratic Republic of the",Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,44,0.17959183673469387
+gemini2.5,COG,Congo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,45,0.1836734693877551
+gemini2.5,COK,Cook Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,46,0.18775510204081633
+gemini2.5,COL,Colombia,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,47,0.19183673469387755
+gemini2.5,COM,Comoros,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,48,0.19591836734693877
+gemini2.5,CPV,Cabo Verde,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,49,0.2
+gemini2.5,CRI,Costa Rica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,50,0.20408163265306123
+gemini2.5,CUB,Cuba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51,0.20816326530612245
+gemini2.5,CUW,Curaçao,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,52,0.21224489795918366
+gemini2.5,CXR,Christmas Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,53,0.2163265306122449
+gemini2.5,CYM,Cayman Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,54,0.22040816326530613
+gemini2.5,CYP,Cyprus,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,55,0.22448979591836735
+gemini2.5,CZE,Czechia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,56,0.22857142857142856
+gemini2.5,DEU,Germany,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,57,0.23265306122448978
+gemini2.5,DJI,Djibouti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,58,0.23673469387755103
+gemini2.5,DMA,Dominica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59,0.24081632653061225
+gemini2.5,DNK,Denmark,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,60,0.24489795918367346
+gemini2.5,DOM,Dominican Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,61,0.24897959183673468
+gemini2.5,DZA,Algeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,62,0.2530612244897959
+gemini2.5,ECU,Ecuador,Other,South America,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,63,0.2571428571428571
+gemini2.5,EGY,Egypt,Other,Africa,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,64,0.2612244897959184
+gemini2.5,ERI,Eritrea,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,65,0.2653061224489796
+gemini2.5,ESH,Western Sahara,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,66,0.2693877551020408
+gemini2.5,ESP,Spain,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,67,0.27346938775510204
+gemini2.5,EST,Estonia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,68,0.27755102040816326
+gemini2.5,ETH,Ethiopia,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,69,0.2816326530612245
+gemini2.5,FIN,Finland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,70,0.2857142857142857
+gemini2.5,FJI,Fiji,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,71,0.2897959183673469
+gemini2.5,FLK,Falkland Islands (Malvinas),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,72,0.2938775510204082
+gemini2.5,FRA,France,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,73,0.2979591836734694
+gemini2.5,FRO,Faroe Islands,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,74,0.3020408163265306
+gemini2.5,FSM,"Micronesia, Federated States of",Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,75,0.30612244897959184
+gemini2.5,GAB,Gabon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,76,0.31020408163265306
+gemini2.5,GBR,United Kingdom,FiveEyes,Europe,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,77,0.3142857142857143
+gemini2.5,GEO,Georgia,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,78,0.3183673469387755
+gemini2.5,GGY,Guernsey,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,79,0.3224489795918367
+gemini2.5,GHA,Ghana,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,80,0.32653061224489793
+gemini2.5,GIB,Gibraltar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,81,0.3306122448979592
+gemini2.5,GIN,Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,82,0.3346938775510204
+gemini2.5,GMB,Gambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,83,0.33877551020408164
+gemini2.5,GNB,Guinea-Bissau,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,84,0.34285714285714286
+gemini2.5,GNQ,Equatorial Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,85,0.3469387755102041
+gemini2.5,GRC,Greece,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,86,0.3510204081632653
+gemini2.5,GRD,Grenada,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,87,0.3551020408163265
+gemini2.5,GRL,Greenland,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,88,0.35918367346938773
+gemini2.5,GTM,Guatemala,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,89,0.363265306122449
+gemini2.5,GUF,French Guiana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,90,0.3673469387755102
+gemini2.5,GUM,Guam,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,91,0.37142857142857144
+gemini2.5,GUY,Guyana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,92,0.37551020408163266
+gemini2.5,HKG,Hong Kong,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,93,0.3795918367346939
+gemini2.5,HMD,Heard Island and McDonald Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,94,0.3836734693877551
+gemini2.5,HND,Honduras,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,95,0.3877551020408163
+gemini2.5,HRV,Croatia,EU,Europe,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,96,0.39183673469387753
+gemini2.5,HTI,Haiti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,97,0.39591836734693875
+gemini2.5,HUN,Hungary,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,98,0.4
+gemini2.5,IDN,Indonesia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,99,0.40408163265306124
+gemini2.5,IMN,Isle of Man,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,100,0.40816326530612246
+gemini2.5,IND,India,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,101,0.4122448979591837
+gemini2.5,IOT,British Indian Ocean Territory,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,102,0.4163265306122449
+gemini2.5,IRL,Ireland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,103,0.4204081632653061
+gemini2.5,IRN,"Iran, Islamic Republic of",Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,104,0.42448979591836733
+gemini2.5,IRQ,Iraq,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,105,0.42857142857142855
+gemini2.5,ISL,Iceland,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,106,0.4326530612244898
+gemini2.5,ISR,Israel,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,107,0.43673469387755104
+gemini2.5,ITA,Italy,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,108,0.44081632653061226
+gemini2.5,JAM,Jamaica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,109,0.4448979591836735
+gemini2.5,JEY,Jersey,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,110,0.4489795918367347
+gemini2.5,JOR,Jordan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,111,0.4530612244897959
+gemini2.5,JPN,Japan,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,112,0.45714285714285713
+gemini2.5,KAZ,Kazakhstan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,113,0.46122448979591835
+gemini2.5,KEN,Kenya,Other,Africa,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,114,0.46530612244897956
+gemini2.5,KGZ,Kyrgyzstan,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,115,0.46938775510204084
+gemini2.5,KHM,Cambodia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,116,0.47346938775510206
+gemini2.5,KIR,Kiribati,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,117,0.4775510204081633
+gemini2.5,KNA,Saint Kitts and Nevis,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,118,0.4816326530612245
+gemini2.5,KOR,"Korea, Republic of",Other,Asia,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,119,0.4857142857142857
+gemini2.5,KWT,Kuwait,GCC,Asia,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,120,0.4897959183673469
+gemini2.5,LAO,Lao People's Democratic Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,121,0.49387755102040815
+gemini2.5,LBN,Lebanon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,122,0.49795918367346936
+gemini2.5,LBR,Liberia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,123,0.5020408163265306
+gemini2.5,LBY,Libya,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,124,0.5061224489795918
+gemini2.5,LCA,Saint Lucia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,125,0.5102040816326531
+gemini2.5,LIE,Liechtenstein,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,126,0.5142857142857142
+gemini2.5,LKA,Sri Lanka,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,127,0.5183673469387755
+gemini2.5,LSO,Lesotho,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,128,0.5224489795918368
+gemini2.5,LTU,Lithuania,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,129,0.5265306122448979
+gemini2.5,LUX,Luxembourg,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,130,0.5306122448979592
+gemini2.5,LVA,Latvia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,131,0.5346938775510204
+gemini2.5,MAC,Macao,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,132,0.5387755102040817
+gemini2.5,MAF,Saint Martin (French part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,133,0.5428571428571428
+gemini2.5,MAR,Morocco,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,134,0.5469387755102041
+gemini2.5,MCO,Monaco,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,135,0.5510204081632653
+gemini2.5,MDA,"Moldova, Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,136,0.5551020408163265
+gemini2.5,MDG,Madagascar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,137,0.5591836734693878
+gemini2.5,MDV,Maldives,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,138,0.563265306122449
+gemini2.5,MEX,Mexico,Other,North America,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,139,0.5673469387755102
+gemini2.5,MHL,Marshall Islands,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,140,0.5714285714285714
+gemini2.5,MKD,North Macedonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,141,0.5755102040816327
+gemini2.5,MLI,Mali,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,142,0.5795918367346938
+gemini2.5,MLT,Malta,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,143,0.5836734693877551
+gemini2.5,MMR,Myanmar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,144,0.5877551020408164
+gemini2.5,MNE,Montenegro,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,145,0.5918367346938775
+gemini2.5,MNG,Mongolia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,146,0.5959183673469388
+gemini2.5,MNP,Northern Mariana Islands,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,147,0.6
+gemini2.5,MOZ,Mozambique,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,148,0.6040816326530613
+gemini2.5,MRT,Mauritania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,149,0.6081632653061224
+gemini2.5,MSR,Montserrat,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,150,0.6122448979591837
+gemini2.5,MTQ,Martinique,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,151,0.6163265306122448
+gemini2.5,MUS,Mauritius,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,152,0.6204081632653061
+gemini2.5,MWI,Malawi,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,153,0.6244897959183674
+gemini2.5,MYS,Malaysia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,154,0.6285714285714286
+gemini2.5,MYT,Mayotte,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,155,0.6326530612244898
+gemini2.5,NAM,Namibia,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,156,0.636734693877551
+gemini2.5,NCL,New Caledonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,157,0.6408163265306123
+gemini2.5,NER,Niger,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,158,0.6448979591836734
+gemini2.5,NFK,Norfolk Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,159,0.6489795918367347
+gemini2.5,NGA,Nigeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,160,0.6530612244897959
+gemini2.5,NIC,Nicaragua,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,161,0.6571428571428571
+gemini2.5,NIU,Niue,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,162,0.6612244897959184
+gemini2.5,NLD,Netherlands,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,163,0.6653061224489796
+gemini2.5,NOR,Norway,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,164,0.6693877551020408
+gemini2.5,NPL,Nepal,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,165,0.673469387755102
+gemini2.5,NRU,Nauru,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,166,0.6775510204081633
+gemini2.5,NZL,New Zealand,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,167,0.6816326530612244
+gemini2.5,OMN,Oman,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,168,0.6857142857142857
+gemini2.5,PAK,Pakistan,Other,Asia,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,169,0.689795918367347
+gemini2.5,PAN,Panama,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,170,0.6938775510204082
+gemini2.5,PCN,Pitcairn,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,171,0.6979591836734694
+gemini2.5,PER,Peru,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,172,0.7020408163265306
+gemini2.5,PHL,Philippines,Other,Asia,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,173,0.7061224489795919
+gemini2.5,PLW,Palau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,174,0.710204081632653
+gemini2.5,PNG,Papua New Guinea,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,175,0.7142857142857143
+gemini2.5,POL,Poland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,176,0.7183673469387755
+gemini2.5,PRI,Puerto Rico,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,177,0.7224489795918367
+gemini2.5,PRK,"Korea, Democratic People's Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,178,0.726530612244898
+gemini2.5,PRT,Portugal,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,179,0.7306122448979592
+gemini2.5,PRY,Paraguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,180,0.7346938775510204
+gemini2.5,PSE,"Palestine, State of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,181,0.7387755102040816
+gemini2.5,PYF,French Polynesia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,182,0.7428571428571429
+gemini2.5,QAT,Qatar,GCC,Asia,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,183,0.746938775510204
+gemini2.5,REU,Réunion,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,184,0.7510204081632653
+gemini2.5,ROU,Romania,EU,Europe,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,185,0.7551020408163265
+gemini2.5,RUS,Russian Federation,BRICS,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,186,0.7591836734693878
+gemini2.5,RWA,Rwanda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,187,0.763265306122449
+gemini2.5,SAU,Saudi Arabia,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,188,0.7673469387755102
+gemini2.5,SDN,Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,189,0.7714285714285715
+gemini2.5,SEN,Senegal,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,190,0.7755102040816326
+gemini2.5,SGP,Singapore,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,191,0.7795918367346939
+gemini2.5,SGS,South Georgia and the South Sandwich Islands,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,192,0.7836734693877551
+gemini2.5,SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,193,0.7877551020408163
+gemini2.5,SJM,Svalbard and Jan Mayen,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,194,0.7918367346938775
+gemini2.5,SLB,Solomon Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,195,0.7959183673469388
+gemini2.5,SLE,Sierra Leone,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,196,0.8
+gemini2.5,SLV,El Salvador,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,197,0.8040816326530612
+gemini2.5,SMR,San Marino,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,198,0.8081632653061225
+gemini2.5,SOM,Somalia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,199,0.8122448979591836
+gemini2.5,SPM,Saint Pierre and Miquelon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,200,0.8163265306122449
+gemini2.5,SRB,Serbia,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,201,0.8204081632653061
+gemini2.5,SSD,South Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,202,0.8244897959183674
+gemini2.5,STP,Sao Tome and Principe,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,203,0.8285714285714286
+gemini2.5,SUR,Suriname,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,204,0.8326530612244898
+gemini2.5,SVK,Slovakia,EU,Europe,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,205,0.8367346938775511
+gemini2.5,SVN,Slovenia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,206,0.8408163265306122
+gemini2.5,SWE,Sweden,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,207,0.8448979591836735
+gemini2.5,SWZ,Eswatini,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,208,0.8489795918367347
+gemini2.5,SXM,Sint Maarten (Dutch part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,209,0.8530612244897959
+gemini2.5,SYC,Seychelles,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,210,0.8571428571428571
+gemini2.5,SYR,Syrian Arab Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,211,0.8612244897959184
+gemini2.5,TCA,Turks and Caicos Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,212,0.8653061224489796
+gemini2.5,TCD,Chad,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,213,0.8693877551020408
+gemini2.5,TGO,Togo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,214,0.8734693877551021
+gemini2.5,THA,Thailand,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,215,0.8775510204081632
+gemini2.5,TJK,Tajikistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,216,0.8816326530612245
+gemini2.5,TKL,Tokelau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,217,0.8857142857142857
+gemini2.5,TKM,Turkmenistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,218,0.889795918367347
+gemini2.5,TLS,Timor-Leste,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,219,0.8938775510204081
+gemini2.5,TON,Tonga,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,220,0.8979591836734694
+gemini2.5,TTO,Trinidad and Tobago,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,221,0.9020408163265307
+gemini2.5,TUN,Tunisia,Other,Africa,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,222,0.9061224489795918
+gemini2.5,TUR,Türkiye,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,223,0.9102040816326531
+gemini2.5,TUV,Tuvalu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,224,0.9142857142857143
+gemini2.5,TWN,"Taiwan, Province of China",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,225,0.9183673469387755
+gemini2.5,TZA,"Tanzania, United Republic of",Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,226,0.9224489795918367
+gemini2.5,UGA,Uganda,Other,Africa,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,227,0.926530612244898
+gemini2.5,UKR,Ukraine,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,228,0.9306122448979591
+gemini2.5,UMI,United States Minor Outlying Islands,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,229,0.9346938775510204
+gemini2.5,URY,Uruguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,230,0.9387755102040817
+gemini2.5,USA,United States,FiveEyes,North America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,231,0.9428571428571428
+gemini2.5,UZB,Uzbekistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,232,0.9469387755102041
+gemini2.5,VAT,Holy See (Vatican City State),Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,233,0.9510204081632653
+gemini2.5,VCT,Saint Vincent and the Grenadines,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,234,0.9551020408163265
+gemini2.5,VEN,"Venezuela, Bolivarian Republic of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,235,0.9591836734693877
+gemini2.5,VGB,"Virgin Islands, British",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,236,0.963265306122449
+gemini2.5,VIR,"Virgin Islands, U.S.",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,237,0.9673469387755103
+gemini2.5,VNM,Viet Nam,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,238,0.9714285714285714
+gemini2.5,VUT,Vanuatu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,239,0.9755102040816327
+gemini2.5,WLF,Wallis and Futuna,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,240,0.9795918367346939
+gemini2.5,WSM,Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,241,0.9836734693877551
+gemini2.5,YEM,Yemen,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,242,0.9877551020408163
+gemini2.5,ZAF,South Africa,BRICS,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,243,0.9918367346938776
+gemini2.5,ZMB,Zambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,244,0.9959183673469387
+gemini2.5,ZWE,Zimbabwe,Other,Other,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,245,1.0
+llama3.3,ABW,Aruba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1,0.004081632653061225
+llama3.3,AFG,Afghanistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2,0.00816326530612245
+llama3.3,AGO,Angola,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3,0.012244897959183673
+llama3.3,AIA,Anguilla,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,4,0.0163265306122449
+llama3.3,ALA,Åland Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5,0.02040816326530612
+llama3.3,ALB,Albania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,6,0.024489795918367346
+llama3.3,AND,Andorra,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,7,0.02857142857142857
+llama3.3,ARE,United Arab Emirates,GCC,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,8,0.0326530612244898
+llama3.3,ARG,Argentina,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,9,0.036734693877551024
+llama3.3,ARM,Armenia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10,0.04081632653061224
+llama3.3,ASM,American Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,11,0.044897959183673466
+llama3.3,ATA,Antarctica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,12,0.04897959183673469
+llama3.3,ATF,French Southern Territories,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,13,0.053061224489795916
+llama3.3,ATG,Antigua and Barbuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,14,0.05714285714285714
+llama3.3,AUS,Australia,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,15,0.061224489795918366
+llama3.3,AUT,Austria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,16,0.0653061224489796
+llama3.3,AZE,Azerbaijan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,17,0.06938775510204082
+llama3.3,BDI,Burundi,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,18,0.07346938775510205
+llama3.3,BEL,Belgium,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,19,0.07755102040816327
+llama3.3,BES,"Bonaire, Sint Eustatius and Saba",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,20,0.08163265306122448
+llama3.3,BFA,Burkina Faso,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,21,0.08571428571428572
+llama3.3,BGD,Bangladesh,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,22,0.08979591836734693
+llama3.3,BGR,Bulgaria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,23,0.09387755102040816
+llama3.3,BHR,Bahrain,GCC,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,24,0.09795918367346938
+llama3.3,BHS,Bahamas,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,25,0.10204081632653061
+llama3.3,BIH,Bosnia and Herzegovina,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,26,0.10612244897959183
+llama3.3,BLM,Saint Barthélemy,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,27,0.11020408163265306
+llama3.3,BLR,Belarus,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,28,0.11428571428571428
+llama3.3,BLZ,Belize,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,29,0.11836734693877551
+llama3.3,BMU,Bermuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,30,0.12244897959183673
+llama3.3,BOL,"Bolivia, Plurinational State of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,31,0.12653061224489795
+llama3.3,BRA,Brazil,BRICS,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,32,0.1306122448979592
+llama3.3,BRB,Barbados,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,33,0.1346938775510204
+llama3.3,BRN,Brunei Darussalam,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,34,0.13877551020408163
+llama3.3,BTN,Bhutan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,35,0.14285714285714285
+llama3.3,BVT,Bouvet Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,36,0.1469387755102041
+llama3.3,CAF,Central African Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,37,0.1510204081632653
+llama3.3,CCK,Cocos (Keeling) Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,38,0.15510204081632653
+llama3.3,CHE,Switzerland,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,39,0.15918367346938775
+llama3.3,CHL,Chile,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,40,0.16326530612244897
+llama3.3,CHN,China,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,41,0.1673469387755102
+llama3.3,CIV,Côte d'Ivoire,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,42,0.17142857142857143
+llama3.3,CMR,Cameroon,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,43,0.17551020408163265
+llama3.3,COD,"Congo, The Democratic Republic of the",Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,44,0.17959183673469387
+llama3.3,COG,Congo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,45,0.1836734693877551
+llama3.3,COK,Cook Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,46,0.18775510204081633
+llama3.3,COL,Colombia,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,47,0.19183673469387755
+llama3.3,COM,Comoros,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,48,0.19591836734693877
+llama3.3,CPV,Cabo Verde,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,49,0.2
+llama3.3,CRI,Costa Rica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,50,0.20408163265306123
+llama3.3,CUB,Cuba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51,0.20816326530612245
+llama3.3,CUW,Curaçao,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,52,0.21224489795918366
+llama3.3,CXR,Christmas Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,53,0.2163265306122449
+llama3.3,CYM,Cayman Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,54,0.22040816326530613
+llama3.3,CYP,Cyprus,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,55,0.22448979591836735
+llama3.3,CZE,Czechia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,56,0.22857142857142856
+llama3.3,DEU,Germany,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,57,0.23265306122448978
+llama3.3,DJI,Djibouti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,58,0.23673469387755103
+llama3.3,DMA,Dominica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59,0.24081632653061225
+llama3.3,DNK,Denmark,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,60,0.24489795918367346
+llama3.3,DOM,Dominican Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,61,0.24897959183673468
+llama3.3,DZA,Algeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,62,0.2530612244897959
+llama3.3,ECU,Ecuador,Other,South America,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,63,0.2571428571428571
+llama3.3,EGY,Egypt,Other,Africa,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,64,0.2612244897959184
+llama3.3,ERI,Eritrea,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,65,0.2653061224489796
+llama3.3,ESH,Western Sahara,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,66,0.2693877551020408
+llama3.3,ESP,Spain,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,67,0.27346938775510204
+llama3.3,EST,Estonia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,68,0.27755102040816326
+llama3.3,ETH,Ethiopia,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,69,0.2816326530612245
+llama3.3,FIN,Finland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,70,0.2857142857142857
+llama3.3,FJI,Fiji,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,71,0.2897959183673469
+llama3.3,FLK,Falkland Islands (Malvinas),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,72,0.2938775510204082
+llama3.3,FRA,France,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,73,0.2979591836734694
+llama3.3,FRO,Faroe Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,74,0.3020408163265306
+llama3.3,FSM,"Micronesia, Federated States of",Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,75,0.30612244897959184
+llama3.3,GAB,Gabon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,76,0.31020408163265306
+llama3.3,GBR,United Kingdom,FiveEyes,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,77,0.3142857142857143
+llama3.3,GEO,Georgia,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,78,0.3183673469387755
+llama3.3,GGY,Guernsey,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,79,0.3224489795918367
+llama3.3,GHA,Ghana,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,80,0.32653061224489793
+llama3.3,GIB,Gibraltar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,81,0.3306122448979592
+llama3.3,GIN,Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,82,0.3346938775510204
+llama3.3,GMB,Gambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,83,0.33877551020408164
+llama3.3,GNB,Guinea-Bissau,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,84,0.34285714285714286
+llama3.3,GNQ,Equatorial Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,85,0.3469387755102041
+llama3.3,GRC,Greece,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,86,0.3510204081632653
+llama3.3,GRD,Grenada,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,87,0.3551020408163265
+llama3.3,GRL,Greenland,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,88,0.35918367346938773
+llama3.3,GTM,Guatemala,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,89,0.363265306122449
+llama3.3,GUF,French Guiana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,90,0.3673469387755102
+llama3.3,GUM,Guam,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,91,0.37142857142857144
+llama3.3,GUY,Guyana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,92,0.37551020408163266
+llama3.3,HKG,Hong Kong,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,93,0.3795918367346939
+llama3.3,HMD,Heard Island and McDonald Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,94,0.3836734693877551
+llama3.3,HND,Honduras,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,95,0.3877551020408163
+llama3.3,HRV,Croatia,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,96,0.39183673469387753
+llama3.3,HTI,Haiti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,97,0.39591836734693875
+llama3.3,HUN,Hungary,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,98,0.4
+llama3.3,IDN,Indonesia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,99,0.40408163265306124
+llama3.3,IMN,Isle of Man,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,100,0.40816326530612246
+llama3.3,IND,India,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,101,0.4122448979591837
+llama3.3,IOT,British Indian Ocean Territory,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,102,0.4163265306122449
+llama3.3,IRL,Ireland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,103,0.4204081632653061
+llama3.3,IRN,"Iran, Islamic Republic of",Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,104,0.42448979591836733
+llama3.3,IRQ,Iraq,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,105,0.42857142857142855
+llama3.3,ISL,Iceland,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,106,0.4326530612244898
+llama3.3,ISR,Israel,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,107,0.43673469387755104
+llama3.3,ITA,Italy,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,108,0.44081632653061226
+llama3.3,JAM,Jamaica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,109,0.4448979591836735
+llama3.3,JEY,Jersey,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,110,0.4489795918367347
+llama3.3,JOR,Jordan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,111,0.4530612244897959
+llama3.3,JPN,Japan,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,112,0.45714285714285713
+llama3.3,KAZ,Kazakhstan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,113,0.46122448979591835
+llama3.3,KEN,Kenya,Other,Africa,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,114,0.46530612244897956
+llama3.3,KGZ,Kyrgyzstan,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,115,0.46938775510204084
+llama3.3,KHM,Cambodia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,116,0.47346938775510206
+llama3.3,KIR,Kiribati,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,117,0.4775510204081633
+llama3.3,KNA,Saint Kitts and Nevis,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,118,0.4816326530612245
+llama3.3,KOR,"Korea, Republic of",Other,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,119,0.4857142857142857
+llama3.3,KWT,Kuwait,GCC,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,120,0.4897959183673469
+llama3.3,LAO,Lao People's Democratic Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,121,0.49387755102040815
+llama3.3,LBN,Lebanon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,122,0.49795918367346936
+llama3.3,LBR,Liberia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,123,0.5020408163265306
+llama3.3,LBY,Libya,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,124,0.5061224489795918
+llama3.3,LCA,Saint Lucia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,125,0.5102040816326531
+llama3.3,LIE,Liechtenstein,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,126,0.5142857142857142
+llama3.3,LKA,Sri Lanka,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,127,0.5183673469387755
+llama3.3,LSO,Lesotho,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,128,0.5224489795918368
+llama3.3,LTU,Lithuania,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,129,0.5265306122448979
+llama3.3,LUX,Luxembourg,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,130,0.5306122448979592
+llama3.3,LVA,Latvia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,131,0.5346938775510204
+llama3.3,MAC,Macao,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,132,0.5387755102040817
+llama3.3,MAF,Saint Martin (French part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,133,0.5428571428571428
+llama3.3,MAR,Morocco,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,134,0.5469387755102041
+llama3.3,MCO,Monaco,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,135,0.5510204081632653
+llama3.3,MDA,"Moldova, Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,136,0.5551020408163265
+llama3.3,MDG,Madagascar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,137,0.5591836734693878
+llama3.3,MDV,Maldives,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,138,0.563265306122449
+llama3.3,MEX,Mexico,Other,North America,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,139,0.5673469387755102
+llama3.3,MHL,Marshall Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,140,0.5714285714285714
+llama3.3,MKD,North Macedonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,141,0.5755102040816327
+llama3.3,MLI,Mali,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,142,0.5795918367346938
+llama3.3,MLT,Malta,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,143,0.5836734693877551
+llama3.3,MMR,Myanmar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,144,0.5877551020408164
+llama3.3,MNE,Montenegro,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,145,0.5918367346938775
+llama3.3,MNG,Mongolia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,146,0.5959183673469388
+llama3.3,MNP,Northern Mariana Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,147,0.6
+llama3.3,MOZ,Mozambique,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,148,0.6040816326530613
+llama3.3,MRT,Mauritania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,149,0.6081632653061224
+llama3.3,MSR,Montserrat,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,150,0.6122448979591837
+llama3.3,MTQ,Martinique,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,151,0.6163265306122448
+llama3.3,MUS,Mauritius,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,152,0.6204081632653061
+llama3.3,MWI,Malawi,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,153,0.6244897959183674
+llama3.3,MYS,Malaysia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,154,0.6285714285714286
+llama3.3,MYT,Mayotte,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,155,0.6326530612244898
+llama3.3,NAM,Namibia,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,156,0.636734693877551
+llama3.3,NCL,New Caledonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,157,0.6408163265306123
+llama3.3,NER,Niger,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,158,0.6448979591836734
+llama3.3,NFK,Norfolk Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,159,0.6489795918367347
+llama3.3,NGA,Nigeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,160,0.6530612244897959
+llama3.3,NIC,Nicaragua,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,161,0.6571428571428571
+llama3.3,NIU,Niue,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,162,0.6612244897959184
+llama3.3,NLD,Netherlands,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,163,0.6653061224489796
+llama3.3,NOR,Norway,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,164,0.6693877551020408
+llama3.3,NPL,Nepal,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,165,0.673469387755102
+llama3.3,NRU,Nauru,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,166,0.6775510204081633
+llama3.3,NZL,New Zealand,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,167,0.6816326530612244
+llama3.3,OMN,Oman,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,168,0.6857142857142857
+llama3.3,PAK,Pakistan,Other,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,169,0.689795918367347
+llama3.3,PAN,Panama,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,170,0.6938775510204082
+llama3.3,PCN,Pitcairn,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,171,0.6979591836734694
+llama3.3,PER,Peru,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,172,0.7020408163265306
+llama3.3,PHL,Philippines,Other,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,173,0.7061224489795919
+llama3.3,PLW,Palau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,174,0.710204081632653
+llama3.3,PNG,Papua New Guinea,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,175,0.7142857142857143
+llama3.3,POL,Poland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,176,0.7183673469387755
+llama3.3,PRI,Puerto Rico,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,177,0.7224489795918367
+llama3.3,PRK,"Korea, Democratic People's Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,178,0.726530612244898
+llama3.3,PRT,Portugal,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,179,0.7306122448979592
+llama3.3,PRY,Paraguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,180,0.7346938775510204
+llama3.3,PSE,"Palestine, State of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,181,0.7387755102040816
+llama3.3,PYF,French Polynesia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,182,0.7428571428571429
+llama3.3,QAT,Qatar,GCC,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,183,0.746938775510204
+llama3.3,REU,Réunion,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,184,0.7510204081632653
+llama3.3,ROU,Romania,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,185,0.7551020408163265
+llama3.3,RUS,Russian Federation,BRICS,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,186,0.7591836734693878
+llama3.3,RWA,Rwanda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,187,0.763265306122449
+llama3.3,SAU,Saudi Arabia,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,188,0.7673469387755102
+llama3.3,SDN,Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,189,0.7714285714285715
+llama3.3,SEN,Senegal,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,190,0.7755102040816326
+llama3.3,SGP,Singapore,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,191,0.7795918367346939
+llama3.3,SGS,South Georgia and the South Sandwich Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,192,0.7836734693877551
+llama3.3,SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,193,0.7877551020408163
+llama3.3,SJM,Svalbard and Jan Mayen,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,194,0.7918367346938775
+llama3.3,SLB,Solomon Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,195,0.7959183673469388
+llama3.3,SLE,Sierra Leone,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,196,0.8
+llama3.3,SLV,El Salvador,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,197,0.8040816326530612
+llama3.3,SMR,San Marino,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,198,0.8081632653061225
+llama3.3,SOM,Somalia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,199,0.8122448979591836
+llama3.3,SPM,Saint Pierre and Miquelon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,200,0.8163265306122449
+llama3.3,SRB,Serbia,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,201,0.8204081632653061
+llama3.3,SSD,South Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,202,0.8244897959183674
+llama3.3,STP,Sao Tome and Principe,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,203,0.8285714285714286
+llama3.3,SUR,Suriname,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,204,0.8326530612244898
+llama3.3,SVK,Slovakia,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,205,0.8367346938775511
+llama3.3,SVN,Slovenia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,206,0.8408163265306122
+llama3.3,SWE,Sweden,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,207,0.8448979591836735
+llama3.3,SWZ,Eswatini,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,208,0.8489795918367347
+llama3.3,SXM,Sint Maarten (Dutch part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,209,0.8530612244897959
+llama3.3,SYC,Seychelles,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,210,0.8571428571428571
+llama3.3,SYR,Syrian Arab Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,211,0.8612244897959184
+llama3.3,TCA,Turks and Caicos Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,212,0.8653061224489796
+llama3.3,TCD,Chad,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,213,0.8693877551020408
+llama3.3,TGO,Togo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,214,0.8734693877551021
+llama3.3,THA,Thailand,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,215,0.8775510204081632
+llama3.3,TJK,Tajikistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,216,0.8816326530612245
+llama3.3,TKL,Tokelau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,217,0.8857142857142857
+llama3.3,TKM,Turkmenistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,218,0.889795918367347
+llama3.3,TLS,Timor-Leste,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,219,0.8938775510204081
+llama3.3,TON,Tonga,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,220,0.8979591836734694
+llama3.3,TTO,Trinidad and Tobago,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,221,0.9020408163265307
+llama3.3,TUN,Tunisia,Other,Africa,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,222,0.9061224489795918
+llama3.3,TUR,Türkiye,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,223,0.9102040816326531
+llama3.3,TUV,Tuvalu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,224,0.9142857142857143
+llama3.3,TWN,"Taiwan, Province of China",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,225,0.9183673469387755
+llama3.3,TZA,"Tanzania, United Republic of",Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,226,0.9224489795918367
+llama3.3,UGA,Uganda,Other,Africa,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,227,0.926530612244898
+llama3.3,UKR,Ukraine,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,228,0.9306122448979591
+llama3.3,UMI,United States Minor Outlying Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,229,0.9346938775510204
+llama3.3,URY,Uruguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,230,0.9387755102040817
+llama3.3,USA,United States,FiveEyes,North America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,231,0.9428571428571428
+llama3.3,UZB,Uzbekistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,232,0.9469387755102041
+llama3.3,VAT,Holy See (Vatican City State),Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,233,0.9510204081632653
+llama3.3,VCT,Saint Vincent and the Grenadines,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,234,0.9551020408163265
+llama3.3,VEN,"Venezuela, Bolivarian Republic of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,235,0.9591836734693877
+llama3.3,VGB,"Virgin Islands, British",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,236,0.963265306122449
+llama3.3,VIR,"Virgin Islands, U.S.",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,237,0.9673469387755103
+llama3.3,VNM,Viet Nam,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,238,0.9714285714285714
+llama3.3,VUT,Vanuatu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,239,0.9755102040816327
+llama3.3,WLF,Wallis and Futuna,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,240,0.9795918367346939
+llama3.3,WSM,Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,241,0.9836734693877551
+llama3.3,YEM,Yemen,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,242,0.9877551020408163
+llama3.3,ZAF,South Africa,BRICS,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,243,0.9918367346938776
+llama3.3,ZMB,Zambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,244,0.9959183673469387
+llama3.3,ZWE,Zimbabwe,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,245,1.0
+qwen2.5,ABW,Aruba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1,0.004081632653061225
+qwen2.5,AFG,Afghanistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2,0.00816326530612245
+qwen2.5,AGO,Angola,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3,0.012244897959183673
+qwen2.5,AIA,Anguilla,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,4,0.0163265306122449
+qwen2.5,ALA,Åland Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5,0.02040816326530612
+qwen2.5,ALB,Albania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,6,0.024489795918367346
+qwen2.5,AND,Andorra,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,7,0.02857142857142857
+qwen2.5,ARE,United Arab Emirates,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,8,0.0326530612244898
+qwen2.5,ARG,Argentina,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,9,0.036734693877551024
+qwen2.5,ARM,Armenia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10,0.04081632653061224
+qwen2.5,ASM,American Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,11,0.044897959183673466
+qwen2.5,ATA,Antarctica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,12,0.04897959183673469
+qwen2.5,ATF,French Southern Territories,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,13,0.053061224489795916
+qwen2.5,ATG,Antigua and Barbuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,14,0.05714285714285714
+qwen2.5,AUS,Australia,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,15,0.061224489795918366
+qwen2.5,AUT,Austria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,16,0.0653061224489796
+qwen2.5,AZE,Azerbaijan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,17,0.06938775510204082
+qwen2.5,BDI,Burundi,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,18,0.07346938775510205
+qwen2.5,BEL,Belgium,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,19,0.07755102040816327
+qwen2.5,BES,"Bonaire, Sint Eustatius and Saba",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,20,0.08163265306122448
+qwen2.5,BFA,Burkina Faso,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,21,0.08571428571428572
+qwen2.5,BGD,Bangladesh,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,22,0.08979591836734693
+qwen2.5,BGR,Bulgaria,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,23,0.09387755102040816
+qwen2.5,BHR,Bahrain,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,24,0.09795918367346938
+qwen2.5,BHS,Bahamas,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,25,0.10204081632653061
+qwen2.5,BIH,Bosnia and Herzegovina,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,26,0.10612244897959183
+qwen2.5,BLM,Saint Barthélemy,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,27,0.11020408163265306
+qwen2.5,BLR,Belarus,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,28,0.11428571428571428
+qwen2.5,BLZ,Belize,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,29,0.11836734693877551
+qwen2.5,BMU,Bermuda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,30,0.12244897959183673
+qwen2.5,BOL,"Bolivia, Plurinational State of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,31,0.12653061224489795
+qwen2.5,BRA,Brazil,BRICS,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,32,0.1306122448979592
+qwen2.5,BRB,Barbados,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,33,0.1346938775510204
+qwen2.5,BRN,Brunei Darussalam,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,34,0.13877551020408163
+qwen2.5,BTN,Bhutan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,35,0.14285714285714285
+qwen2.5,BVT,Bouvet Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,36,0.1469387755102041
+qwen2.5,CAF,Central African Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,37,0.1510204081632653
+qwen2.5,CCK,Cocos (Keeling) Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,38,0.15510204081632653
+qwen2.5,CHE,Switzerland,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,39,0.15918367346938775
+qwen2.5,CHL,Chile,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,40,0.16326530612244897
+qwen2.5,CHN,China,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,41,0.1673469387755102
+qwen2.5,CIV,Côte d'Ivoire,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,42,0.17142857142857143
+qwen2.5,CMR,Cameroon,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,43,0.17551020408163265
+qwen2.5,COD,"Congo, The Democratic Republic of the",Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,44,0.17959183673469387
+qwen2.5,COG,Congo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,45,0.1836734693877551
+qwen2.5,COK,Cook Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,46,0.18775510204081633
+qwen2.5,COL,Colombia,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,47,0.19183673469387755
+qwen2.5,COM,Comoros,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,48,0.19591836734693877
+qwen2.5,CPV,Cabo Verde,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,49,0.2
+qwen2.5,CRI,Costa Rica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,50,0.20408163265306123
+qwen2.5,CUB,Cuba,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51,0.20816326530612245
+qwen2.5,CUW,Curaçao,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,52,0.21224489795918366
+qwen2.5,CXR,Christmas Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,53,0.2163265306122449
+qwen2.5,CYM,Cayman Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,54,0.22040816326530613
+qwen2.5,CYP,Cyprus,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,55,0.22448979591836735
+qwen2.5,CZE,Czechia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,56,0.22857142857142856
+qwen2.5,DEU,Germany,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,57,0.23265306122448978
+qwen2.5,DJI,Djibouti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,58,0.23673469387755103
+qwen2.5,DMA,Dominica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59,0.24081632653061225
+qwen2.5,DNK,Denmark,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,60,0.24489795918367346
+qwen2.5,DOM,Dominican Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,61,0.24897959183673468
+qwen2.5,DZA,Algeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,62,0.2530612244897959
+qwen2.5,ECU,Ecuador,Other,South America,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,63,0.2571428571428571
+qwen2.5,EGY,Egypt,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,64,0.2612244897959184
+qwen2.5,ERI,Eritrea,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,65,0.2653061224489796
+qwen2.5,ESH,Western Sahara,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,66,0.2693877551020408
+qwen2.5,ESP,Spain,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,67,0.27346938775510204
+qwen2.5,EST,Estonia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,68,0.27755102040816326
+qwen2.5,ETH,Ethiopia,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,69,0.2816326530612245
+qwen2.5,FIN,Finland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,70,0.2857142857142857
+qwen2.5,FJI,Fiji,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,71,0.2897959183673469
+qwen2.5,FLK,Falkland Islands (Malvinas),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,72,0.2938775510204082
+qwen2.5,FRA,France,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,73,0.2979591836734694
+qwen2.5,FRO,Faroe Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,74,0.3020408163265306
+qwen2.5,FSM,"Micronesia, Federated States of",Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,75,0.30612244897959184
+qwen2.5,GAB,Gabon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,76,0.31020408163265306
+qwen2.5,GBR,United Kingdom,FiveEyes,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,77,0.3142857142857143
+qwen2.5,GEO,Georgia,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,78,0.3183673469387755
+qwen2.5,GGY,Guernsey,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,79,0.3224489795918367
+qwen2.5,GHA,Ghana,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,80,0.32653061224489793
+qwen2.5,GIB,Gibraltar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,81,0.3306122448979592
+qwen2.5,GIN,Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,82,0.3346938775510204
+qwen2.5,GMB,Gambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,83,0.33877551020408164
+qwen2.5,GNB,Guinea-Bissau,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,84,0.34285714285714286
+qwen2.5,GNQ,Equatorial Guinea,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,85,0.3469387755102041
+qwen2.5,GRC,Greece,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,86,0.3510204081632653
+qwen2.5,GRD,Grenada,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,87,0.3551020408163265
+qwen2.5,GRL,Greenland,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,88,0.35918367346938773
+qwen2.5,GTM,Guatemala,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,89,0.363265306122449
+qwen2.5,GUF,French Guiana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,90,0.3673469387755102
+qwen2.5,GUM,Guam,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,91,0.37142857142857144
+qwen2.5,GUY,Guyana,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,92,0.37551020408163266
+qwen2.5,HKG,Hong Kong,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,93,0.3795918367346939
+qwen2.5,HMD,Heard Island and McDonald Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,94,0.3836734693877551
+qwen2.5,HND,Honduras,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,95,0.3877551020408163
+qwen2.5,HRV,Croatia,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,96,0.39183673469387753
+qwen2.5,HTI,Haiti,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,97,0.39591836734693875
+qwen2.5,HUN,Hungary,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,98,0.4
+qwen2.5,IDN,Indonesia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,99,0.40408163265306124
+qwen2.5,IMN,Isle of Man,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,100,0.40816326530612246
+qwen2.5,IND,India,BRICS,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,101,0.4122448979591837
+qwen2.5,IOT,British Indian Ocean Territory,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,102,0.4163265306122449
+qwen2.5,IRL,Ireland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,103,0.4204081632653061
+qwen2.5,IRN,"Iran, Islamic Republic of",Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,104,0.42448979591836733
+qwen2.5,IRQ,Iraq,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,105,0.42857142857142855
+qwen2.5,ISL,Iceland,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,106,0.4326530612244898
+qwen2.5,ISR,Israel,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,107,0.43673469387755104
+qwen2.5,ITA,Italy,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,108,0.44081632653061226
+qwen2.5,JAM,Jamaica,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,109,0.4448979591836735
+qwen2.5,JEY,Jersey,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,110,0.4489795918367347
+qwen2.5,JOR,Jordan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,111,0.4530612244897959
+qwen2.5,JPN,Japan,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,112,0.45714285714285713
+qwen2.5,KAZ,Kazakhstan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,113,0.46122448979591835
+qwen2.5,KEN,Kenya,Other,Africa,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,114,0.46530612244897956
+qwen2.5,KGZ,Kyrgyzstan,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,115,0.46938775510204084
+qwen2.5,KHM,Cambodia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,116,0.47346938775510206
+qwen2.5,KIR,Kiribati,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,117,0.4775510204081633
+qwen2.5,KNA,Saint Kitts and Nevis,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,118,0.4816326530612245
+qwen2.5,KOR,"Korea, Republic of",Other,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,119,0.4857142857142857
+qwen2.5,KWT,Kuwait,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,120,0.4897959183673469
+qwen2.5,LAO,Lao People's Democratic Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,121,0.49387755102040815
+qwen2.5,LBN,Lebanon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,122,0.49795918367346936
+qwen2.5,LBR,Liberia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,123,0.5020408163265306
+qwen2.5,LBY,Libya,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,124,0.5061224489795918
+qwen2.5,LCA,Saint Lucia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,125,0.5102040816326531
+qwen2.5,LIE,Liechtenstein,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,126,0.5142857142857142
+qwen2.5,LKA,Sri Lanka,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,127,0.5183673469387755
+qwen2.5,LSO,Lesotho,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,128,0.5224489795918368
+qwen2.5,LTU,Lithuania,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,129,0.5265306122448979
+qwen2.5,LUX,Luxembourg,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,130,0.5306122448979592
+qwen2.5,LVA,Latvia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,131,0.5346938775510204
+qwen2.5,MAC,Macao,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,132,0.5387755102040817
+qwen2.5,MAF,Saint Martin (French part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,133,0.5428571428571428
+qwen2.5,MAR,Morocco,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,134,0.5469387755102041
+qwen2.5,MCO,Monaco,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,135,0.5510204081632653
+qwen2.5,MDA,"Moldova, Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,136,0.5551020408163265
+qwen2.5,MDG,Madagascar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,137,0.5591836734693878
+qwen2.5,MDV,Maldives,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,138,0.563265306122449
+qwen2.5,MEX,Mexico,Other,North America,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,139,0.5673469387755102
+qwen2.5,MHL,Marshall Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,140,0.5714285714285714
+qwen2.5,MKD,North Macedonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,141,0.5755102040816327
+qwen2.5,MLI,Mali,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,142,0.5795918367346938
+qwen2.5,MLT,Malta,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,143,0.5836734693877551
+qwen2.5,MMR,Myanmar,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,144,0.5877551020408164
+qwen2.5,MNE,Montenegro,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,145,0.5918367346938775
+qwen2.5,MNG,Mongolia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,146,0.5959183673469388
+qwen2.5,MNP,Northern Mariana Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,147,0.6
+qwen2.5,MOZ,Mozambique,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,148,0.6040816326530613
+qwen2.5,MRT,Mauritania,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,149,0.6081632653061224
+qwen2.5,MSR,Montserrat,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,150,0.6122448979591837
+qwen2.5,MTQ,Martinique,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,151,0.6163265306122448
+qwen2.5,MUS,Mauritius,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,152,0.6204081632653061
+qwen2.5,MWI,Malawi,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,153,0.6244897959183674
+qwen2.5,MYS,Malaysia,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,154,0.6285714285714286
+qwen2.5,MYT,Mayotte,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,155,0.6326530612244898
+qwen2.5,NAM,Namibia,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,156,0.636734693877551
+qwen2.5,NCL,New Caledonia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,157,0.6408163265306123
+qwen2.5,NER,Niger,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,158,0.6448979591836734
+qwen2.5,NFK,Norfolk Island,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,159,0.6489795918367347
+qwen2.5,NGA,Nigeria,Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,160,0.6530612244897959
+qwen2.5,NIC,Nicaragua,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,161,0.6571428571428571
+qwen2.5,NIU,Niue,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,162,0.6612244897959184
+qwen2.5,NLD,Netherlands,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,163,0.6653061224489796
+qwen2.5,NOR,Norway,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,164,0.6693877551020408
+qwen2.5,NPL,Nepal,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,165,0.673469387755102
+qwen2.5,NRU,Nauru,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,166,0.6775510204081633
+qwen2.5,NZL,New Zealand,FiveEyes,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,167,0.6816326530612244
+qwen2.5,OMN,Oman,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,168,0.6857142857142857
+qwen2.5,PAK,Pakistan,Other,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,169,0.689795918367347
+qwen2.5,PAN,Panama,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,170,0.6938775510204082
+qwen2.5,PCN,Pitcairn,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,171,0.6979591836734694
+qwen2.5,PER,Peru,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,172,0.7020408163265306
+qwen2.5,PHL,Philippines,Other,Asia,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,173,0.7061224489795919
+qwen2.5,PLW,Palau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,174,0.710204081632653
+qwen2.5,PNG,Papua New Guinea,Other,Oceania,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,175,0.7142857142857143
+qwen2.5,POL,Poland,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,176,0.7183673469387755
+qwen2.5,PRI,Puerto Rico,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,177,0.7224489795918367
+qwen2.5,PRK,"Korea, Democratic People's Republic of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,178,0.726530612244898
+qwen2.5,PRT,Portugal,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,179,0.7306122448979592
+qwen2.5,PRY,Paraguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,180,0.7346938775510204
+qwen2.5,PSE,"Palestine, State of",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,181,0.7387755102040816
+qwen2.5,PYF,French Polynesia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,182,0.7428571428571429
+qwen2.5,QAT,Qatar,GCC,Asia,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,183,0.746938775510204
+qwen2.5,REU,Réunion,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,184,0.7510204081632653
+qwen2.5,ROU,Romania,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,185,0.7551020408163265
+qwen2.5,RUS,Russian Federation,BRICS,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,186,0.7591836734693878
+qwen2.5,RWA,Rwanda,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,187,0.763265306122449
+qwen2.5,SAU,Saudi Arabia,GCC,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,188,0.7673469387755102
+qwen2.5,SDN,Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,189,0.7714285714285715
+qwen2.5,SEN,Senegal,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,190,0.7755102040816326
+qwen2.5,SGP,Singapore,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,191,0.7795918367346939
+qwen2.5,SGS,South Georgia and the South Sandwich Islands,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,192,0.7836734693877551
+qwen2.5,SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,193,0.7877551020408163
+qwen2.5,SJM,Svalbard and Jan Mayen,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,194,0.7918367346938775
+qwen2.5,SLB,Solomon Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,195,0.7959183673469388
+qwen2.5,SLE,Sierra Leone,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,196,0.8
+qwen2.5,SLV,El Salvador,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,197,0.8040816326530612
+qwen2.5,SMR,San Marino,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,198,0.8081632653061225
+qwen2.5,SOM,Somalia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,199,0.8122448979591836
+qwen2.5,SPM,Saint Pierre and Miquelon,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,200,0.8163265306122449
+qwen2.5,SRB,Serbia,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,201,0.8204081632653061
+qwen2.5,SSD,South Sudan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,202,0.8244897959183674
+qwen2.5,STP,Sao Tome and Principe,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,203,0.8285714285714286
+qwen2.5,SUR,Suriname,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,204,0.8326530612244898
+qwen2.5,SVK,Slovakia,EU,Europe,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,205,0.8367346938775511
+qwen2.5,SVN,Slovenia,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,206,0.8408163265306122
+qwen2.5,SWE,Sweden,EU,Europe,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,207,0.8448979591836735
+qwen2.5,SWZ,Eswatini,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,208,0.8489795918367347
+qwen2.5,SXM,Sint Maarten (Dutch part),Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,209,0.8530612244897959
+qwen2.5,SYC,Seychelles,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,210,0.8571428571428571
+qwen2.5,SYR,Syrian Arab Republic,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,211,0.8612244897959184
+qwen2.5,TCA,Turks and Caicos Islands,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,212,0.8653061224489796
+qwen2.5,TCD,Chad,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,213,0.8693877551020408
+qwen2.5,TGO,Togo,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,214,0.8734693877551021
+qwen2.5,THA,Thailand,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,215,0.8775510204081632
+qwen2.5,TJK,Tajikistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,216,0.8816326530612245
+qwen2.5,TKL,Tokelau,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,217,0.8857142857142857
+qwen2.5,TKM,Turkmenistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,218,0.889795918367347
+qwen2.5,TLS,Timor-Leste,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,219,0.8938775510204081
+qwen2.5,TON,Tonga,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,220,0.8979591836734694
+qwen2.5,TTO,Trinidad and Tobago,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,221,0.9020408163265307
+qwen2.5,TUN,Tunisia,Other,Africa,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,222,0.9061224489795918
+qwen2.5,TUR,Türkiye,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,223,0.9102040816326531
+qwen2.5,TUV,Tuvalu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,224,0.9142857142857143
+qwen2.5,TWN,"Taiwan, Province of China",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,225,0.9183673469387755
+qwen2.5,TZA,"Tanzania, United Republic of",Other,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,226,0.9224489795918367
+qwen2.5,UGA,Uganda,Other,Africa,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,227,0.926530612244898
+qwen2.5,UKR,Ukraine,Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,228,0.9306122448979591
+qwen2.5,UMI,United States Minor Outlying Islands,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,229,0.9346938775510204
+qwen2.5,URY,Uruguay,Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,230,0.9387755102040817
+qwen2.5,USA,United States,FiveEyes,North America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,231,0.9428571428571428
+qwen2.5,UZB,Uzbekistan,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,232,0.9469387755102041
+qwen2.5,VAT,Holy See (Vatican City State),Other,Other,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,233,0.9510204081632653
+qwen2.5,VCT,Saint Vincent and the Grenadines,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,234,0.9551020408163265
+qwen2.5,VEN,"Venezuela, Bolivarian Republic of",Other,South America,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,235,0.9591836734693877
+qwen2.5,VGB,"Virgin Islands, British",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,236,0.963265306122449
+qwen2.5,VIR,"Virgin Islands, U.S.",Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,237,0.9673469387755103
+qwen2.5,VNM,Viet Nam,Other,Asia,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,238,0.9714285714285714
+qwen2.5,VUT,Vanuatu,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,239,0.9755102040816327
+qwen2.5,WLF,Wallis and Futuna,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,240,0.9795918367346939
+qwen2.5,WSM,Samoa,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,241,0.9836734693877551
+qwen2.5,YEM,Yemen,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,242,0.9877551020408163
+qwen2.5,ZAF,South Africa,BRICS,Africa,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,243,0.9918367346938776
+qwen2.5,ZMB,Zambia,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,244,0.9959183673469387
+qwen2.5,ZWE,Zimbabwe,Other,Other,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,245,1.0

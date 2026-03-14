@@ -1,0 +1,56 @@
+{
+  "timestamp_utc": "2025-10-06T19:58:57Z",
+  "inputs": [
+    "projects.csv",
+    "countries.csv",
+    "runs_to_do.csv"
+  ],
+  "runs_temp0": [
+    "runs_done_openrouter_chatgpt_4o.csv",
+    "runs_done_openrouter_claude_sonnet_4.csv",
+    "runs_done_openrouter_gemini2_5.csv",
+    "runs_done_openrouter_llama3_3.csv",
+    "runs_done_openrouter_qwen2_5.csv"
+  ],
+  "runs_temp02_pilot": [
+    "runs_done_temp02_pilot_chatgpt_4o.csv",
+    "runs_done_temp02_pilot_claude_sonnet_4.csv",
+    "runs_done_temp02_pilot_gemini2_5.csv",
+    "runs_done_temp02_pilot_llama3_3.csv",
+    "runs_done_temp02_pilot_qwen2_5.csv"
+  ],
+  "runs_temp02_targeted": [
+    "runs_done_temp02_targeted_chatgpt_4o.csv",
+    "runs_done_temp02_targeted_claude_sonnet_4.csv",
+    "runs_done_temp02_targeted_gemini2_5.csv",
+    "runs_done_temp02_targeted_llama3_3.csv",
+    "runs_done_temp02_targeted_qwen2_5.csv"
+  ],
+  "headlines": [
+    "agreement_lowest_kappa.csv",
+    "bloc_yes_and_delta.csv",
+    "country_sign_all_negative.csv",
+    "country_sign_all_positive.csv",
+    "country_sign_mixed_wide_range.csv",
+    "country_top10_decreases.csv",
+    "country_top10_increases.csv",
+    "mcnemar_sig_bloc.csv",
+    "mcnemar_sig_region.csv",
+    "region_yes_and_delta.csv",
+    "results.txt",
+    "results_headline_paragraph.txt",
+    "robustness_temp02_pilot_disagreements.csv",
+    "robustness_temp02_pilot_flip_counts.csv",
+    "robustness_temp02_pilot_fragile_countries.csv",
+    "robustness_temp02_pilot_per_model_agreement.csv",
+    "robustness_temp02_pilot_spearman.csv",
+    "robustness_temp02_targeted_disagreements.csv",
+    "robustness_temp02_targeted_flip_counts.csv",
+    "robustness_temp02_targeted_fragile_countries.csv",
+    "robustness_temp02_targeted_paragraph.tex",
+    "robustness_temp02_targeted_per_model_agreement.csv",
+    "robustness_temp02_targeted_spearman.csv",
+    "robustness_temp02_targeted_table.tex",
+    "summary compares model outputs at two temperature.txt"
+  ]
+}

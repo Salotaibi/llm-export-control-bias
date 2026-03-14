@@ -1,0 +1,250 @@
+iso3,country_name,bloc,region
+ABW,Aruba,Other,Other
+AFG,Afghanistan,Other,Asia
+AGO,Angola,Other,Africa
+AIA,Anguilla,Other,North America
+ALA,Åland Islands,Other,Other
+ALB,Albania,Other,Europe
+AND,Andorra,Other,Europe
+ARE,United Arab Emirates,GCC,Asia
+ARG,Argentina,Other,South America
+ARM,Armenia,Other,Asia
+ASM,American Samoa,Other,Oceania
+ATA,Antarctica,Other,Other
+ATF,French Southern Territories,Other,Other
+ATG,Antigua and Barbuda,Other,North America
+AUS,Australia,FiveEyes,Oceania
+AUT,Austria,EU,Europe
+AZE,Azerbaijan,Other,Asia
+BDI,Burundi,Other,Africa
+BEL,Belgium,EU,Europe
+BEN,Benin,Other,Africa
+BES,"Bonaire, Sint Eustatius and Saba",Other,Other
+BFA,Burkina Faso,Other,Africa
+BGD,Bangladesh,Other,Asia
+BGR,Bulgaria,EU,Europe
+BHR,Bahrain,GCC,Asia
+BHS,Bahamas,Other,North America
+BIH,Bosnia and Herzegovina,Other,Europe
+BLM,Saint Barthélemy,Other,Other
+BLR,Belarus,Other,Europe
+BLZ,Belize,Other,North America
+BMU,Bermuda,Other,North America
+BOL,"Bolivia, Plurinational State of",Other,South America
+BRA,Brazil,BRICS,South America
+BRB,Barbados,Other,North America
+BRN,Brunei Darussalam,Other,Asia
+BTN,Bhutan,Other,Asia
+BVT,Bouvet Island,Other,Other
+BWA,Botswana,Other,Africa
+CAF,Central African Republic,Other,Africa
+CAN,Canada,FiveEyes,North America
+CCK,Cocos (Keeling) Islands,Other,Other
+CHE,Switzerland,Other,Europe
+CHL,Chile,Other,South America
+CHN,China,BRICS,Asia
+CIV,Côte d'Ivoire,Other,Africa
+CMR,Cameroon,Other,Africa
+COD,"Congo, The Democratic Republic of the",Other,Other
+COG,Congo,Other,Africa
+COK,Cook Islands,Other,Oceania
+COL,Colombia,Other,South America
+COM,Comoros,Other,Africa
+CPV,Cabo Verde,Other,Africa
+CRI,Costa Rica,Other,North America
+CUB,Cuba,Other,North America
+CUW,Curaçao,Other,North America
+CXR,Christmas Island,Other,Other
+CYM,Cayman Islands,Other,North America
+CYP,Cyprus,EU,Asia
+CZE,Czechia,EU,Europe
+DEU,Germany,EU,Europe
+DJI,Djibouti,Other,Africa
+DMA,Dominica,Other,North America
+DNK,Denmark,EU,Europe
+DOM,Dominican Republic,Other,North America
+DZA,Algeria,Other,Africa
+ECU,Ecuador,Other,South America
+EGY,Egypt,Other,Africa
+ERI,Eritrea,Other,Africa
+ESH,Western Sahara,Other,Africa
+ESP,Spain,EU,Europe
+EST,Estonia,EU,Europe
+ETH,Ethiopia,Other,Africa
+FIN,Finland,EU,Europe
+FJI,Fiji,Other,Oceania
+FLK,Falkland Islands (Malvinas),Other,South America
+FRA,France,EU,Europe
+FRO,Faroe Islands,Other,Europe
+FSM,"Micronesia, Federated States of",Other,Oceania
+GAB,Gabon,Other,Africa
+GBR,United Kingdom,FiveEyes,Europe
+GEO,Georgia,Other,Asia
+GGY,Guernsey,Other,Other
+GHA,Ghana,Other,Africa
+GIB,Gibraltar,Other,Europe
+GIN,Guinea,Other,Africa
+GLP,Guadeloupe,Other,North America
+GMB,Gambia,Other,Africa
+GNB,Guinea-Bissau,Other,Africa
+GNQ,Equatorial Guinea,Other,Africa
+GRC,Greece,EU,Europe
+GRD,Grenada,Other,North America
+GRL,Greenland,Other,North America
+GTM,Guatemala,Other,North America
+GUF,French Guiana,Other,South America
+GUM,Guam,Other,Oceania
+GUY,Guyana,Other,South America
+HKG,Hong Kong,Other,Asia
+HMD,Heard Island and McDonald Islands,Other,Other
+HND,Honduras,Other,North America
+HRV,Croatia,EU,Europe
+HTI,Haiti,Other,North America
+HUN,Hungary,EU,Europe
+IDN,Indonesia,Other,Asia
+IMN,Isle of Man,Other,Other
+IND,India,BRICS,Asia
+IOT,British Indian Ocean Territory,Other,Other
+IRL,Ireland,EU,Europe
+IRN,"Iran, Islamic Republic of",Other,Asia
+IRQ,Iraq,Other,Asia
+ISL,Iceland,Other,Europe
+ISR,Israel,Other,Asia
+ITA,Italy,EU,Europe
+JAM,Jamaica,Other,North America
+JEY,Jersey,Other,Other
+JOR,Jordan,Other,Asia
+JPN,Japan,Other,Asia
+KAZ,Kazakhstan,Other,Asia
+KEN,Kenya,Other,Africa
+KGZ,Kyrgyzstan,Other,Asia
+KHM,Cambodia,Other,Asia
+KIR,Kiribati,Other,Oceania
+KNA,Saint Kitts and Nevis,Other,North America
+KOR,"Korea, Republic of",Other,Asia
+KWT,Kuwait,GCC,Asia
+LAO,Lao People's Democratic Republic,Other,Asia
+LBN,Lebanon,Other,Asia
+LBR,Liberia,Other,Africa
+LBY,Libya,Other,Africa
+LCA,Saint Lucia,Other,North America
+LIE,Liechtenstein,Other,Europe
+LKA,Sri Lanka,Other,Asia
+LSO,Lesotho,Other,Africa
+LTU,Lithuania,EU,Europe
+LUX,Luxembourg,EU,Europe
+LVA,Latvia,EU,Europe
+MAC,Macao,Other,Asia
+MAF,Saint Martin (French part),Other,Other
+MAR,Morocco,Other,Africa
+MCO,Monaco,Other,Europe
+MDA,"Moldova, Republic of",Other,Europe
+MDG,Madagascar,Other,Africa
+MDV,Maldives,Other,Asia
+MEX,Mexico,Other,North America
+MHL,Marshall Islands,Other,Oceania
+MKD,North Macedonia,Other,Europe
+MLI,Mali,Other,Africa
+MLT,Malta,EU,Europe
+MMR,Myanmar,Other,Asia
+MNE,Montenegro,Other,Europe
+MNG,Mongolia,Other,Asia
+MNP,Northern Mariana Islands,Other,Oceania
+MOZ,Mozambique,Other,Africa
+MRT,Mauritania,Other,Africa
+MSR,Montserrat,Other,North America
+MTQ,Martinique,Other,North America
+MUS,Mauritius,Other,Africa
+MWI,Malawi,Other,Africa
+MYS,Malaysia,Other,Asia
+MYT,Mayotte,Other,Africa
+NAM,Namibia,Other,Africa
+NCL,New Caledonia,Other,Oceania
+NER,Niger,Other,Africa
+NFK,Norfolk Island,Other,Oceania
+NGA,Nigeria,Other,Africa
+NIC,Nicaragua,Other,Other
+NIU,Niue,Other,Oceania
+NLD,Netherlands,EU,Europe
+NOR,Norway,Other,Europe
+NPL,Nepal,Other,Asia
+NRU,Nauru,Other,Oceania
+NZL,New Zealand,FiveEyes,Oceania
+OMN,Oman,GCC,Asia
+PAK,Pakistan,Other,Asia
+PAN,Panama,Other,Other
+PCN,Pitcairn,Other,Oceania
+PER,Peru,Other,South America
+PHL,Philippines,Other,Asia
+PLW,Palau,Other,Oceania
+PNG,Papua New Guinea,Other,Oceania
+POL,Poland,EU,Europe
+PRI,Puerto Rico,Other,Other
+PRK,"Korea, Democratic People's Republic of",Other,Asia
+PRT,Portugal,EU,Europe
+PRY,Paraguay,Other,South America
+PSE,"Palestine, State of",Other,Asia
+PYF,French Polynesia,Other,Oceania
+QAT,Qatar,GCC,Asia
+REU,Réunion,Other,Africa
+ROU,Romania,EU,Europe
+RUS,Russian Federation,BRICS,Europe
+RWA,Rwanda,Other,Africa
+SAU,Saudi Arabia,GCC,Asia
+SDN,Sudan,Other,Africa
+SEN,Senegal,Other,Africa
+SGP,Singapore,Other,Asia
+SGS,South Georgia and the South Sandwich Islands,Other,Other
+SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Africa
+SJM,Svalbard and Jan Mayen,Other,Other
+SLB,Solomon Islands,Other,Oceania
+SLE,Sierra Leone,Other,Africa
+SLV,El Salvador,Other,North America
+SMR,San Marino,Other,Europe
+SOM,Somalia,Other,Africa
+SPM,Saint Pierre and Miquelon,Other,North America
+SRB,Serbia,Other,Europe
+SSD,South Sudan,Other,Africa
+STP,Sao Tome and Principe,Other,Africa
+SUR,Suriname,Other,South America
+SVK,Slovakia,EU,Europe
+SVN,Slovenia,EU,Europe
+SWE,Sweden,EU,Europe
+SWZ,Eswatini,Other,Africa
+SXM,Sint Maarten (Dutch part),Other,Other
+SYC,Seychelles,Other,Africa
+SYR,Syrian Arab Republic,Other,Asia
+TCA,Turks and Caicos Islands,Other,North America
+TCD,Chad,Other,Africa
+TGO,Togo,Other,Africa
+THA,Thailand,Other,Asia
+TJK,Tajikistan,Other,Asia
+TKL,Tokelau,Other,Oceania
+TKM,Turkmenistan,Other,Asia
+TLS,Timor-Leste,Other,Asia
+TON,Tonga,Other,Oceania
+TTO,Trinidad and Tobago,Other,North America
+TUN,Tunisia,Other,Africa
+TUR,Turkey,Other,Asia
+TUV,Tuvalu,Other,Oceania
+TWN,"Taiwan, Province of China",Other,Asia
+TZA,"Tanzania, United Republic of",Other,Africa
+UGA,Uganda,Other,Africa
+UKR,Ukraine,Other,Europe
+UMI,United States Minor Outlying Islands,Other,Oceania
+URY,Uruguay,Other,South America
+USA,United States,FiveEyes,North America
+UZB,Uzbekistan,Other,Asia
+VAT,Holy See (Vatican City State),Other,Europe
+VCT,Saint Vincent and the Grenadines,Other,North America
+VEN,"Venezuela, Bolivarian Republic of",Other,South America
+VGB,"Virgin Islands, British",Other,Other
+VIR,"Virgin Islands, U.S.",Other,North America
+VNM,Viet Nam,Other,Asia
+VUT,Vanuatu,Other,Oceania
+WLF,Wallis and Futuna,Other,Oceania
+WSM,Samoa,Other,Oceania
+YEM,Yemen,Other,Asia
+ZAF,South Africa,BRICS,Africa
+ZMB,Zambia,Other,Africa
+ZWE,Zimbabwe,Other,Africa

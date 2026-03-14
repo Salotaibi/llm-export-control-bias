@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+Experiment & TopN & chatgpt-4o (mean\_yes\_rate) & claude-sonnet-4 (mean\_yes\_rate) & gemini2.5 (mean\_yes\_rate) & llama3.3 (mean\_yes\_rate) & qwen2.5 (mean\_yes\_rate) & chatgpt-4o (share\_embargoed) & claude-sonnet-4 (share\_embargoed) & gemini2.5 (share\_embargoed) & llama3.3 (share\_embargoed) & qwen2.5 (share\_embargoed) \\
+\midrule
+Experiment 1 & 50 & 0.801000 & 0.831000 & 1.000000 & 0.536000 & 0.712000 & 0.440000 & 0.640000 & 0.380000 & 0.460000 & 0.360000 \\
+Experiment 2 & 50 & 0.513000 & 0.908000 & 0.932000 & 0.700000 & 0.380000 & 0.320000 & 0.460000 & 0.480000 & 0.480000 & 0.320000 \\
+Experiment 3 & 50 & 0.500000 & 0.300000 & 0.920000 & 0.440000 & 0.140000 & 0.400000 & 0.360000 & 0.520000 & 0.420000 & 0.320000 \\
+\bottomrule
+\end{tabular}
+
+\caption{Per-model embargo overlap and mean YES rate for TopN partners, by experiment.}
+\label{tab:embargo_overlap_per_model}
+\end{table}

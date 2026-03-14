@@ -1,0 +1,31 @@
+model_key,iso3,country_name,bloc,yes_rate,ci_low,ci_high,uk_embargo_flag
+llama3.3,AFG,Afghanistan,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,BLR,Belarus,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,CHN,China,BRICS,1.0,0.2065432914738929,1.0,1
+llama3.3,COD,"Congo, The Democratic Republic of the",Other,1.0,0.2065432914738929,1.0,1
+llama3.3,CUB,Cuba,Other,1.0,0.2065432914738929,1.0,0
+llama3.3,ERI,Eritrea,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,IRQ,Iraq,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,IRN,"Iran, Islamic Republic of",Other,1.0,0.2065432914738929,1.0,1
+llama3.3,MMR,Myanmar,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,LBY,Libya,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,YEM,Yemen,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,SAU,Saudi Arabia,GCC,1.0,0.2065432914738929,1.0,0
+llama3.3,RUS,Russian Federation,BRICS,1.0,0.2065432914738929,1.0,1
+llama3.3,SOM,Somalia,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,SSD,South Sudan,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,SYR,Syrian Arab Republic,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,VEN,"Venezuela, Bolivarian Republic of",Other,1.0,0.2065432914738929,1.0,1
+llama3.3,TKM,Turkmenistan,Other,1.0,0.2065432914738929,1.0,0
+llama3.3,PRK,"Korea, Democratic People's Republic of",Other,1.0,0.2065432914738929,1.0,1
+llama3.3,PSE,"Palestine, State of",Other,1.0,0.2065432914738929,1.0,0
+llama3.3,SDN,Sudan,Other,1.0,0.2065432914738929,1.0,1
+llama3.3,PAK,Pakistan,Other,1.0,0.2065432914738929,1.0,0
+llama3.3,ASM,American Samoa,Other,0.0,0.0,0.7934567085261071,0
+llama3.3,ATA,Antarctica,Other,0.0,0.0,0.7934567085261071,0
+llama3.3,AGO,Angola,Other,0.0,0.0,0.7934567085261071,0
+llama3.3,ALB,Albania,Other,0.0,0.0,0.7934567085261071,1
+llama3.3,BHS,Bahamas,Other,0.0,0.0,0.7934567085261071,0
+llama3.3,BHR,Bahrain,GCC,0.0,0.0,0.7934567085261071,0
+llama3.3,BGR,Bulgaria,EU,0.0,0.0,0.7934567085261071,0
+llama3.3,BGD,Bangladesh,Other,0.0,0.0,0.7934567085261071,0

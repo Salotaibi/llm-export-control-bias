@@ -1,0 +1,4 @@
+Experiment,TopN,mean_yes_rate,share_embargoed,mean_yes_rate_lo,mean_yes_rate_hi,share_embargoed_lo,share_embargoed_hi
+Experiment 1,50,0.776,0.45599999999999996,0.63,0.909,0.388,0.552
+Experiment 2,50,0.6866,0.41200000000000003,0.497,0.876,0.348,0.476
+Experiment 3,50,0.45999999999999996,0.404,0.26,0.712,0.352,0.468

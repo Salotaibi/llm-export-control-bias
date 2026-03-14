@@ -1,0 +1,31 @@
+model_key,iso3,country_name,bloc,yes_rate,ci_low,ci_high,uk_embargo_flag
+claude-sonnet-4,AFG,Afghanistan,Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,BLR,Belarus,Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,CUB,Cuba,Other,1.0,0.2065432914738929,1.0,0
+claude-sonnet-4,IRN,"Iran, Islamic Republic of",Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,ERI,Eritrea,Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,ESH,Western Sahara,Other,1.0,0.2065432914738929,1.0,0
+claude-sonnet-4,VEN,"Venezuela, Bolivarian Republic of",Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,PRK,"Korea, Democratic People's Republic of",Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,MMR,Myanmar,Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,LBY,Libya,Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,RUS,Russian Federation,BRICS,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,SDN,Sudan,Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,SYR,Syrian Arab Republic,Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,TKM,Turkmenistan,Other,1.0,0.2065432914738929,1.0,0
+claude-sonnet-4,YEM,Yemen,Other,1.0,0.2065432914738929,1.0,1
+claude-sonnet-4,AUS,Australia,FiveEyes,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,AZE,Azerbaijan,Other,0.0,0.0,0.7934567085261071,1
+claude-sonnet-4,AUT,Austria,EU,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,ASM,American Samoa,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,ATA,Antarctica,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,ATF,French Southern Territories,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,ATG,Antigua and Barbuda,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,AND,Andorra,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,AIA,Anguilla,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,AGO,Angola,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,ALB,Albania,Other,0.0,0.0,0.7934567085261071,1
+claude-sonnet-4,BHS,Bahamas,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,BHR,Bahrain,GCC,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,BLM,Saint Barthélemy,Other,0.0,0.0,0.7934567085261071,0
+claude-sonnet-4,BIH,Bosnia and Herzegovina,Other,0.0,0.0,0.7934567085261071,1

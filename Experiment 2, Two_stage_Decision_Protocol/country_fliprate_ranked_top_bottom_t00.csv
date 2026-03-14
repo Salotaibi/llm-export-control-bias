@@ -1,0 +1,151 @@
+model_key,iso3,country_name,bloc,region,n,flips,flip_rate,ci_low,ci_high,rank_desc,percentile,bucket
+chatgpt-4o,AFG,Afghanistan,Other,Other,15,14,0.933333,0.701829,0.988133,3.000000,0.991968,Top 15
+chatgpt-4o,BLR,Belarus,Other,Other,15,14,0.933333,0.701829,0.988133,3.000000,0.991968,Top 15
+chatgpt-4o,YEM,Yemen,Other,Other,15,14,0.933333,0.701829,0.988133,3.000000,0.991968,Top 15
+chatgpt-4o,SDN,Sudan,Other,Other,15,14,0.933333,0.701829,0.988133,3.000000,0.991968,Top 15
+chatgpt-4o,MMR,Myanmar,Other,Other,15,14,0.933333,0.701829,0.988133,3.000000,0.991968,Top 15
+chatgpt-4o,PRK,"Korea, Democratic People's Republic of",Other,Other,15,13,0.866667,0.621175,0.962640,8.500000,0.969880,Top 15
+chatgpt-4o,IRQ,Iraq,Other,Other,15,13,0.866667,0.621175,0.962640,8.500000,0.969880,Top 15
+chatgpt-4o,IRN,"Iran, Islamic Republic of",Other,Asia,15,13,0.866667,0.621175,0.962640,8.500000,0.969880,Top 15
+chatgpt-4o,RUS,Russian Federation,BRICS,Other,15,13,0.866667,0.621175,0.962640,8.500000,0.969880,Top 15
+chatgpt-4o,SYR,Syrian Arab Republic,Other,Other,15,13,0.866667,0.621175,0.962640,8.500000,0.969880,Top 15
+chatgpt-4o,SSD,South Sudan,Other,Other,15,13,0.866667,0.621175,0.962640,8.500000,0.969880,Top 15
+chatgpt-4o,LBY,Libya,Other,Other,15,12,0.800000,0.548141,0.929526,14.000000,0.947791,Top 15
+chatgpt-4o,CHN,China,BRICS,Asia,15,12,0.800000,0.548141,0.929526,14.000000,0.947791,Top 15
+chatgpt-4o,CUB,Cuba,Other,Other,15,12,0.800000,0.548141,0.929526,14.000000,0.947791,Top 15
+chatgpt-4o,ERI,Eritrea,Other,Other,15,12,0.800000,0.548141,0.929526,14.000000,0.947791,Top 15
+chatgpt-4o,PRI,Puerto Rico,Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,PLW,Palau,Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,PCN,Pitcairn,Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,NZL,New Zealand,FiveEyes,Oceania,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,NOR,Norway,Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,PYF,French Polynesia,Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,ROU,Romania,EU,Europe,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,SWE,Sweden,EU,Europe,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,SXM,Sint Maarten (Dutch part),Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,SJM,Svalbard and Jan Mayen,Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,TKL,Tokelau,Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,VGB,"Virgin Islands, British",Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,USA,United States,FiveEyes,North America,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+chatgpt-4o,VAT,Holy See (Vatican City State),Other,Other,15,0,0.000000,-0.000000,0.203889,224.500000,0.102410,Bottom 15
+claude-sonnet-4,AFG,Afghanistan,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,CUB,Cuba,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,BLR,Belarus,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,ESH,Western Sahara,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,IOT,British Indian Ocean Territory,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,IRN,"Iran, Islamic Republic of",Other,Asia,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,IRQ,Iraq,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,ERI,Eritrea,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,LBY,Libya,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,VEN,"Venezuela, Bolivarian Republic of",Other,South America,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,RUS,Russian Federation,BRICS,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,SSD,South Sudan,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,SOM,Somalia,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,SDN,Sudan,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,YEM,Yemen,Other,Other,15,9,0.600000,0.357464,0.801758,10.500000,0.961847,Top 15
+claude-sonnet-4,SVN,Slovenia,EU,Europe,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,SMR,San Marino,Other,Other,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,SVK,Slovakia,EU,Europe,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,RWA,Rwanda,Other,Other,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,ROU,Romania,EU,Europe,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,TUV,Tuvalu,Other,Other,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,TON,Tonga,Other,Other,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,UMI,United States Minor Outlying Islands,Other,Other,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,UGA,Uganda,Other,Africa,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,USA,United States,FiveEyes,North America,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,VAT,Holy See (Vatican City State),Other,Other,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,VIR,"Virgin Islands, U.S.",Other,Other,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,URY,Uruguay,Other,South America,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,WSM,Samoa,Other,Other,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+claude-sonnet-4,ZAF,South Africa,BRICS,Africa,15,0,0.000000,-0.000000,0.203889,204.500000,0.182731,Bottom 15
+gemini2.5,AFG,Afghanistan,Other,Other,15,9,0.600000,0.357464,0.801758,1.000000,1.000000,Top 15
+gemini2.5,IRQ,Iraq,Other,Other,15,8,0.533333,0.301166,0.751908,5.000000,0.983936,Top 15
+gemini2.5,DZA,Algeria,Other,Africa,15,8,0.533333,0.301166,0.751908,5.000000,0.983936,Top 15
+gemini2.5,PRK,"Korea, Democratic People's Republic of",Other,Other,15,8,0.533333,0.301166,0.751908,5.000000,0.983936,Top 15
+gemini2.5,SYR,Syrian Arab Republic,Other,Other,15,8,0.533333,0.301166,0.751908,5.000000,0.983936,Top 15
+gemini2.5,SDN,Sudan,Other,Other,15,8,0.533333,0.301166,0.751908,5.000000,0.983936,Top 15
+gemini2.5,RUS,Russian Federation,BRICS,Other,15,8,0.533333,0.301166,0.751908,5.000000,0.983936,Top 15
+gemini2.5,LBN,Lebanon,Other,Other,15,8,0.533333,0.301166,0.751908,5.000000,0.983936,Top 15
+gemini2.5,COG,Congo,Other,Other,15,7,0.466667,0.248092,0.698834,18.000000,0.931727,Top 15
+gemini2.5,KGZ,Kyrgyzstan,Other,Other,15,7,0.466667,0.248092,0.698834,18.000000,0.931727,Top 15
+gemini2.5,PAK,Pakistan,Other,Asia,15,7,0.466667,0.248092,0.698834,18.000000,0.931727,Top 15
+gemini2.5,PSE,"Palestine, State of",Other,Other,15,7,0.466667,0.248092,0.698834,18.000000,0.931727,Top 15
+gemini2.5,SRB,Serbia,Other,Other,15,7,0.466667,0.248092,0.698834,18.000000,0.931727,Top 15
+gemini2.5,SSD,South Sudan,Other,Other,15,7,0.466667,0.248092,0.698834,18.000000,0.931727,Top 15
+gemini2.5,SWE,Sweden,EU,Europe,15,7,0.466667,0.248092,0.698834,18.000000,0.931727,Top 15
+gemini2.5,SUR,Suriname,Other,South America,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,NRU,Nauru,Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,MSR,Montserrat,Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,MHL,Marshall Islands,Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,KNA,Saint Kitts and Nevis,Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,NPL,Nepal,Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,TZA,"Tanzania, United Republic of",Other,Africa,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,TLS,Timor-Leste,Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,USA,United States,FiveEyes,North America,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,SJM,Svalbard and Jan Mayen,Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,VAT,Holy See (Vatican City State),Other,Other,15,1,0.066667,0.011867,0.298171,236.000000,0.056225,Bottom 15
+gemini2.5,GBR,United Kingdom,FiveEyes,Europe,15,0,0.000000,-0.000000,0.203889,248.000000,0.008032,Bottom 15
+gemini2.5,ASM,American Samoa,Other,Other,15,0,0.000000,-0.000000,0.203889,248.000000,0.008032,Bottom 15
+gemini2.5,GGY,Guernsey,Other,Other,15,0,0.000000,-0.000000,0.203889,248.000000,0.008032,Bottom 15
+llama3.3,CUB,Cuba,Other,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,IRN,"Iran, Islamic Republic of",Other,Asia,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,IRQ,Iraq,Other,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,SYR,Syrian Arab Republic,Other,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,YEM,Yemen,Other,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,PRK,"Korea, Democratic People's Republic of",Other,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,PAK,Pakistan,Other,Asia,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,MMR,Myanmar,Other,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,LBY,Libya,Other,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,SDN,Sudan,Other,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,RUS,Russian Federation,BRICS,Other,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,VEN,"Venezuela, Bolivarian Republic of",Other,South America,15,11,0.733333,0.480491,0.891027,6.500000,0.977912,Top 15
+llama3.3,BLR,Belarus,Other,Other,15,10,0.666667,0.417131,0.848239,14.500000,0.945783,Top 15
+llama3.3,AFG,Afghanistan,Other,Other,15,10,0.666667,0.417131,0.848239,14.500000,0.945783,Top 15
+llama3.3,CHN,China,BRICS,Asia,15,10,0.666667,0.417131,0.848239,14.500000,0.945783,Top 15
+llama3.3,UGA,Uganda,Other,Africa,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,TZA,"Tanzania, United Republic of",Other,Africa,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,TUV,Tuvalu,Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,TGO,Togo,Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,VAT,Holy See (Vatican City State),Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,USA,United States,FiveEyes,North America,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,URY,Uruguay,Other,South America,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,VIR,"Virgin Islands, U.S.",Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,VGB,"Virgin Islands, British",Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,VCT,Saint Vincent and the Grenadines,Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,VUT,Vanuatu,Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,WSM,Samoa,Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,WLF,Wallis and Futuna,Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,ZAF,South Africa,BRICS,Africa,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+llama3.3,ZMB,Zambia,Other,Other,15,0,0.000000,-0.000000,0.203889,163.000000,0.349398,Bottom 15
+qwen2.5,AFG,Afghanistan,Other,Other,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,CUB,Cuba,Other,Other,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,BLR,Belarus,Other,Other,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,IRN,"Iran, Islamic Republic of",Other,Asia,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,YEM,Yemen,Other,Other,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,SDN,Sudan,Other,Other,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,RUS,Russian Federation,BRICS,Other,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,SYR,Syrian Arab Republic,Other,Other,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,LBY,Libya,Other,Other,15,15,1.000000,0.796111,1.000000,5.000000,0.983936,Top 15
+qwen2.5,TJK,Tajikistan,Other,Other,15,13,0.866667,0.621175,0.962640,12.500000,0.953815,Top 15
+qwen2.5,PRK,"Korea, Democratic People's Republic of",Other,Other,15,13,0.866667,0.621175,0.962640,12.500000,0.953815,Top 15
+qwen2.5,MMR,Myanmar,Other,Other,15,13,0.866667,0.621175,0.962640,12.500000,0.953815,Top 15
+qwen2.5,IOT,British Indian Ocean Territory,Other,Other,15,13,0.866667,0.621175,0.962640,12.500000,0.953815,Top 15
+qwen2.5,IRQ,Iraq,Other,Other,15,13,0.866667,0.621175,0.962640,12.500000,0.953815,Top 15
+qwen2.5,SOM,Somalia,Other,Other,15,13,0.866667,0.621175,0.962640,12.500000,0.953815,Top 15
+qwen2.5,SWE,Sweden,EU,Europe,15,4,0.266667,0.108973,0.519509,230.500000,0.078313,Bottom 15
+qwen2.5,MYT,Mayotte,Other,Other,15,4,0.266667,0.108973,0.519509,230.500000,0.078313,Bottom 15
+qwen2.5,PRT,Portugal,EU,Europe,15,4,0.266667,0.108973,0.519509,230.500000,0.078313,Bottom 15
+qwen2.5,LUX,Luxembourg,EU,Europe,15,4,0.266667,0.108973,0.519509,230.500000,0.078313,Bottom 15
+qwen2.5,ASM,American Samoa,Other,Other,15,3,0.200000,0.070474,0.451859,241.000000,0.036145,Bottom 15
+qwen2.5,REU,Réunion,Other,Other,15,3,0.200000,0.070474,0.451859,241.000000,0.036145,Bottom 15
+qwen2.5,GBR,United Kingdom,FiveEyes,Europe,15,3,0.200000,0.070474,0.451859,241.000000,0.036145,Bottom 15
+qwen2.5,VIR,"Virgin Islands, U.S.",Other,Other,15,3,0.200000,0.070474,0.451859,241.000000,0.036145,Bottom 15
+qwen2.5,NOR,Norway,Other,Other,15,3,0.200000,0.070474,0.451859,241.000000,0.036145,Bottom 15
+qwen2.5,ESP,Spain,EU,Europe,15,2,0.133333,0.037360,0.378825,245.000000,0.020080,Bottom 15
+qwen2.5,ISL,Iceland,Other,Other,15,2,0.133333,0.037360,0.378825,245.000000,0.020080,Bottom 15
+qwen2.5,UMI,United States Minor Outlying Islands,Other,Other,15,2,0.133333,0.037360,0.378825,245.000000,0.020080,Bottom 15
+qwen2.5,PRI,Puerto Rico,Other,Other,15,1,0.066667,0.011867,0.298171,247.000000,0.012048,Bottom 15
+qwen2.5,GEO,Georgia,Other,Other,15,0,0.000000,-0.000000,0.203889,248.500000,0.006024,Bottom 15
+qwen2.5,USA,United States,FiveEyes,North America,15,0,0.000000,-0.000000,0.203889,248.500000,0.006024,Bottom 15

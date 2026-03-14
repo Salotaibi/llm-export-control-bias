@@ -1,0 +1,251 @@
+iso3,country_name,bloc,region,embargo
+ABW,Aruba,Other,Other,0
+AFG,Afghanistan,Other,Asia,1
+AGO,Angola,Other,Africa,0
+AIA,Anguilla,Other,North America,0
+ALA,Åland Islands,Other,Other,0
+ALB,Albania,Other,Europe,1
+AND,Andorra,Other,Europe,0
+ARE,United Arab Emirates,GCC,Asia,0
+ARG,Argentina,Other,South America,1
+ARM,Armenia,Other,Asia,1
+ASM,American Samoa,Other,Oceania,0
+ATA,Antarctica,Other,Other,0
+ATF,French Southern Territories,Other,Other,0
+ATG,Antigua and Barbuda,Other,North America,0
+AUS,Australia,FiveEyes,Oceania,0
+AUT,Austria,EU,Europe,0
+AZE,Azerbaijan,Other,Asia,1
+BDI,Burundi,Other,Africa,0
+BEL,Belgium,EU,Europe,0
+BEN,Benin,Other,Africa,1
+BES,"Bonaire, Sint Eustatius and Saba",Other,Other,0
+BFA,Burkina Faso,Other,Africa,1
+BGD,Bangladesh,Other,Asia,0
+BGR,Bulgaria,EU,Europe,0
+BHR,Bahrain,GCC,Asia,0
+BHS,Bahamas,Other,North America,0
+BIH,Bosnia and Herzegovina,Other,Europe,1
+BLM,Saint Barthélemy,Other,Other,0
+BLR,Belarus,Other,Europe,1
+BLZ,Belize,Other,North America,0
+BMU,Bermuda,Other,North America,0
+BOL,"Bolivia, Plurinational State of",Other,South America,0
+BRA,Brazil,BRICS,South America,0
+BRB,Barbados,Other,North America,0
+BRN,Brunei Darussalam,Other,Asia,0
+BTN,Bhutan,Other,Asia,0
+BVT,Bouvet Island,Other,Other,0
+BWA,Botswana,Other,Africa,0
+CAF,Central African Republic,Other,Africa,1
+CAN,Canada,FiveEyes,North America,0
+CCK,Cocos (Keeling) Islands,Other,Other,0
+CHE,Switzerland,Other,Europe,0
+CHL,Chile,Other,South America,0
+CHN,China,BRICS,Asia,1
+CIV,Côte d'Ivoire,Other,Africa,0
+CMR,Cameroon,Other,Africa,0
+COD,"Congo, The Democratic Republic of the",Other,Other,1
+COG,Congo,Other,Africa,0
+COK,Cook Islands,Other,Oceania,0
+COL,Colombia,Other,South America,0
+COM,Comoros,Other,Africa,0
+CPV,Cabo Verde,Other,Africa,0
+CRI,Costa Rica,Other,North America,0
+CUB,Cuba,Other,North America,0
+CUW,Curaçao,Other,North America,0
+CXR,Christmas Island,Other,Other,0
+CYM,Cayman Islands,Other,North America,0
+CYP,Cyprus,EU,Asia,0
+CZE,Czechia,EU,Europe,0
+DEU,Germany,EU,Europe,0
+DJI,Djibouti,Other,Africa,0
+DMA,Dominica,Other,North America,0
+DNK,Denmark,EU,Europe,0
+DOM,Dominican Republic,Other,North America,0
+DZA,Algeria,Other,Africa,0
+ECU,Ecuador,Other,South America,0
+EGY,Egypt,Other,Africa,0
+ERI,Eritrea,Other,Africa,1
+ESH,Western Sahara,Other,Africa,0
+ESP,Spain,EU,Europe,0
+EST,Estonia,EU,Europe,0
+ETH,Ethiopia,Other,Africa,0
+FIN,Finland,EU,Europe,0
+FJI,Fiji,Other,Oceania,0
+FLK,Falkland Islands (Malvinas),Other,South America,0
+FRA,France,EU,Europe,0
+FRO,Faroe Islands,Other,Europe,0
+FSM,"Micronesia, Federated States of",Other,Oceania,0
+GAB,Gabon,Other,Africa,0
+GBR,United Kingdom,FiveEyes,Europe,0
+GEO,Georgia,Other,Asia,0
+GGY,Guernsey,Other,Other,0
+GHA,Ghana,Other,Africa,0
+GIB,Gibraltar,Other,Europe,0
+GIN,Guinea,Other,Africa,0
+GLP,Guadeloupe,Other,North America,0
+GMB,Gambia,Other,Africa,0
+GNB,Guinea-Bissau,Other,Africa,0
+GNQ,Equatorial Guinea,Other,Africa,0
+GRC,Greece,EU,Europe,0
+GRD,Grenada,Other,North America,0
+GRL,Greenland,Other,North America,0
+GTM,Guatemala,Other,North America,0
+GUF,French Guiana,Other,South America,0
+GUM,Guam,Other,Oceania,0
+GUY,Guyana,Other,South America,0
+HKG,Hong Kong,Other,Asia,0
+HMD,Heard Island and McDonald Islands,Other,Other,0
+HND,Honduras,Other,North America,0
+HRV,Croatia,EU,Europe,0
+HTI,Haiti,Other,North America,1
+HUN,Hungary,EU,Europe,0
+IDN,Indonesia,Other,Asia,0
+IMN,Isle of Man,Other,Other,0
+IND,India,BRICS,Asia,0
+IOT,British Indian Ocean Territory,Other,Other,0
+IRL,Ireland,EU,Europe,0
+IRN,"Iran, Islamic Republic of",Other,Asia,1
+IRQ,Iraq,Other,Asia,1
+ISL,Iceland,Other,Europe,0
+ISR,Israel,Other,Asia,0
+ITA,Italy,EU,Europe,0
+JAM,Jamaica,Other,North America,0
+JEY,Jersey,Other,Other,0
+JOR,Jordan,Other,Asia,0
+JPN,Japan,Other,Asia,0
+KAZ,Kazakhstan,Other,Asia,0
+KEN,Kenya,Other,Africa,0
+KGZ,Kyrgyzstan,Other,Asia,0
+KHM,Cambodia,Other,Asia,0
+KIR,Kiribati,Other,Oceania,0
+KNA,Saint Kitts and Nevis,Other,North America,0
+KOR,"Korea, Republic of",Other,Asia,0
+KWT,Kuwait,GCC,Asia,0
+LAO,Lao People's Democratic Republic,Other,Asia,0
+LBN,Lebanon,Other,Asia,1
+LBR,Liberia,Other,Africa,1
+LBY,Libya,Other,Africa,1
+LCA,Saint Lucia,Other,North America,0
+LIE,Liechtenstein,Other,Europe,0
+LKA,Sri Lanka,Other,Asia,0
+LSO,Lesotho,Other,Africa,0
+LTU,Lithuania,EU,Europe,0
+LUX,Luxembourg,EU,Europe,0
+LVA,Latvia,EU,Europe,0
+MAC,Macao,Other,Asia,0
+MAF,Saint Martin (French part),Other,Other,0
+MAR,Morocco,Other,Africa,0
+MCO,Monaco,Other,Europe,0
+MDA,"Moldova, Republic of",Other,Europe,0
+MDG,Madagascar,Other,Africa,0
+MDV,Maldives,Other,Asia,0
+MEX,Mexico,Other,North America,0
+MHL,Marshall Islands,Other,Oceania,0
+MKD,North Macedonia,Other,Europe,0
+MLI,Mali,Other,Africa,1
+MLT,Malta,EU,Europe,0
+MMR,Myanmar,Other,Asia,1
+MNE,Montenegro,Other,Europe,1
+MNG,Mongolia,Other,Asia,0
+MNP,Northern Mariana Islands,Other,Oceania,0
+MOZ,Mozambique,Other,Africa,0
+MRT,Mauritania,Other,Africa,0
+MSR,Montserrat,Other,North America,0
+MTQ,Martinique,Other,North America,0
+MUS,Mauritius,Other,Africa,0
+MWI,Malawi,Other,Africa,0
+MYS,Malaysia,Other,Asia,0
+MYT,Mayotte,Other,Africa,0
+NAM,Namibia,Other,Africa,0
+NCL,New Caledonia,Other,Oceania,0
+NER,Niger,Other,Africa,1
+NFK,Norfolk Island,Other,Oceania,0
+NGA,Nigeria,Other,Africa,0
+NIC,Nicaragua,Other,Other,0
+NIU,Niue,Other,Oceania,0
+NLD,Netherlands,EU,Europe,0
+NOR,Norway,Other,Europe,0
+NPL,Nepal,Other,Asia,0
+NRU,Nauru,Other,Oceania,0
+NZL,New Zealand,FiveEyes,Oceania,0
+OMN,Oman,GCC,Asia,0
+PAK,Pakistan,Other,Asia,0
+PAN,Panama,Other,Other,0
+PCN,Pitcairn,Other,Oceania,0
+PER,Peru,Other,South America,0
+PHL,Philippines,Other,Asia,0
+PLW,Palau,Other,Oceania,0
+PNG,Papua New Guinea,Other,Oceania,0
+POL,Poland,EU,Europe,0
+PRI,Puerto Rico,Other,Other,0
+PRK,"Korea, Democratic People's Republic of",Other,Asia,1
+PRT,Portugal,EU,Europe,0
+PRY,Paraguay,Other,South America,0
+PSE,"Palestine, State of",Other,Asia,0
+PYF,French Polynesia,Other,Oceania,0
+QAT,Qatar,GCC,Asia,0
+REU,Réunion,Other,Africa,0
+ROU,Romania,EU,Europe,0
+RUS,Russian Federation,BRICS,Europe,1
+RWA,Rwanda,Other,Africa,1
+SAU,Saudi Arabia,GCC,Asia,0
+SDN,Sudan,Other,Africa,1
+SEN,Senegal,Other,Africa,0
+SGP,Singapore,Other,Asia,0
+SGS,South Georgia and the South Sandwich Islands,Other,Other,0
+SHN,"Saint Helena, Ascension and Tristan da Cunha",Other,Africa,0
+SJM,Svalbard and Jan Mayen,Other,Other,0
+SLB,Solomon Islands,Other,Oceania,0
+SLE,Sierra Leone,Other,Africa,1
+SLV,El Salvador,Other,North America,0
+SMR,San Marino,Other,Europe,0
+SOM,Somalia,Other,Africa,1
+SPM,Saint Pierre and Miquelon,Other,North America,0
+SRB,Serbia,Other,Europe,1
+SSD,South Sudan,Other,Africa,1
+STP,Sao Tome and Principe,Other,Africa,0
+SUR,Suriname,Other,South America,0
+SVK,Slovakia,EU,Europe,0
+SVN,Slovenia,EU,Europe,0
+SWE,Sweden,EU,Europe,0
+SWZ,Eswatini,Other,Africa,0
+SXM,Sint Maarten (Dutch part),Other,Other,0
+SYC,Seychelles,Other,Africa,0
+SYR,Syrian Arab Republic,Other,Asia,1
+TCA,Turks and Caicos Islands,Other,North America,0
+TCD,Chad,Other,Africa,0
+TGO,Togo,Other,Africa,0
+THA,Thailand,Other,Asia,0
+TJK,Tajikistan,Other,Asia,0
+TKL,Tokelau,Other,Oceania,0
+TKM,Turkmenistan,Other,Asia,0
+TLS,Timor-Leste,Other,Asia,0
+TON,Tonga,Other,Oceania,0
+TTO,Trinidad and Tobago,Other,North America,0
+TUN,Tunisia,Other,Africa,0
+TUR,Turkey,Other,Asia,0
+TUV,Tuvalu,Other,Oceania,0
+TWN,"Taiwan, Province of China",Other,Asia,0
+TZA,"Tanzania, United Republic of",Other,Africa,0
+UGA,Uganda,Other,Africa,0
+UKR,Ukraine,Other,Europe,0
+UMI,United States Minor Outlying Islands,Other,Oceania,0
+URY,Uruguay,Other,South America,0
+USA,United States,FiveEyes,North America,0
+UZB,Uzbekistan,Other,Asia,0
+VAT,Holy See (Vatican City State),Other,Europe,0
+VCT,Saint Vincent and the Grenadines,Other,North America,0
+VEN,"Venezuela, Bolivarian Republic of",Other,South America,0
+VGB,"Virgin Islands, British",Other,Other,1
+VIR,"Virgin Islands, U.S.",Other,North America,0
+VNM,Viet Nam,Other,Asia,0
+VUT,Vanuatu,Other,Oceania,0
+WLF,Wallis and Futuna,Other,Oceania,0
+WSM,Samoa,Other,Oceania,0
+YEM,Yemen,Other,Asia,0
+ZAF,South Africa,BRICS,Africa,1
+ZMB,Zambia,Other,Africa,0
+ZWE,Zimbabwe,Other,Africa,0
+,,,,1

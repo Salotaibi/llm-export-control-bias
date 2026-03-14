@@ -1,0 +1,51 @@
+model_key,iso3,country_name,bloc,yes_rate,ci_low,ci_high,uk_embargo_flag
+qwen2.5,AFG,Afghanistan,Other,1.0,0.2065432914738929,1.0,1
+qwen2.5,BLR,Belarus,Other,1.0,0.2065432914738929,1.0,1
+qwen2.5,IRN,"Iran, Islamic Republic of",Other,1.0,0.2065432914738929,1.0,1
+qwen2.5,SDN,Sudan,Other,1.0,0.2065432914738929,1.0,1
+qwen2.5,SYR,Syrian Arab Republic,Other,1.0,0.2065432914738929,1.0,1
+qwen2.5,PRK,"Korea, Democratic People's Republic of",Other,1.0,0.2065432914738929,1.0,1
+qwen2.5,RUS,Russian Federation,BRICS,1.0,0.2065432914738929,1.0,1
+qwen2.5,AGO,Angola,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,ALA,Åland Islands,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,AIA,Anguilla,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,ASM,American Samoa,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,ATA,Antarctica,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,ATF,French Southern Territories,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,ATG,Antigua and Barbuda,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,AUS,Australia,FiveEyes,0.0,0.0,0.7934567085261071,0
+qwen2.5,AUT,Austria,EU,0.0,0.0,0.7934567085261071,0
+qwen2.5,AZE,Azerbaijan,Other,0.0,0.0,0.7934567085261071,1
+qwen2.5,BDI,Burundi,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BEL,Belgium,EU,0.0,0.0,0.7934567085261071,0
+qwen2.5,BEN,Benin,Other,0.0,0.0,0.7934567085261071,1
+qwen2.5,BES,"Bonaire, Sint Eustatius and Saba",Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BFA,Burkina Faso,Other,0.0,0.0,0.7934567085261071,1
+qwen2.5,AND,Andorra,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,ARE,United Arab Emirates,GCC,0.0,0.0,0.7934567085261071,0
+qwen2.5,ARG,Argentina,Other,0.0,0.0,0.7934567085261071,1
+qwen2.5,ALB,Albania,Other,0.0,0.0,0.7934567085261071,1
+qwen2.5,BHS,Bahamas,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BIH,Bosnia and Herzegovina,Other,0.0,0.0,0.7934567085261071,1
+qwen2.5,BLM,Saint Barthélemy,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BLZ,Belize,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BMU,Bermuda,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BOL,"Bolivia, Plurinational State of",Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BRA,Brazil,BRICS,0.0,0.0,0.7934567085261071,0
+qwen2.5,BRB,Barbados,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BRN,Brunei Darussalam,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BTN,Bhutan,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BVT,Bouvet Island,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,BWA,Botswana,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,CAF,Central African Republic,Other,0.0,0.0,0.7934567085261071,1
+qwen2.5,CAN,Canada,FiveEyes,0.0,0.0,0.7934567085261071,0
+qwen2.5,CCK,Cocos (Keeling) Islands,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,CHE,Switzerland,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,CHL,Chile,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,CHN,China,BRICS,0.0,0.0,0.7934567085261071,1
+qwen2.5,CIV,Côte d'Ivoire,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,CMR,Cameroon,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,COD,"Congo, The Democratic Republic of the",Other,0.0,0.0,0.7934567085261071,1
+qwen2.5,COG,Congo,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,COK,Cook Islands,Other,0.0,0.0,0.7934567085261071,0
+qwen2.5,COL,Colombia,Other,0.0,0.0,0.7934567085261071,0

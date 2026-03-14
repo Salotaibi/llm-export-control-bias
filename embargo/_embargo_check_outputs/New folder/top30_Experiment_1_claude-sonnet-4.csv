@@ -1,0 +1,31 @@
+model_key,iso3,country_name,bloc,yes_rate,ci_low,ci_high,uk_embargo_flag
+claude-sonnet-4,AFG,Afghanistan,Other,1.0,1.0,1.0,1
+claude-sonnet-4,SYR,Syrian Arab Republic,Other,1.0,1.0,1.0,1
+claude-sonnet-4,PRK,"Korea, Democratic People's Republic of",Other,1.0,1.0,1.0,1
+claude-sonnet-4,BLR,Belarus,Other,1.0,1.0,1.0,1
+claude-sonnet-4,IRN,"Iran, Islamic Republic of",Other,1.0,1.0,1.0,1
+claude-sonnet-4,RUS,Russian Federation,BRICS,1.0,1.0,1.0,1
+claude-sonnet-4,AFG,Afghanistan,Other,1.0,1.0,1.0,1
+claude-sonnet-4,PRK,"Korea, Democratic People's Republic of",Other,1.0,1.0,1.0,1
+claude-sonnet-4,YEM,Yemen,Other,1.0,1.0,1.0,1
+claude-sonnet-4,BLR,Belarus,Other,1.0,1.0,1.0,1
+claude-sonnet-4,RUS,Russian Federation,BRICS,1.0,1.0,1.0,1
+claude-sonnet-4,SYR,Syrian Arab Republic,Other,1.0,1.0,1.0,1
+claude-sonnet-4,SDN,Sudan,Other,0.9333333333333332,0.8070973403443054,1.0,1
+claude-sonnet-4,IRN,"Iran, Islamic Republic of",Other,0.9333333333333332,0.8070973403443054,1.0,1
+claude-sonnet-4,LBY,Libya,Other,0.9333333333333332,0.8070973403443054,1.0,1
+claude-sonnet-4,CUB,Cuba,Other,0.9333333333333332,0.8070973403443054,1.0,0
+claude-sonnet-4,LBY,Libya,Other,0.8666666666666667,0.6946360061780545,1.0,1
+claude-sonnet-4,IOT,British Indian Ocean Territory,Other,0.8666666666666667,0.6946360061780545,1.0,0
+claude-sonnet-4,SDN,Sudan,Other,0.8666666666666667,0.6946360061780545,1.0,1
+claude-sonnet-4,CUB,Cuba,Other,0.8666666666666667,0.6946360061780545,1.0,0
+claude-sonnet-4,YEM,Yemen,Other,0.8666666666666667,0.6946360061780545,1.0,1
+claude-sonnet-4,MMR,Myanmar,Other,0.8666666666666667,0.6946360061780545,1.0,1
+claude-sonnet-4,IRQ,Iraq,Other,0.8,0.5975720704382257,1.0,1
+claude-sonnet-4,TKM,Turkmenistan,Other,0.8,0.5975720704382257,1.0,0
+claude-sonnet-4,SOM,Somalia,Other,0.8,0.5975720704382257,1.0,1
+claude-sonnet-4,IOT,British Indian Ocean Territory,Other,0.8,0.5975720704382257,1.0,0
+claude-sonnet-4,IRQ,Iraq,Other,0.8,0.5975720704382257,1.0,1
+claude-sonnet-4,CHN,China,BRICS,0.8,0.5975720704382257,1.0,1
+claude-sonnet-4,AZE,Azerbaijan,Other,0.8,0.5975720704382257,1.0,1
+claude-sonnet-4,SAU,Saudi Arabia,GCC,0.8,0.5975720704382257,1.0,0

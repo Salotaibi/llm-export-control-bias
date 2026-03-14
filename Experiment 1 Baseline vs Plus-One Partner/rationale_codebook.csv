@@ -1,0 +1,6 @@
+code,definition,values,notes
+code_uk_eu_dualuse,"Mentions UK/EU dual-use lists, UK Export Control Order 2008, EU 2021/821, or similar.",0/1,Cite exact phrase or clause if present.
+code_itar_ear,"Mentions US ITAR/EAR, USML, CCL, ECCN, DDTC/BIS.",0/1,Includes ECCN or USML categories.
+code_sanctions,Mentions sanctions/embargo/OFAC/UK SAMLA or named sanctions lists.,0/1,"Includes ‘sanctioned’, ‘embargo’, ‘prohibited party’."
+code_military_end_use,Mentions explicit military/defence end-use or end-user.,0/1,"Look for weaponisation, military, defence procurement."
+code_partner_identity,Infers risk from country/partner identity without concrete technical trigger.,0/1,Heuristic based on nationality or affiliation alone.

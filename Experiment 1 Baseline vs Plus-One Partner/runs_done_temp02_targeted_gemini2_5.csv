@@ -1,0 +1,1040 @@
+run_id,timestamp_utc,project_id,iso3,country_name,condition,baseline_partner_count,bloc,region,model_key,model_id,model_version,latency_ms,decision,rationale,raw_response,error,prompt_tokens,completion_tokens,total_tokens
+9df927a8f49dd188,2025-10-06T15:35:18.819479+00:00,8,PYF,French Polynesia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4541,YES,The project involves developing underwater surveillance,"YES
+Rationale: The project involves developing underwater surveillance",,173,298,471
+fbf5b19998c4c1e7,2025-10-06T15:35:19.356746+00:00,8,TUV,Tuvalu,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4099,YES,The project involves developing underwater surveillance networks,"YES
+Rationale: The project involves developing underwater surveillance networks",,173,298,471
+79fc61018a91c490,2025-10-06T15:35:19.546752+00:00,23,TJK,Tajikistan,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4604,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,806,298,1104
+700118e67297364b,2025-10-06T15:35:20.242970+00:00,6,UGA,Uganda,baseline_plus_one,1,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5648,YES,The project involves dynamic encryption and its,"YES
+Rationale: The project involves dynamic encryption and its",,164,298,462
+511bfd71b41a20d2,2025-10-06T15:35:23.780712+00:00,2,---,(none),baseline,5,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4960,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,158,298,456
+b68688a5d53dc73d,2025-10-06T15:35:24.075066+00:00,2,CCK,Cocos (Keeling) Islands,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4694,YES,"The project involves telemetry and networking technologies,","YES
+Rationale: The project involves telemetry and networking technologies,",,177,298,475
+77b243221078842b,2025-10-06T15:35:24.434405+00:00,2,TTO,Trinidad and Tobago,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4736,YES,The project involves the development of networking,"YES
+Rationale: The project involves the development of networking",,173,298,471
+f3d7b39a4423d2f9,2025-10-06T15:35:24.860944+00:00,24,---,(none),baseline,3,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4607,YES,"The project involves research into ""information security","YES
+Rationale: The project involves research into ""information security",,258,298,556
+742d68951e901d32,2025-10-06T15:35:28.294630+00:00,25,PCN,Pitcairn,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4508,YES,The project focuses on the,"YES
+Rationale: The project focuses on the",,755,298,1053
+5725124f4c50a80b,2025-10-06T15:35:28.475253+00:00,26,PRT,Portugal,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4359,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,464,298,762
+a4a7818dff92ba23,2025-10-06T15:35:29.047861+00:00,14,ITA,Italy,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4170,NO,The project focuses on fundamental research for,"NO
+Rationale: The project focuses on fundamental research for",,186,298,484
+f42753f6b47fc9f9,2025-10-06T15:35:29.353921+00:00,34,SWE,Sweden,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4883,YES,The project involves research and development of,"YES
+Rationale: The project involves research and development of",,651,298,949
+6065f7ca4dcd35fd,2025-10-06T15:35:32.738793+00:00,2,SWE,Sweden,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4421,YES,"The project involves the development of ""tele","YES
+Rationale: The project involves the development of ""tele",,171,298,469
+6b12ca5b5ac2cc9d,2025-10-06T15:35:32.916184+00:00,14,REU,Réunion,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4273,YES,The project involves collaboration with ETH Zurich in,"YES
+Rationale: The project involves collaboration with ETH Zurich in",,186,298,484
+7b9a2061b2fd7ff6,2025-10-06T15:35:33.769000+00:00,26,GRC,Greece,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4697,YES,The project involves the development of novel,"YES
+Rationale: The project involves the development of novel",,464,298,762
+273fbdab240903cb,2025-10-06T15:35:34.021405+00:00,6,NZL,New Zealand,baseline_plus_one,1,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4624,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,165,298,463
+fc1ab1a4d27e38b2,2025-10-06T15:35:37.125172+00:00,14,LSO,Lesotho,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4382,YES,The project involves collaboration with ARM,"YES
+Rationale: The project involves collaboration with ARM",,186,298,484
+4863b6aeb2f8e7d7,2025-10-06T15:35:39.014436+00:00,7,ZAF,South Africa,baseline_plus_one,3,BRICS,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4910,YES,The project develops technology for critical national,"YES
+Rationale: The project develops technology for critical national",,186,298,484
+91a599a085d636be,2025-10-06T15:35:40.789883+00:00,7,WSM,Samoa,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7702,YES,"The project involves developing ""technology"" for","YES
+Rationale: The project involves developing ""technology"" for",,185,298,483
+fa2e465cff3c5c9b,2025-10-06T15:35:42.336771+00:00,24,MYT,Mayotte,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5187,YES,The project involves the development and evaluation,"YES
+Rationale: The project involves the development and evaluation",,272,298,570
+282a0feb1908aba1,2025-10-06T15:35:43.827984+00:00,12,BRB,Barbados,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4787,YES,The project involves a partner located,"YES
+Rationale: The project involves a partner located",,187,298,485
+c10cf19d7ed6c949,2025-10-06T15:35:45.729915+00:00,8,TJK,Tajikistan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4923,YES,The project involves developing SONAR and underwater,"YES
+Rationale: The project involves developing SONAR and underwater",,172,298,470
+4483047f07c67596,2025-10-06T15:35:47.605859+00:00,34,CUW,Curaçao,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5254,YES,The project involves research into,"YES
+Rationale: The project involves research into",,652,298,950
+71e348c9a7611d23,2025-10-06T15:35:49.081457+00:00,1,SDN,Sudan,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5224,YES,The project involves the development and demonstration of,"YES
+Rationale: The project involves the development and demonstration of",,415,298,713
+e47113fe5b362700,2025-10-06T15:35:54.971991+00:00,34,VIR,"Virgin Islands, U.S.",baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5878,YES,The project involves research and development of,"YES
+Rationale: The project involves research and development of",,656,298,954
+0de648d61224b2f4,2025-10-06T15:35:55.729782+00:00,26,BFA,Burkina Faso,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,8109,YES,The project involves the development and transfer,"YES
+Rationale: The project involves the development and transfer",,465,298,763
+9ab8033d61cc6bfa,2025-10-06T15:35:59.866047+00:00,18,LVA,Latvia,baseline_plus_one,31,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,26068,,,"
+
+
+
+",ParseError: decision not found,316,266,582
+05aa72d85804dda4,2025-10-06T15:36:00.541871+00:00,23,UGA,Uganda,baseline_plus_one,10,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4796,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,806,298,1104
+dac277827eeb16e2,2025-10-06T15:36:04.572982+00:00,34,LSO,Lesotho,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,18840,,.,"
+.",ParseError: decision not found,649,278,927
+714156d80c6057f0,2025-10-06T15:36:05.071444+00:00,7,ASM,American Samoa,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5177,YES,The project involves developing control methods and technologies,"YES
+Rationale: The project involves developing control methods and technologies",,186,298,484
+42f190e8d9f41657,2025-10-06T15:36:05.937015+00:00,34,KAZ,Kazakhstan,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5392,YES,The project involves the development,"YES
+Rationale: The project involves the development",,651,298,949
+2872f54dfbc5dc51,2025-10-06T15:36:09.065152+00:00,6,SHN,"Saint Helena, Ascension and Tristan da Cunha",baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4489,YES,The project involves the development of dynamic,"YES
+Rationale: The project involves the development of dynamic",,171,298,469
+632ce024f9707496,2025-10-06T15:36:10.344577+00:00,6,NLD,Netherlands,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5254,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,164,298,462
+ffd37b52eef3043c,2025-10-06T15:36:10.998691+00:00,26,MYT,Mayotte,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5059,YES,The project involves the development,"YES
+Rationale: The project involves the development",,465,298,763
+22b2b2f50367a24d,2025-10-06T15:36:14.152992+00:00,26,BRN,Brunei Darussalam,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5079,YES,The project involves the development of novel distributed,"YES
+Rationale: The project involves the development of novel distributed",,467,298,765
+24414f11f06be10d,2025-10-06T15:36:15.481696+00:00,25,BLR,Belarus,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5117,YES,The project involves a partner located in Belarus,"YES
+Rationale: The project involves a partner located in Belarus",,754,298,1052
+90234046f1ff6ece,2025-10-06T15:36:15.917156+00:00,14,RWA,Rwanda,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,20924,,,"
+
+
+",ParseError: decision not found,188,277,465
+12c41e31c458bc45,2025-10-06T15:36:16.283015+00:00,23,AUS,Australia,baseline_plus_one,10,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5267,NO,The project focuses on developing a computational system,"NO
+Rationale: The project focuses on developing a computational system",,806,298,1104
+c90eddd697bf3c40,2025-10-06T15:36:18.536942+00:00,12,ZMB,Zambia,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4373,NO,The project focuses on high-level sustainable,"NO
+Rationale: The project focuses on high-level sustainable",,187,298,485
+cfe0ec141236d159,2025-10-06T15:36:20.325065+00:00,34,RUS,Russian Federation,baseline_plus_one,0,BRICS,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4813,YES,The project involves a partner located in,"YES
+Rationale: The project involves a partner located in",,652,298,950
+f3388e20c951885d,2025-10-06T15:36:20.885196+00:00,1,SWE,Sweden,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4951,YES,"The project involves the ""development"" of","YES
+Rationale: The project involves the ""development"" of",,415,298,713
+9c189c38d84c30d1,2025-10-06T15:36:21.633403+00:00,7,GHA,Ghana,baseline_plus_one,3,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5336,YES,The project involves the development of control methods,"YES
+Rationale: The project involves the development of control methods",,185,298,483
+9e1fb8ed0bdb1b99,2025-10-06T15:36:23.126553+00:00,7,NAM,Namibia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4571,YES,The project develops technology for the control,"YES
+Rationale: The project develops technology for the control",,185,298,483
+894cffe5c3ac1895,2025-10-06T15:36:24.996821+00:00,8,MMR,Myanmar,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4668,YES,The project involves SONAR and underwater acoustic,"YES
+Rationale: The project involves SONAR and underwater acoustic",,172,298,470
+719edfab9b41fee6,2025-10-06T15:36:25.741496+00:00,7,URY,Uruguay,baseline_plus_one,3,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4082,YES,"The project develops technology for ""smart grids","YES
+Rationale: The project develops technology for ""smart grids",,185,298,483
+65e10a49b032d4a2,2025-10-06T15:36:26.041451+00:00,34,COG,Congo,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5134,YES,The project involves the development of technologies,"YES
+Rationale: The project involves the development of technologies",,651,298,949
+00e082b78167f496,2025-10-06T15:36:28.535694+00:00,7,TZA,"Tanzania, United Republic of",baseline_plus_one,3,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5389,YES,The project involves developing technology,"YES
+Rationale: The project involves developing technology",,189,298,487
+c37accb22f16630a,2025-10-06T15:36:28.956001+00:00,24,LVA,Latvia,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,3935,YES,The project involves the development and evaluation of,"YES
+Rationale: The project involves the development and evaluation of",,271,298,569
+c0da47ae78957b13,2025-10-06T15:36:30.943573+00:00,26,FRO,Faroe Islands,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5180,YES,The project involves the development of novel distributed,"YES
+Rationale: The project involves the development of novel distributed",,466,298,764
+5167713f54b5fc6d,2025-10-06T15:36:31.150277+00:00,25,RWA,Rwanda,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5068,YES,The project involves the development and testing,"YES
+Rationale: The project involves the development and testing",,754,298,1052
+43e2f2bf5a71297c,2025-10-06T15:36:33.158845+00:00,2,MEX,Mexico,baseline_plus_one,5,Other,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4609,YES,"The project involves ""telemetry solutions""","YES
+Rationale: The project involves ""telemetry solutions""",,171,297,468
+9bfbb1487bf0c53b,2025-10-06T15:36:33.632617+00:00,23,SLE,Sierra Leone,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4669,YES,"The project involves developing a ""","YES
+Rationale: The project involves developing a """,,807,298,1105
+f456a770120439bb,2025-10-06T15:36:35.847470+00:00,34,HKG,Hong Kong,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4893,YES,The project involves research and development of,"YES
+Rationale: The project involves research and development of",,652,298,950
+99bbe38b1ada2fe6,2025-10-06T15:36:36.362417+00:00,25,SWZ,Eswatini,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5070,YES,The project involves the development and sharing,"YES
+Rationale: The project involves the development and sharing",,756,298,1054
+552b9377c6280bcf,2025-10-06T15:36:38.384945+00:00,25,BRB,Barbados,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5213,YES,The project focuses on the development,"YES
+Rationale: The project focuses on the development",,754,298,1052
+b7482060a339f531,2025-10-06T15:36:38.522799+00:00,12,SYR,Syrian Arab Republic,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4886,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,189,298,487
+ebe22cf259a1f28c,2025-10-06T15:36:41.001311+00:00,26,CHE,Switzerland,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4618,YES,The project involves the development of novel distributed,"YES
+Rationale: The project involves the development of novel distributed",,464,298,762
+dea0fc2b8cc58775,2025-10-06T15:36:41.550469+00:00,34,AUT,Austria,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5689,YES,The project involves research and,"YES
+Rationale: The project involves research and",,651,298,949
+c2344ad7d904c4e4,2025-10-06T15:36:44.118614+00:00,7,NOR,Norway,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5395,YES,The project involves developing technology for smart grids,"YES
+Rationale: The project involves developing technology for smart grids",,185,298,483
+3c23b28a9ce3c4e9,2025-10-06T15:36:45.613906+00:00,2,AFG,Afghanistan,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4584,YES,The project involves collaboration with a partner,"YES
+Rationale: The project involves collaboration with a partner",,171,298,469
+3c1c0101b2860a70,2025-10-06T15:36:46.681296+00:00,25,ALB,Albania,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5128,YES,The project involves the development,"YES
+Rationale: The project involves the development",,754,298,1052
+990c0802cf452390,2025-10-06T15:36:47.840028+00:00,8,RUS,Russian Federation,baseline_plus_one,3,BRICS,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,9443,YES,The project involves SONAR and underwater,"YES
+Rationale: The project involves SONAR and underwater",,173,298,471
+21f1a03e4fba3aa0,2025-10-06T15:36:48.732882+00:00,27,NOR,Norway,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4588,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,820,298,1118
+7a059565d1ef963f,2025-10-06T15:36:49.695815+00:00,14,PYF,French Polynesia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4078,YES,The project involves the transfer,"YES
+Rationale: The project involves the transfer",,187,298,485
+21a83d83d1d8c637,2025-10-06T15:36:54.542204+00:00,1,CHE,Switzerland,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4829,YES,The project involves the development of technology related,"YES
+Rationale: The project involves the development of technology related",,415,298,713
+11509aa8bbfca7b9,2025-10-06T15:36:57.933884+00:00,25,AUS,Australia,baseline_plus_one,0,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,10071,YES,The project focuses on the,"YES
+Rationale: The project focuses on the",,754,298,1052
+2c0cce4b0f634806,2025-10-06T15:36:59.311658+00:00,18,FRO,Faroe Islands,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4751,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,316,298,614
+4d3248273fc86e42,2025-10-06T15:37:00.772081+00:00,12,AFG,Afghanistan,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,12014,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,187,298,485
+5c2686e7eb215508,2025-10-06T15:37:02.563682+00:00,24,CHN,China,baseline_plus_one,3,BRICS,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4612,YES,The project involves the development and security evaluation,"YES
+Rationale: The project involves the development and security evaluation",,271,298,569
+1e8ee6ad11524ceb,2025-10-06T15:37:06.694713+00:00,18,MCO,Monaco,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5918,YES,"The project focuses on developing ""cryptographic","YES
+Rationale: The project focuses on developing ""cryptographic",,314,298,612
+bfad2eb4ac1ad316,2025-10-06T15:37:07.267911+00:00,34,MAF,Saint Martin (French part),baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4693,YES,The project involves research and development,"YES
+Rationale: The project involves research and development",,655,298,953
+df977f2e4daf6700,2025-10-06T15:37:07.544760+00:00,1,SUR,Suriname,baseline_plus_one,0,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,20860,,,"
+
+
+",ParseError: decision not found,414,279,693
+b4675dab0dfa3e3c,2025-10-06T15:37:11.518357+00:00,14,CCK,Cocos (Keeling) Islands,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4803,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,192,298,490
+37d8a4cc3fdb85d8,2025-10-06T15:37:12.177904+00:00,27,ZMB,Zambia,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4549,YES,The project involves research,"YES
+Rationale: The project involves research",,820,298,1118
+f6d192f4fd5bbae6,2025-10-06T15:37:12.353936+00:00,10,TKM,Turkmenistan,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5063,YES,The project involves collaboration with a partner in,"YES
+Rationale: The project involves collaboration with a partner in",,165,298,463
+099799198e45bac5,2025-10-06T15:37:13.288670+00:00,26,CAN,Canada,baseline_plus_one,3,FiveEyes,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,13966,YES,The project involves developing a novel distributed,"YES
+Rationale: The project involves developing a novel distributed",,464,298,762
+66b83cfefc65977e,2025-10-06T15:37:16.278169+00:00,27,TJK,Tajikistan,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4737,YES,The project involves collaboration with Wuhan University,"YES
+Rationale: The project involves collaboration with Wuhan University",,820,298,1118
+b6276854f62351e5,2025-10-06T15:37:16.609353+00:00,6,RUS,Russian Federation,baseline_plus_one,1,BRICS,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4401,YES,The project involves the development of advanced,"YES
+Rationale: The project involves the development of advanced",,165,298,463
+7b1fd7555bcb48ab,2025-10-06T15:37:17.671478+00:00,27,GRC,Greece,baseline_plus_one,11,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5141,YES,"The project involves collaboration with Wuhan University,","YES
+Rationale: The project involves collaboration with Wuhan University,",,820,298,1118
+f37984720e01bea1,2025-10-06T15:37:17.846108+00:00,10,BRN,Brunei Darussalam,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4546,YES,"The project involves ""cyber security""","YES
+Rationale: The project involves ""cyber security""",,168,298,466
+3770c35112551a79,2025-10-06T15:37:21.388989+00:00,34,PYF,French Polynesia,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5093,YES,The project involves research and development,"YES
+Rationale: The project involves research and development",,652,298,950
+a68dc50b5fee1edc,2025-10-06T15:37:21.537061+00:00,7,ISR,Israel,baseline_plus_one,3,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4918,YES,The project develops technology for the,"YES
+Rationale: The project develops technology for the",,185,298,483
+a41700c87cb905d8,2025-10-06T15:37:22.094658+00:00,12,SVK,Slovakia,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4082,NO,The project,"NO
+Rationale: The project",,187,298,485
+2c79a4d4b65e2856,2025-10-06T15:37:22.647114+00:00,12,---,(none),baseline,5,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4955,NO,The project focuses on developing,"NO
+Rationale: The project focuses on developing",,174,298,472
+94c3c0b3729e87c1,2025-10-06T15:37:26.439782+00:00,26,ECU,Ecuador,baseline_plus_one,3,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4691,YES,The project involves the development of novel distributed,"YES
+Rationale: The project involves the development of novel distributed",,464,298,762
+94150b0d85997fc2,2025-10-06T15:37:26.719494+00:00,18,LUX,Luxembourg,baseline_plus_one,31,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5326,YES,The project focuses on developing and using,"YES
+Rationale: The project focuses on developing and using",,314,298,612
+9debf40cf9f126cf,2025-10-06T15:37:27.696681+00:00,8,UZB,Uzbekistan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5590,YES,"The project involves developing underwater surveillance networks,","YES
+Rationale: The project involves developing underwater surveillance networks,",,172,298,470
+d49487a4b0791792,2025-10-06T15:37:27.978465+00:00,14,AIA,Anguilla,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5307,YES,The project involves collaboration with ETH,"YES
+Rationale: The project involves collaboration with ETH",,187,298,485
+6751864846a57724,2025-10-06T15:37:31.666323+00:00,25,MEX,Mexico,baseline_plus_one,0,Other,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4868,YES,The project involves the development and sharing,"YES
+Rationale: The project involves the development and sharing",,754,298,1052
+918fca5adc92f08b,2025-10-06T15:37:32.545314+00:00,10,AUS,Australia,baseline_plus_one,0,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4822,YES,"The project involves ""cyber security","YES
+Rationale: The project involves ""cyber security",,165,298,463
+9e5d20a43e780617,2025-10-06T15:37:32.926685+00:00,6,SWE,Sweden,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6469,YES,The project involves dynamic encryption and its application,"YES
+Rationale: The project involves dynamic encryption and its application",,164,298,462
+06d3d5abf6c81c26,2025-10-06T15:37:33.394576+00:00,2,STP,Sao Tome and Principe,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5334,YES,The project involves the development,"YES
+Rationale: The project involves the development",,174,298,472
+8d4593687e4f65ea,2025-10-06T15:37:35.966522+00:00,12,ISL,Iceland,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4275,NO,The project focuses on developing high,"NO
+Rationale: The project focuses on developing high",,187,298,485
+ee0eae4bad308bb4,2025-10-06T15:37:37.422749+00:00,2,IRQ,Iraq,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4858,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,171,298,469
+15363455ce514f8f,2025-10-06T15:37:38.120421+00:00,26,KIR,Kiribati,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4724,YES,The project focuses on developing a novel distributed,"YES
+Rationale: The project focuses on developing a novel distributed",,465,298,763
+551013f3629c6550,2025-10-06T15:37:38.229156+00:00,25,SMR,San Marino,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5282,YES,The project involves the development and testing of,"YES
+Rationale: The project involves the development and testing of",,755,298,1053
+6a6e9b84101b0885,2025-10-06T15:37:40.856176+00:00,7,NZL,New Zealand,baseline_plus_one,3,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4861,YES,The project involves developing methods,"YES
+Rationale: The project involves developing methods",,186,298,484
+96824f523dc0022c,2025-10-06T15:37:43.051974+00:00,24,GRC,Greece,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4592,YES,The project involves the development and evaluation,"YES
+Rationale: The project involves the development and evaluation",,271,298,569
+196c86c890391ff5,2025-10-06T15:37:43.309925+00:00,10,ROU,Romania,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5181,YES,"The project involves ""cyber","YES
+Rationale: The project involves ""cyber",,165,298,463
+11fa4bff5017ee4f,2025-10-06T15:37:43.490651+00:00,24,KAZ,Kazakhstan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6042,YES,The project involves the development and evaluation of,"YES
+Rationale: The project involves the development and evaluation of",,271,298,569
+6be8276526a31ec3,2025-10-06T15:37:46.219084+00:00,34,IMN,Isle of Man,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5341,YES,The project involves the development of technology,"YES
+Rationale: The project involves the development of technology",,653,298,951
+9df000e81926b03d,2025-10-06T15:37:47.754494+00:00,14,---,(none),baseline,3,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4692,NO,The project focuses on fundamental research,"NO
+Rationale: The project focuses on fundamental research",,173,298,471
+f5dda002c50091d9,2025-10-06T15:37:48.243632+00:00,27,WLF,Wallis and Futuna,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4524,YES,The project involves research into the development,"YES
+Rationale: The project involves research into the development",,823,298,1121
+270780dcbfdd0d69,2025-10-06T15:37:50.306943+00:00,25,---,(none),baseline,0,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6910,YES,The project focuses on the development and,"YES
+Rationale: The project focuses on the development and",,745,298,1043
+842386d76949ce12,2025-10-06T15:37:52.091888+00:00,10,FRA,France,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4319,YES,The project involves the development of software and,"YES
+Rationale: The project involves the development of software and",,165,298,463
+4f4d14f29778271a,2025-10-06T15:37:54.552616+00:00,10,WLF,Wallis and Futuna,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4241,YES,The project involves the development,"YES
+Rationale: The project involves the development",,168,298,466
+b641f43b792241be,2025-10-06T15:37:56.617983+00:00,10,CYP,Cyprus,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4506,YES,The project involves the development of software and,"YES
+Rationale: The project involves the development of software and",,165,298,463
+8741980203713729,2025-10-06T15:38:02.442807+00:00,14,ISR,Israel,baseline_plus_one,3,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,16197,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,186,298,484
+984992fafe44b5a0,2025-10-06T15:38:03.705597+00:00,27,LBY,Libya,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,15449,YES,The project involves research into novel semiconductors,"YES
+Rationale: The project involves research into novel semiconductors",,820,298,1118
+900f7802f1fe6ac7,2025-10-06T15:38:07.837894+00:00,12,SVN,Slovenia,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5388,NO,The project focuses on developing high-,"NO
+Rationale: The project focuses on developing high-",,187,298,485
+fd40b1aaf538ff35,2025-10-06T15:38:08.911057+00:00,8,DEU,Germany,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,14357,YES,The project involves developing underwater surveillance networks,"YES
+Rationale: The project involves developing underwater surveillance networks",,172,298,470
+a704314ef0f39430,2025-10-06T15:38:09.223517+00:00,7,ARE,United Arab Emirates,baseline_plus_one,3,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5504,YES,The project involves developing technology for the,"YES
+Rationale: The project involves developing technology for the",,187,298,485
+b51eb796fb1b5776,2025-10-06T15:38:13.073955+00:00,26,FRA,France,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5225,YES,The project involves the development of novel distributed,"YES
+Rationale: The project involves the development of novel distributed",,464,298,762
+26600980d8502ce1,2025-10-06T15:38:13.568104+00:00,8,SDN,Sudan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4301,YES,The project involves developing SONAR and underwater,"YES
+Rationale: The project involves developing SONAR and underwater",,172,298,470
+8317936fda0b3e5b,2025-10-06T15:38:14.128481+00:00,18,PRT,Portugal,baseline_plus_one,31,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,17487,,My,"
+My",ParseError: decision not found,316,271,587
+fbce843d88db7e87,2025-10-06T15:38:14.619815+00:00,8,ITA,Italy,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5697,YES,The project involves developing underwater surveillance networks,"YES
+Rationale: The project involves developing underwater surveillance networks",,172,298,470
+969fc6231f554b8a,2025-10-06T15:38:17.776278+00:00,2,TKM,Turkmenistan,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4678,YES,The project involves collaboration with a university in,"YES
+Rationale: The project involves collaboration with a university in",,171,298,469
+d6866b0b617e9f17,2025-10-06T15:38:17.934948+00:00,6,AUS,Australia,baseline_plus_one,1,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4349,YES,The project involves the development,"YES
+Rationale: The project involves the development",,164,298,462
+9497178299db7be3,2025-10-06T15:38:18.972069+00:00,27,CPV,Cabo Verde,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4840,YES,The project involves international collaboration on the,"YES
+Rationale: The project involves international collaboration on the",,821,298,1119
+2a640bfe0c4cd736,2025-10-06T15:38:19.323071+00:00,25,PYF,French Polynesia,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4701,YES,"The project involves the development, production","YES
+Rationale: The project involves the development, production",,755,298,1053
+ed9776e91c55b655,2025-10-06T15:38:22.501655+00:00,26,SUR,Suriname,baseline_plus_one,3,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4720,YES,The project involves the development of software and,"YES
+Rationale: The project involves the development of software and",,464,298,762
+a40a7db3c2c3434d,2025-10-06T15:38:23.146722+00:00,24,ROU,Romania,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5017,YES,The project involves the development and security analysis,"YES
+Rationale: The project involves the development and security analysis",,271,298,569
+19ee9d8d75c49321,2025-10-06T15:38:24.033506+00:00,6,MTQ,Martinique,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4701,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,164,298,462
+f7ddb455166d82f5,2025-10-06T15:38:24.075275+00:00,24,ISL,Iceland,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5082,YES,This project involves the development and evaluation of,"YES
+Rationale: This project involves the development and evaluation of",,271,298,569
+0fd089a73746a9bb,2025-10-06T15:38:27.900463+00:00,24,YEM,Yemen,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4738,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,271,298,569
+7455fdccd9b97d36,2025-10-06T15:38:27.974072+00:00,26,BRB,Barbados,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5452,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,464,298,762
+a7c843264a3e43ca,2025-10-06T15:38:28.684935+00:00,7,---,(none),baseline,3,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4637,YES,The project develops technology for critical national,"YES
+Rationale: The project develops technology for critical national",,172,298,470
+67e6ae87683e2dde,2025-10-06T15:38:28.804310+00:00,8,AUT,Austria,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4428,YES,The project involves developing SON,"YES
+Rationale: The project involves developing SON",,172,298,470
+ee05b9d8b696c1cb,2025-10-06T15:38:33.549483+00:00,23,GHA,Ghana,baseline_plus_one,10,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5311,YES,The project involves the development,"YES
+Rationale: The project involves the development",,806,298,1104
+700e190654f2eae4,2025-10-06T15:38:33.907161+00:00,2,RUS,Russian Federation,baseline_plus_one,5,BRICS,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5208,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,172,298,470
+cd3eda0f5892e4e5,2025-10-06T15:38:34.024297+00:00,23,SDN,Sudan,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6100,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,806,298,1104
+27502d2a9bc0c12f,2025-10-06T15:38:34.508724+00:00,27,---,(none),baseline,11,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5481,YES,The project involves international collaboration on the development,"YES
+Rationale: The project involves international collaboration on the development",,807,298,1105
+42965ad0ebe2330c,2025-10-06T15:38:38.808121+00:00,34,TUV,Tuvalu,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4885,YES,The project involves research and development of multiple,"YES
+Rationale: The project involves research and development of multiple",,652,298,950
+d755438b22f6f3b5,2025-10-06T15:38:39.674183+00:00,26,UZB,Uzbekistan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6103,YES,The project involves the development of novel,"YES
+Rationale: The project involves the development of novel",,464,298,762
+d8bcf3d1be50f4ed,2025-10-06T15:38:39.982103+00:00,23,AUT,Austria,baseline_plus_one,10,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5406,NO,The project focuses on developing a,"NO
+Rationale: The project focuses on developing a",,806,298,1104
+42c4248bc65a89cf,2025-10-06T15:38:40.104525+00:00,25,FRO,Faroe Islands,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5843,YES,The project focuses on the development,"YES
+Rationale: The project focuses on the development",,756,298,1054
+93ab93d9c5ca8339,2025-10-06T15:38:43.885069+00:00,10,MYT,Mayotte,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5064,YES,"The project involves ""cyber security","YES
+Rationale: The project involves ""cyber security",,166,298,464
+d865184234795fcf,2025-10-06T15:38:44.126696+00:00,27,LSO,Lesotho,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4434,YES,"The project involves collaboration with Wuhan University,","YES
+Rationale: The project involves collaboration with Wuhan University,",,820,298,1118
+57c051f81ea26507,2025-10-06T15:38:44.709427+00:00,6,MAF,Saint Martin (French part),baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4358,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,168,298,466
+5a2988631c43bdcf,2025-10-06T15:38:45.010359+00:00,1,KIR,Kiribati,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5002,YES,"This project involves the ""development"" of","YES
+Rationale: This project involves the ""development"" of",,416,298,714
+cf1abb4368a9b5ba,2025-10-06T15:38:48.495882+00:00,26,ARM,Armenia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4604,YES,The project involves the development,"YES
+Rationale: The project involves the development",,464,298,762
+48fd9bd0871d8340,2025-10-06T15:38:49.223571+00:00,2,WSM,Samoa,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5000,YES,"The project involves the development of networking,","YES
+Rationale: The project involves the development of networking,",,171,298,469
+03b395ac5ecc68ce,2025-10-06T15:38:49.985766+00:00,1,PRT,Portugal,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5268,YES,"The project involves the ""development","YES
+Rationale: The project involves the ""development",,415,298,713
+7d0060d53efe5135,2025-10-06T15:38:50.037205+00:00,25,LTU,Lithuania,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4984,YES,The project involves the development and testing,"YES
+Rationale: The project involves the development and testing",,754,298,1052
+5f93157d756b6c0b,2025-10-06T15:38:53.117514+00:00,24,TJK,Tajikistan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4621,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,271,298,569
+bd44c278daaded1e,2025-10-06T15:38:53.830447+00:00,2,TUN,Tunisia,baseline_plus_one,5,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4584,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,171,298,469
+5d2f92c1f3772564,2025-10-06T15:38:54.699805+00:00,18,SAU,Saudi Arabia,baseline_plus_one,31,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4708,YES,"The project involves research into ""cryptographic","YES
+Rationale: The project involves research into ""cryptographic",,315,298,613
+c41511fb4e216925,2025-10-06T15:38:55.203503+00:00,2,CHE,Switzerland,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4872,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,171,298,469
+478605f3f826464d,2025-10-06T15:38:59.343673+00:00,18,STP,Sao Tome and Principe,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6204,,). AI for this purpose could fall under this.,"). AI for this purpose could fall under this.
+",ParseError: decision not found,317,298,615
+a1355becc9ddc8f8,2025-10-06T15:39:00.483551+00:00,18,SUR,Suriname,baseline_plus_one,31,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5758,YES,The project involves the development,"YES
+Rationale: The project involves the development",,314,298,612
+0078ebebd4d9e794,2025-10-06T15:39:01.017724+00:00,1,FIN,Finland,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7171,YES,"The project involves the ""development","YES
+Rationale: The project involves the ""development",,415,298,713
+937049fccbbd0984,2025-10-06T15:39:01.570201+00:00,2,PRT,Portugal,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6342,YES,"The project involves the development of ""tele","YES
+Rationale: The project involves the development of ""tele",,171,298,469
+156203d241f8a667,2025-10-06T15:39:03.941934+00:00,8,MYT,Mayotte,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4595,YES,The project involves the development of underwater surveillance,"YES
+Rationale: The project involves the development of underwater surveillance",,173,298,471
+5cf81d5e8f230c01,2025-10-06T15:39:05.892584+00:00,18,TUN,Tunisia,baseline_plus_one,31,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4873,YES,"The project involves research into ""cryptographic","YES
+Rationale: The project involves research into ""cryptographic",,314,298,612
+afaf9ffd13959a44,2025-10-06T15:39:06.005813+00:00,24,BRN,Brunei Darussalam,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5495,YES,The project involves the development and evaluation,"YES
+Rationale: The project involves the development and evaluation",,274,298,572
+50c152726056f372,2025-10-06T15:39:07.494613+00:00,2,URY,Uruguay,baseline_plus_one,5,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5923,YES,The project involves telecommunications and,"YES
+Rationale: The project involves telecommunications and",,171,298,469
+b5176a683bed5361,2025-10-06T15:39:09.347287+00:00,18,WLF,Wallis and Futuna,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5377,YES,The project involves the development and use of,"YES
+Rationale: The project involves the development and use of",,317,298,615
+10015c95a5c6e056,2025-10-06T15:39:10.847066+00:00,2,FIN,Finland,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4603,YES,"The project involves the development of ""tele","YES
+Rationale: The project involves the development of ""tele",,171,298,469
+92135329a9854e23,2025-10-06T15:39:11.544732+00:00,26,PCN,Pitcairn,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5625,YES,The project involves the development of novel decentralized,"YES
+Rationale: The project involves the development of novel decentralized",,465,298,763
+f726be0f3fee09bd,2025-10-06T15:39:12.454831+00:00,18,BFA,Burkina Faso,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4942,YES,"The project focuses on developing ""cryptographic","YES
+Rationale: The project focuses on developing ""cryptographic",,315,298,613
+208ff3a0bc7d0429,2025-10-06T15:39:14.001394+00:00,25,RUS,Russian Federation,baseline_plus_one,0,BRICS,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4632,YES,The project involves a partner located in,"YES
+Rationale: The project involves a partner located in",,755,298,1053
+be72d3d519d5b105,2025-10-06T15:39:15.660941+00:00,8,KAZ,Kazakhstan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4800,YES,The project involves developing SONAR and underwater,"YES
+Rationale: The project involves developing SONAR and underwater",,172,298,470
+ab677b5ddcdc1d6b,2025-10-06T15:39:15.721739+00:00,1,VCT,Saint Vincent and the Grenadines,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4173,YES,The project focuses on the development,"YES
+Rationale: The project focuses on the development",,421,298,719
+8b6aa0e64318c65f,2025-10-06T15:39:16.899241+00:00,7,GGY,Guernsey,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4443,YES,The project involves developing technology,"YES
+Rationale: The project involves developing technology",,185,298,483
+d7e9b667d303aac8,2025-10-06T15:39:19.034650+00:00,6,TON,Tonga,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5023,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,164,298,462
+9f63b556c7f60d54,2025-10-06T15:39:20.642490+00:00,25,GHA,Ghana,baseline_plus_one,0,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4957,YES,The project focuses on the development and,"YES
+Rationale: The project focuses on the development and",,754,298,1052
+abd11d30c9dc9011,2025-10-06T15:39:20.955833+00:00,1,FRA,France,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4942,YES,"The project involves the ""development","YES
+Rationale: The project involves the ""development",,415,298,713
+55441212d0c899c8,2025-10-06T15:39:22.549605+00:00,25,SJM,Svalbard and Jan Mayen,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5624,YES,The project involves research and development,"YES
+Rationale: The project involves research and development",,759,298,1057
+edc86fd0671aedf1,2025-10-06T15:39:24.195026+00:00,8,IRN,"Iran, Islamic Republic of",baseline_plus_one,3,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5132,YES,The project involves developing SONAR and,"YES
+Rationale: The project involves developing SONAR and",,176,298,474
+0251fe3806f39985,2025-10-06T15:39:25.257337+00:00,6,ECU,Ecuador,baseline_plus_one,1,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4611,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,164,298,462
+ca2e64b60e9b2df6,2025-10-06T15:39:25.492759+00:00,1,MEX,Mexico,baseline_plus_one,0,Other,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4491,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,415,298,713
+7c500b3f68de1fa3,2025-10-06T15:39:27.945335+00:00,14,SAU,Saudi Arabia,baseline_plus_one,3,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5387,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,187,298,485
+82998607d3484ddd,2025-10-06T15:39:29.203750+00:00,1,NZL,New Zealand,baseline_plus_one,0,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4990,YES,"The project involves the ""","YES
+Rationale: The project involves the """,,416,298,714
+e3298037622db52d,2025-10-06T15:39:30.097838+00:00,10,SUR,Suriname,baseline_plus_one,0,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4824,YES,"The project involves ""cyber security"" and","YES
+Rationale: The project involves ""cyber security"" and",,165,298,463
+5629ac2b4c316324,2025-10-06T15:39:30.555803+00:00,34,TJK,Tajikistan,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4952,YES,The project involves,"YES
+Rationale: The project involves",,651,298,949
+36bfa90f67d9affb,2025-10-06T15:39:34.918619+00:00,6,RWA,Rwanda,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4357,YES,The project involves the development,"YES
+Rationale: The project involves the development",,164,298,462
+30048c2cdcebaf6e,2025-10-06T15:39:34.989184+00:00,34,PRK,"Korea, Democratic People's Republic of",baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4880,YES,The project involves collaboration with a partner,"YES
+Rationale: The project involves collaboration with a partner",,658,298,956
+23dacd9631089bb9,2025-10-06T15:39:35.088728+00:00,7,DEU,Germany,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5874,YES,The project develops technology for critical national,"YES
+Rationale: The project develops technology for critical national",,185,298,483
+fb45d19b9c3553aa,2025-10-06T15:39:37.563887+00:00,12,CAF,Central African Republic,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,9608,NO,The project focuses on high-level design,"NO
+Rationale: The project focuses on high-level design",,189,298,487
+2b35a80117ba3d0d,2025-10-06T15:39:40.094578+00:00,12,RWA,Rwanda,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5160,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,187,298,485
+0ba761746e8c7fe4,2025-10-06T15:39:40.107012+00:00,6,SVN,Slovenia,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4851,YES,The project involves the development of dynamic encryption,"YES
+Rationale: The project involves the development of dynamic encryption",,164,298,462
+41d0a85ab516a8ea,2025-10-06T15:39:40.619245+00:00,6,NAM,Namibia,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5017,YES,The project involves the development of dynamic,"YES
+Rationale: The project involves the development of dynamic",,164,298,462
+05bbb3d4ed8a2606,2025-10-06T15:39:43.141384+00:00,10,---,(none),baseline,0,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5549,YES,"The project involves ""cyber security""","YES
+Rationale: The project involves ""cyber security""",,156,298,454
+8ae04dbb8e383c55,2025-10-06T15:39:45.080524+00:00,6,ESP,Spain,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4630,YES,"The project involves the development of ""dynamic","YES
+Rationale: The project involves the development of ""dynamic",,164,298,462
+91ec8041f5067561,2025-10-06T15:39:47.181555+00:00,24,STP,Sao Tome and Principe,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6394,YES,The project involves the development,"YES
+Rationale: The project involves the development",,274,298,572
+10d9158a88e75995,2025-10-06T15:39:48.194010+00:00,34,REU,Réunion,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5027,YES,The project involves research into technologies that,"YES
+Rationale: The project involves research into technologies that",,651,298,949
+16e7ba91138974e2,2025-10-06T15:39:49.431870+00:00,25,AIA,Anguilla,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4343,YES,The project involves,"YES
+Rationale: The project involves",,755,298,1053
+aeae7e0a2da287a6,2025-10-06T15:39:51.978249+00:00,7,NLD,Netherlands,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4791,YES,The project involves developing technology for the,"YES
+Rationale: The project involves developing technology for the",,185,298,483
+4479b8be77efe224,2025-10-06T15:39:53.268745+00:00,25,PRT,Portugal,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5068,YES,The project focuses on the development,"YES
+Rationale: The project focuses on the development",,754,298,1052
+dee2767aceba3b86,2025-10-06T15:39:54.457973+00:00,2,NOR,Norway,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5007,YES,"The project involves telemetry and networking, which","YES
+Rationale: The project involves telemetry and networking, which",,171,298,469
+a0e910a468d791b7,2025-10-06T15:39:57.066543+00:00,2,PRK,"Korea, Democratic People's Republic of",baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5065,YES,The project involves a,"YES
+Rationale: The project involves a",,178,298,476
+4b832c35dd735077,2025-10-06T15:39:57.683911+00:00,6,SMR,San Marino,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4395,YES,"The project develops ""dynamic","YES
+Rationale: The project develops ""dynamic",,165,298,463
+1fac015b5ee2e95b,2025-10-06T15:39:58.607415+00:00,26,IRQ,Iraq,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4143,YES,The project involves the development and transfer of,"YES
+Rationale: The project involves the development and transfer of",,464,298,762
+260b838ba5b30ea5,2025-10-06T15:40:02.729081+00:00,23,CYP,Cyprus,baseline_plus_one,10,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,22623,,,"
+
+
+",ParseError: decision not found,807,286,1093
+511a53cc468c2d1e,2025-10-06T15:40:02.966285+00:00,7,AUT,Austria,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5267,YES,"The project develops technology for ""control""","YES
+Rationale: The project develops technology for ""control""",,185,298,483
+0e7c9d00f5e642ef,2025-10-06T15:40:03.088094+00:00,24,CYP,Cyprus,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5997,YES,The project involves the development,"YES
+Rationale: The project involves the development",,271,298,569
+a4dbdc5518cffe6c,2025-10-06T15:40:05.082751+00:00,24,ATF,French Southern Territories,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6452,YES,The project involves the development and evaluation of,"YES
+Rationale: The project involves the development and evaluation of",,273,298,571
+3867d14a8cca427c,2025-10-06T15:40:07.959844+00:00,23,LTU,Lithuania,baseline_plus_one,10,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4883,YES,The project involves the development,"YES
+Rationale: The project involves the development",,806,298,1104
+f960f4c28fdd45c8,2025-10-06T15:40:08.434172+00:00,8,ZAF,South Africa,baseline_plus_one,3,BRICS,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5681,YES,The project involves developing underwater,"YES
+Rationale: The project involves developing underwater",,173,298,471
+04f77cc20e78e7dc,2025-10-06T15:40:09.117523+00:00,6,---,(none),baseline,1,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5693,YES,The project involves the development,"YES
+Rationale: The project involves the development",,151,298,449
+2c132a6d41bb15cb,2025-10-06T15:40:09.607959+00:00,2,GIN,Guinea,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4507,YES,The project involves the development,"YES
+Rationale: The project involves the development",,171,298,469
+6ef08a59c3568b0e,2025-10-06T15:40:12.804552+00:00,25,AUT,Austria,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4825,YES,The project focuses on the development and,"YES
+Rationale: The project focuses on the development and",,754,298,1052
+44280452568072c2,2025-10-06T15:40:13.497075+00:00,26,BLR,Belarus,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5043,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,464,298,762
+eaa49ccc456cd519,2025-10-06T15:40:14.011308+00:00,14,POL,Poland,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4384,YES,The project involves collaboration with a partner in,"YES
+Rationale: The project involves collaboration with a partner in",,186,298,484
+19f73fcb0117762d,2025-10-06T15:40:14.082396+00:00,6,SAU,Saudi Arabia,baseline_plus_one,1,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4938,YES,The project involves the development,"YES
+Rationale: The project involves the development",,165,298,463
+42bee9cb0c4164d3,2025-10-06T15:40:18.027324+00:00,23,---,(none),baseline,10,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5217,NO,The project focuses on developing a,"NO
+Rationale: The project focuses on developing a",,793,298,1091
+8dd9fe95ff9ffa71,2025-10-06T15:40:18.532532+00:00,27,MSR,Montserrat,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5032,YES,"The project involves collaboration with Wuhan University,","YES
+Rationale: The project involves collaboration with Wuhan University,",,820,298,1118
+9f64b5c1163d6d9a,2025-10-06T15:40:19.535769+00:00,10,CUB,Cuba,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5510,YES,The project involves collaboration with a partner in,"YES
+Rationale: The project involves collaboration with a partner in",,165,298,463
+0e0476c30f846ebb,2025-10-06T15:40:19.854822+00:00,10,TON,Tonga,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5500,YES,The project involves the development,"YES
+Rationale: The project involves the development",,165,298,463
+fc9915bf20b9a09f,2025-10-06T15:40:22.562505+00:00,23,YEM,Yemen,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4526,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,806,298,1104
+fdc758f68341721a,2025-10-06T15:40:23.681720+00:00,14,BRB,Barbados,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5147,YES,The project involves collaboration with an,"YES
+Rationale: The project involves collaboration with an",,186,298,484
+df18643abc05c0c4,2025-10-06T15:40:24.354741+00:00,25,NOR,Norway,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4803,YES,The project focuses on the development and testing,"YES
+Rationale: The project focuses on the development and testing",,754,298,1052
+e1a007cc89a9ef26,2025-10-06T15:40:25.115124+00:00,8,FIN,Finland,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5235,YES,The project involves the development of SONAR,"YES
+Rationale: The project involves the development of SONAR",,172,298,470
+21c8ebbad38ee60d,2025-10-06T15:40:27.835843+00:00,1,LBY,Libya,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5259,YES,The project involves the development of technology related,"YES
+Rationale: The project involves the development of technology related",,415,298,713
+7ce3f338b254f901,2025-10-06T15:40:28.330501+00:00,6,ZAF,South Africa,baseline_plus_one,1,BRICS,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4646,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,165,298,463
+79d55f205c3c50e5,2025-10-06T15:40:29.067304+00:00,7,ESP,Spain,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4687,YES,"The project develops technology for ""control""","YES
+Rationale: The project develops technology for ""control""",,185,298,483
+e40fab7e8e1919ab,2025-10-06T15:40:30.251992+00:00,26,ISL,Iceland,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5134,YES,The project involves the development,"YES
+Rationale: The project involves the development",,464,298,762
+15b4ce1a72a6ae4f,2025-10-06T15:40:32.373522+00:00,14,AFG,Afghanistan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4511,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,186,298,484
+cab83290eda73189,2025-10-06T15:40:33.480365+00:00,27,IMN,Isle of Man,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5123,YES,The project involves research into,"YES
+Rationale: The project involves research into",,822,298,1120
+14a2fa4b54db5604,2025-10-06T15:40:33.584450+00:00,7,LBY,Libya,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4498,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,185,298,483
+ff356d07ac63d603,2025-10-06T15:40:35.493986+00:00,2,POL,Poland,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5226,YES,The project involves the development of networking,"YES
+Rationale: The project involves the development of networking",,171,298,469
+609f68a004235f99,2025-10-06T15:40:36.947348+00:00,27,SWE,Sweden,baseline_plus_one,11,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4559,YES,The project involves collaboration with Wuhan University,"YES
+Rationale: The project involves collaboration with Wuhan University",,820,298,1118
+b5d8bc19b3b07975,2025-10-06T15:40:39.366485+00:00,34,ABW,Aruba,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5528,YES,The project involves the,"YES
+Rationale: The project involves the",,651,298,949
+774e75fff4179693,2025-10-06T15:40:40.306718+00:00,12,GRC,Greece,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4785,NO,The project focuses on high-level sustainable,"NO
+Rationale: The project focuses on high-level sustainable",,187,298,485
+287ffb5341b92e06,2025-10-06T15:40:41.919718+00:00,34,CHE,Switzerland,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4958,YES,The project requires review due,"YES
+Rationale: The project requires review due",,651,298,949
+f2bd4e27e62a18bc,2025-10-06T15:40:43.738524+00:00,23,BRB,Barbados,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4347,YES,The project involves the development of a new,"YES
+Rationale: The project involves the development of a new",,806,298,1104
+431c25c15df51dbc,2025-10-06T15:40:44.548558+00:00,1,WLF,Wallis and Futuna,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,11051,YES,"The project involves the ""","YES
+Rationale: The project involves the """,,418,298,716
+463ad63378a624be,2025-10-06T15:40:44.950269+00:00,25,WSM,Samoa,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4623,YES,The project involves the development and testing of,"YES
+Rationale: The project involves the development and testing of",,754,298,1052
+124c6ffe24d3febf,2025-10-06T15:40:49.804010+00:00,6,URY,Uruguay,baseline_plus_one,1,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5250,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,164,298,462
+6eca2ecfb8e4ac86,2025-10-06T15:40:51.010672+00:00,27,KIR,Kiribati,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7257,YES,The project involves collaboration with Wuhan University,"YES
+Rationale: The project involves collaboration with Wuhan University",,821,298,1119
+b47d69b8a7eb9d4f,2025-10-06T15:40:52.541661+00:00,26,WLF,Wallis and Futuna,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,10611,YES,The project,"YES
+Rationale: The project",,467,298,765
+ae58896da1db9a9e,2025-10-06T15:40:56.151816+00:00,25,BFA,Burkina Faso,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5113,YES,The project involves the development and testing,"YES
+Rationale: The project involves the development and testing",,755,298,1053
+0f31c3fcd52e7043,2025-10-06T15:41:00.910875+00:00,8,STP,Sao Tome and Principe,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,11103,YES,The project involves developing underwater,"YES
+Rationale: The project involves developing underwater",,175,298,473
+7a9429125a8560c8,2025-10-06T15:41:01.143491+00:00,26,SJM,Svalbard and Jan Mayen,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,16191,,*,"
+*",ParseError: decision not found,469,277,746
+f6e2b01a030711a3,2025-10-06T15:41:03.806744+00:00,23,BEL,Belgium,baseline_plus_one,10,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,11254,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,806,298,1104
+ec7ee1772ec5e922,2025-10-06T15:41:06.112019+00:00,2,ATF,French Southern Territories,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5185,YES,The project involves telemetry and networking technology,"YES
+Rationale: The project involves telemetry and networking technology",,173,298,471
+ed1e93d5dda21dd1,2025-10-06T15:41:06.212615+00:00,26,KAZ,Kazakhstan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4962,YES,The project involves the development of novel distributed,"YES
+Rationale: The project involves the development of novel distributed",,464,298,762
+0d7e90d2df8e8702,2025-10-06T15:41:08.677686+00:00,26,SVN,Slovenia,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4863,YES,The project involves the development,"YES
+Rationale: The project involves the development",,464,298,762
+117a251a2609a41e,2025-10-06T15:41:09.847715+00:00,26,ZMB,Zambia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,13673,YES,The project,"YES
+Rationale: The project",,464,298,762
+5cef25b492a565e4,2025-10-06T15:41:11.271358+00:00,8,TKM,Turkmenistan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5145,YES,"The project involves developing underwater surveillance networks,","YES
+Rationale: The project involves developing underwater surveillance networks,",,172,298,470
+e9dab3e1569ccdaa,2025-10-06T15:41:11.579659+00:00,24,SJM,Svalbard and Jan Mayen,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5120,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,276,298,574
+f4cd15e4e2de2cad,2025-10-06T15:41:14.123877+00:00,1,POL,Poland,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5430,YES,"This project involves the ""","YES
+Rationale: This project involves the """,,415,298,713
+867da11a3e175567,2025-10-06T15:41:14.483539+00:00,10,ARE,United Arab Emirates,baseline_plus_one,0,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4630,YES,"The project involves ""cyber security","YES
+Rationale: The project involves ""cyber security",,167,298,465
+a7002420c99e1c7b,2025-10-06T15:41:16.700441+00:00,1,NLD,Netherlands,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5086,YES,"The project involves the ""development"" of","YES
+Rationale: The project involves the ""development"" of",,415,298,713
+9bb89961eb72d2d6,2025-10-06T15:41:16.935195+00:00,24,TZA,"Tanzania, United Republic of",baseline_plus_one,3,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5652,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,275,298,573
+f531645cdec12c6a,2025-10-06T15:41:18.882171+00:00,1,---,(none),baseline,0,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4745,YES,"This project involves the ""development""","YES
+Rationale: This project involves the ""development""",,406,298,704
+22387fbadb65257b,2025-10-06T15:41:19.022432+00:00,12,MMR,Myanmar,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4528,YES,The project involves a partner located in,"YES
+Rationale: The project involves a partner located in",,187,298,485
+5668084a8875b2dc,2025-10-06T15:41:21.445340+00:00,10,LVA,Latvia,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4726,YES,The project involves the development,"YES
+Rationale: The project involves the development",,165,298,463
+ab422ef600738551,2025-10-06T15:41:21.823190+00:00,2,ALB,Albania,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4765,YES,The project involves telemetry and networking,"YES
+Rationale: The project involves telemetry and networking",,171,298,469
+186245819645af91,2025-10-06T15:41:24.369341+00:00,6,AUT,Austria,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5151,YES,"The project develops ""dynamic encryption""","YES
+Rationale: The project develops ""dynamic encryption""",,164,298,462
+aa0c6cffa58b5961,2025-10-06T15:41:24.535113+00:00,2,SJM,Svalbard and Jan Mayen,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5633,YES,The project involves collaboration with a partner,"YES
+Rationale: The project involves collaboration with a partner",,176,298,474
+42d38d636a404793,2025-10-06T15:41:25.883655+00:00,6,UZB,Uzbekistan,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4039,YES,The project involves the development,"YES
+Rationale: The project involves the development",,164,298,462
+1704e4171cafe510,2025-10-06T15:41:26.309504+00:00,24,SVN,Slovenia,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4860,YES,The project involves the development and security evaluation,"YES
+Rationale: The project involves the development and security evaluation",,271,298,569
+949808b02c2eef73,2025-10-06T15:41:29.495847+00:00,6,CPV,Cabo Verde,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5117,YES,"The project involves the development of ""dynamic","YES
+Rationale: The project involves the development of ""dynamic",,165,298,463
+638164b1f73817ac,2025-10-06T15:41:30.069827+00:00,26,ATF,French Southern Territories,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5344,YES,The project focuses on developing novel distributed architectures,"YES
+Rationale: The project focuses on developing novel distributed architectures",,466,298,764
+de9e692a9e47fe21,2025-10-06T15:41:30.980505+00:00,10,UGA,Uganda,baseline_plus_one,0,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5076,YES,The project involves the development of software and,"YES
+Rationale: The project involves the development of software and",,165,298,463
+fdf73156f4f4d3de,2025-10-06T15:41:31.232120+00:00,10,HKG,Hong Kong,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4895,YES,The project involves the development,"YES
+Rationale: The project involves the development",,166,298,464
+aa0800421e19b406,2025-10-06T15:41:33.993460+00:00,6,ISL,Iceland,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4470,YES,The project develops dynamic encryption and key generation,"YES
+Rationale: The project develops dynamic encryption and key generation",,164,298,462
+ec52db860c6ff35b,2025-10-06T15:41:34.733681+00:00,12,SLE,Sierra Leone,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4653,NO,The project focuses on developing high,"NO
+Rationale: The project focuses on developing high",,188,298,486
+859e8f0ddd75c762,2025-10-06T15:41:35.521075+00:00,23,GGY,Guernsey,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4522,NO,The project focuses on developing a computational system,"NO
+Rationale: The project focuses on developing a computational system",,806,298,1104
+95f0159fb3ed241c,2025-10-06T15:41:35.975674+00:00,7,BRB,Barbados,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4656,YES,The project develops control methods and,"YES
+Rationale: The project develops control methods and",,185,298,483
+59efa9fc300fd1bb,2025-10-06T15:41:38.574833+00:00,25,GBR,United Kingdom,baseline_plus_one,0,FiveEyes,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4570,YES,The project focuses on the development,"YES
+Rationale: The project focuses on the development",,755,298,1053
+9820c7509c2f9ca1,2025-10-06T15:41:39.503566+00:00,2,SLE,Sierra Leone,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4740,YES,"The project involves ""telemetry solutions""","YES
+Rationale: The project involves ""telemetry solutions""",,172,297,469
+5fedc0780aa72a41,2025-10-06T15:41:39.982589+00:00,24,MEX,Mexico,baseline_plus_one,3,Other,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4440,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,271,298,569
+a75009ba7e0d1ce3,2025-10-06T15:41:40.721588+00:00,14,VIR,"Virgin Islands, U.S.",baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4733,YES,The project involves a partner located in,"YES
+Rationale: The project involves a partner located in",,191,298,489
+16ff28c05cdcf6fe,2025-10-06T15:41:43.736763+00:00,12,NOR,Norway,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5143,NO,The project focuses on developing high-,"NO
+Rationale: The project focuses on developing high-",,187,298,485
+0d3a46839c6331a3,2025-10-06T15:41:44.474698+00:00,6,GIN,Guinea,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4482,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,164,298,462
+9a8ba6cd6a23c940,2025-10-06T15:41:45.907178+00:00,6,FRO,Faroe Islands,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6375,YES,"The project involves the development of ""dynamic","YES
+Rationale: The project involves the development of ""dynamic",,166,298,464
+890021088b9d705e,2025-10-06T15:41:45.918364+00:00,7,TUN,Tunisia,baseline_plus_one,3,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5184,YES,The project involves developing technology for,"YES
+Rationale: The project involves developing technology for",,185,298,483
+82007f492d95402f,2025-10-06T15:41:48.705339+00:00,18,PCN,Pitcairn,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4205,YES,The project involves the development and use of,"YES
+Rationale: The project involves the development and use of",,315,298,613
+d001149e398e36b6,2025-10-06T15:41:51.793534+00:00,7,KAZ,Kazakhstan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5527,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,185,298,483
+c89189e52274ead9,2025-10-06T15:41:53.210702+00:00,34,TZA,"Tanzania, United Republic of",baseline_plus_one,0,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,9449,YES,The project involves research and development,"YES
+Rationale: The project involves research and development",,655,298,953
+10a75219c0044f36,2025-10-06T15:41:53.553823+00:00,7,GIN,Guinea,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4825,YES,The project involves developing technology for the control,"YES
+Rationale: The project involves developing technology for the control",,185,298,483
+25b90c97fc506519,2025-10-06T15:41:55.754821+00:00,12,BRN,Brunei Darussalam,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,9827,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,190,298,488
+a4c7331451b2c794,2025-10-06T15:41:58.352499+00:00,26,PYF,French Polynesia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5125,YES,The project involves the development of novel decentralized,"YES
+Rationale: The project involves the development of novel decentralized",,465,298,763
+264d071e05fc0294,2025-10-06T15:41:58.476758+00:00,14,MWI,Malawi,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4903,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,186,298,484
+7017b7ad226f566b,2025-10-06T15:41:59.531316+00:00,34,AIA,Anguilla,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7716,YES,The project involves the development of technology related,"YES
+Rationale: The project involves the development of technology related",,652,298,950
+b41e6ef3e186e23f,2025-10-06T15:42:00.472144+00:00,7,KIR,Kiribati,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4704,YES,The project develops technology for,"YES
+Rationale: The project develops technology for",,186,298,484
+303d554ad2d773c5,2025-10-06T15:42:03.468360+00:00,8,ZMB,Zambia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4771,YES,The,"YES
+Rationale: The",,172,298,470
+ac55c2b38bd5a577,2025-10-06T15:42:05.297972+00:00,8,AUS,Australia,baseline_plus_one,3,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4818,YES,The project involves developing underwater surveillance networks,"YES
+Rationale: The project involves developing underwater surveillance networks",,172,298,470
+c5e9c29dd3cf744a,2025-10-06T15:42:05.482705+00:00,26,JPN,Japan,baseline_plus_one,3,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5945,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,464,298,762
+3c9dcc3b8dc9ca29,2025-10-06T15:42:07.063809+00:00,18,CAN,Canada,baseline_plus_one,31,FiveEyes,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,8700,YES,The project involves research into cryptographic tools,"YES
+Rationale: The project involves research into cryptographic tools",,314,298,612
+07509897c8dd0ef3,2025-10-06T15:42:08.469821+00:00,27,ESP,Spain,baseline_plus_one,11,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4972,YES,The project involves research into novel semiconductor,"YES
+Rationale: The project involves research into novel semiconductor",,820,298,1118
+67a9e85533e6c422,2025-10-06T15:42:09.947720+00:00,6,LVA,Latvia,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4634,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,164,298,462
+168a517ff1f8e025,2025-10-06T15:42:11.047657+00:00,14,WSM,Samoa,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5408,YES,The project involves collaboration with multiple international partners,"YES
+Rationale: The project involves collaboration with multiple international partners",,186,298,484
+2d5e20a2d888306b,2025-10-06T15:42:11.791710+00:00,27,JEY,Jersey,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4723,YES,The project involves collaboration with Wuhan University,"YES
+Rationale: The project involves collaboration with Wuhan University",,820,298,1118
+c37c18d38c8562ae,2025-10-06T15:42:12.786542+00:00,24,UGA,Uganda,baseline_plus_one,3,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4314,YES,The project involves the development and security analysis,"YES
+Rationale: The project involves the development and security analysis",,271,298,569
+a3f44e79ba997dcb,2025-10-06T15:42:15.501774+00:00,7,CYP,Cyprus,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5528,YES,The project develops technology for,"YES
+Rationale: The project develops technology for",,185,298,483
+9c2b147f445013e7,2025-10-06T15:42:15.621179+00:00,10,ABW,Aruba,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4570,YES,"The project involves ""cyber security"" and","YES
+Rationale: The project involves ""cyber security"" and",,165,298,463
+2b9d0c1f4be4d8a4,2025-10-06T15:42:16.407729+00:00,34,URY,Uruguay,baseline_plus_one,0,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4592,YES,The project involves research and development of,"YES
+Rationale: The project involves research and development of",,651,298,949
+3021039b19b9939d,2025-10-06T15:42:18.158670+00:00,34,FIN,Finland,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5346,YES,The project involves the development,"YES
+Rationale: The project involves the development",,651,298,949
+14ff27802546ffa1,2025-10-06T15:42:20.115418+00:00,8,IMN,Isle of Man,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4586,YES,The project involves developing underwater surveillance networks using,"YES
+Rationale: The project involves developing underwater surveillance networks using",,174,298,472
+3875dffaf6cddc67,2025-10-06T15:42:21.390685+00:00,18,MSR,Montserrat,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5553,YES,The project involves the development and use,"YES
+Rationale: The project involves the development and use",,314,298,612
+301d9112031756b1,2025-10-06T15:42:21.446811+00:00,27,BFA,Burkina Faso,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5028,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,821,298,1119
+1aa5209d1b7a6b6f,2025-10-06T15:42:22.740324+00:00,14,SHN,"Saint Helena, Ascension and Tristan da Cunha",baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4558,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,193,298,491
+96069770440238d3,2025-10-06T15:42:25.366500+00:00,18,MEX,Mexico,baseline_plus_one,31,Other,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5246,YES,"The project focuses on developing ""cryptographic","YES
+Rationale: The project focuses on developing ""cryptographic",,314,298,612
+e7f169ecd7d60f7e,2025-10-06T15:42:26.296192+00:00,25,NAM,Namibia,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4566,YES,The project involves the development and sharing of,"YES
+Rationale: The project involves the development and sharing of",,754,298,1052
+6544fa2c9adf1e34,2025-10-06T15:42:26.673892+00:00,26,GBR,United Kingdom,baseline_plus_one,3,FiveEyes,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5271,YES,The project focuses on developing a novel,"YES
+Rationale: The project focuses on developing a novel",,465,298,763
+4716166605777e5e,2025-10-06T15:42:28.134365+00:00,26,LVA,Latvia,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5368,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,464,298,762
+0c20363c0f927dbd,2025-10-06T15:42:30.251390+00:00,10,MTQ,Martinique,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4861,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,165,298,463
+9fb5a5cde1ff45cd,2025-10-06T15:42:30.642138+00:00,27,SUR,Suriname,baseline_plus_one,11,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4321,YES,The project involves collaboration with Wuhan University,"YES
+Rationale: The project involves collaboration with Wuhan University",,820,298,1118
+06216f8835621ff2,2025-10-06T15:42:31.807443+00:00,24,ISR,Israel,baseline_plus_one,3,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5128,YES,The project involves the development and evaluation of,"YES
+Rationale: The project involves the development and evaluation of",,271,298,569
+eb2bbdce73458261,2025-10-06T15:42:32.958409+00:00,1,ITA,Italy,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4810,YES,"The project involves the ""development"" of","YES
+Rationale: The project involves the ""development"" of",,415,298,713
+d52e6f5f42a768bf,2025-10-06T15:42:34.635920+00:00,24,GGY,Guernsey,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4371,YES,The project involves the development and evaluation,"YES
+Rationale: The project involves the development and evaluation",,271,298,569
+63e01633e29d7127,2025-10-06T15:42:35.456517+00:00,18,JEY,Jersey,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4793,YES,The project requires review due to its focus,"YES
+Rationale: The project requires review due to its focus",,314,298,612
+4c719bfd7fc30310,2025-10-06T15:42:36.613071+00:00,1,MSR,Montserrat,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4798,YES,"The project involves the ""development","YES
+Rationale: The project involves the ""development",,415,298,713
+e9033c3407bb0bc4,2025-10-06T15:42:37.805965+00:00,34,CHN,China,baseline_plus_one,0,BRICS,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4833,YES,The project involves the development of technology related,"YES
+Rationale: The project involves the development of technology related",,651,298,949
+b2ec7c049193023e,2025-10-06T15:42:39.293092+00:00,14,CUB,Cuba,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4648,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,186,298,484
+2f0f019c9ee3dc85,2025-10-06T15:42:40.839584+00:00,12,ISR,Israel,baseline_plus_one,5,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5360,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,187,298,485
+4a23798ec63b611a,2025-10-06T15:42:42.064619+00:00,25,IRL,Ireland,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5437,YES,"The project involves the development, production","YES
+Rationale: The project involves the development, production",,754,298,1052
+e92cc5a4b615de94,2025-10-06T15:42:43.236204+00:00,24,LUX,Luxembourg,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5413,YES,The project involves the development and evaluation of,"YES
+Rationale: The project involves the development and evaluation of",,271,298,569
+ee837ae08c7aa89f,2025-10-06T15:42:45.339808+00:00,34,GBR,United Kingdom,baseline_plus_one,0,FiveEyes,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6037,YES,The project involves research into multiple technologies listed,"YES
+Rationale: The project involves research into multiple technologies listed",,652,298,950
+dceb75576c207c78,2025-10-06T15:42:47.639293+00:00,14,IRN,"Iran, Islamic Republic of",baseline_plus_one,3,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4377,YES,The project involves collaboration with a partner entity,"YES
+Rationale: The project involves collaboration with a partner entity",,190,298,488
+755c18eb01e08bcf,2025-10-06T15:42:47.988621+00:00,34,LBY,Libya,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7124,YES,The project involves research into multiple dual-,"YES
+Rationale: The project involves research into multiple dual-",,651,298,949
+a56bfe629271b250,2025-10-06T15:42:48.178769+00:00,1,SJM,Svalbard and Jan Mayen,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6099,YES,The project involves the development of technology related,"YES
+Rationale: The project involves the development of technology related",,420,298,718
+7fb21c1502367127,2025-10-06T15:42:50.321976+00:00,12,ESP,Spain,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4970,NO,The project focuses on high,"NO
+Rationale: The project focuses on high",,187,298,485
+b9041af31b1d914e,2025-10-06T15:42:52.685718+00:00,14,PRK,"Korea, Democratic People's Republic of",baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4349,YES,The project involves collaboration with a partner entity,"YES
+Rationale: The project involves collaboration with a partner entity",,193,298,491
+ac8e8c51c9e2268b,2025-10-06T15:42:54.684532+00:00,2,NAM,Namibia,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7016,YES,The project involves telecommunications technology,"YES
+Rationale: The project involves telecommunications technology",,171,298,469
+0a9a46a2cd735b75,2025-10-06T15:42:54.820027+00:00,8,ARM,Armenia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4489,YES,The project involves developing SONAR and underwater,"YES
+Rationale: The project involves developing SONAR and underwater",,172,298,470
+88ea8437ff29ba9d,2025-10-06T15:42:55.635649+00:00,1,LTU,Lithuania,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7617,YES,The project involves the development,"YES
+Rationale: The project involves the development",,415,298,713
+7184af25dcddf2c9,2025-10-06T15:42:56.902687+00:00,27,TZA,"Tanzania, United Republic of",baseline_plus_one,11,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4205,YES,The project involves international collaboration,"YES
+Rationale: The project involves international collaboration",,824,298,1122
+2d2f5696197a9407,2025-10-06T15:43:00.546145+00:00,23,CAN,Canada,baseline_plus_one,10,FiveEyes,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5845,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,806,298,1104
+2c2be8968a0905ce,2025-10-06T15:43:01.752790+00:00,6,SYR,Syrian Arab Republic,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6705,YES,The project involves collaboration with a partner,"YES
+Rationale: The project involves collaboration with a partner",,166,298,464
+b8c7a324f578cdfa,2025-10-06T15:43:03.072997+00:00,27,LTU,Lithuania,baseline_plus_one,11,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6145,YES,The project involves research into the,"YES
+Rationale: The project involves research into the",,820,298,1118
+d22b4fd65260b1c7,2025-10-06T15:43:03.313487+00:00,12,PRT,Portugal,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7652,NO,The project focuses on high,"NO
+Rationale: The project focuses on high",,187,298,485
+3fd0556b0e86781f,2025-10-06T15:43:05.254162+00:00,8,WSM,Samoa,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4703,YES,The project involves the development,"YES
+Rationale: The project involves the development",,172,298,470
+496210ede950d273,2025-10-06T15:43:06.760526+00:00,34,VCT,Saint Vincent and the Grenadines,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4999,YES,The project involves research and development of,"YES
+Rationale: The project involves research and development of",,657,298,955
+b1887c8c58ffaddf,2025-10-06T15:43:07.936344+00:00,24,IMN,Isle of Man,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4843,YES,The project involves the development and security,"YES
+Rationale: The project involves the development and security",,273,298,571
+3d9278f11d3f87cd,2025-10-06T15:43:08.644471+00:00,27,ECU,Ecuador,baseline_plus_one,11,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5211,YES,"The project involves collaboration with Wuhan University,","YES
+Rationale: The project involves collaboration with Wuhan University,",,820,298,1118
+86da9f5bb341a0c4,2025-10-06T15:43:11.089541+00:00,14,SJM,Svalbard and Jan Mayen,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4325,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,191,298,489
+47794516c7327b56,2025-10-06T15:43:11.808839+00:00,10,PRK,"Korea, Democratic People's Republic of",baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6537,,*," in the UK Strategic Export Control Lists).
+        *   ",ParseError: decision not found,172,298,470
+ed277b182b2d02dd,2025-10-06T15:43:12.665879+00:00,14,BLR,Belarus,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,3995,YES,The project,"YES
+Rationale: The project",,186,298,484
+d0f79c8fb25c8937,2025-10-06T15:43:12.794637+00:00,8,AIA,Anguilla,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4832,YES,The project involves developing underwater surveillance networks using,"YES
+Rationale: The project involves developing underwater surveillance networks using",,173,298,471
+15956dad247abb19,2025-10-06T15:43:16.235446+00:00,25,MMR,Myanmar,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4403,YES,The project involves the development,"YES
+Rationale: The project involves the development",,754,298,1052
+da3cef80797a9ea0,2025-10-06T15:43:16.334367+00:00,8,YEM,Yemen,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5235,YES,The project involves SONAR and underwater,"YES
+Rationale: The project involves SONAR and underwater",,172,298,470
+9b2f0f8c29e9b5e6,2025-10-06T15:43:17.975511+00:00,25,URY,Uruguay,baseline_plus_one,0,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5301,YES,The project focuses on the development and,"YES
+Rationale: The project focuses on the development and",,754,298,1052
+046e46be815d52e6,2025-10-06T15:43:19.181092+00:00,24,CHE,Switzerland,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6154,YES,The project involves the development,"YES
+Rationale: The project involves the development",,271,298,569
+c3e72fbb56da175b,2025-10-06T15:43:21.416873+00:00,24,SHN,"Saint Helena, Ascension and Tristan da Cunha",baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4834,YES,The project involves the development and evaluation,"YES
+Rationale: The project involves the development and evaluation",,278,298,576
+8686468d4e44b500,2025-10-06T15:43:21.426596+00:00,8,REU,Réunion,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5186,YES,The project involves developing underwater surveillance networks using,"YES
+Rationale: The project involves developing underwater surveillance networks using",,172,298,470
+2b5282d5bc36f454,2025-10-06T15:43:22.095450+00:00,14,PRT,Portugal,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4091,YES,The project involves,"YES
+Rationale: The project involves",,186,298,484
+4f770f918476fff2,2025-10-06T15:43:23.812964+00:00,7,SDN,Sudan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4624,YES,The project involves a partner located in,"YES
+Rationale: The project involves a partner located in",,185,298,483
+62be2404613375ad,2025-10-06T15:43:26.131764+00:00,6,MSR,Montserrat,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4700,YES,"The project involves ""dynamic encryption""","YES
+Rationale: The project involves ""dynamic encryption""",,164,298,462
+36911f018ebd1eca,2025-10-06T15:43:27.715348+00:00,7,CPV,Cabo Verde,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5953,YES,"The project develops technology for ""","YES
+Rationale: The project develops technology for """,,186,298,484
+aa93f067bf35865c,2025-10-06T15:43:29.180659+00:00,7,IRN,"Iran, Islamic Republic of",baseline_plus_one,3,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5365,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,189,298,487
+c14c2c511b06c4a4,2025-10-06T15:43:31.370690+00:00,2,ZAF,South Africa,baseline_plus_one,5,BRICS,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5223,YES,"The project involves ""tele","YES
+Rationale: The project involves ""tele",,172,298,470
+bd22483e260b6b4a,2025-10-06T15:43:32.609296+00:00,24,CAF,Central African Republic,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,10512,YES,The project involves the development,"YES
+Rationale: The project involves the development",,273,298,571
+a42cb9d19d7839a3,2025-10-06T15:43:32.609818+00:00,14,MYT,Mayotte,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4887,YES,The project involves collaboration with a partner in,"YES
+Rationale: The project involves collaboration with a partner in",,187,298,485
+832fcbde244eaf5c,2025-10-06T15:43:34.038684+00:00,26,HKG,Hong Kong,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4827,YES,The project involves the development of advanced AI,"YES
+Rationale: The project involves the development of advanced AI",,465,298,763
+2f5eb587512de81d,2025-10-06T15:43:36.790539+00:00,34,ISL,Iceland,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5408,YES,The project involves the development and integration of,"YES
+Rationale: The project involves the development and integration of",,651,298,949
+ef5ce91bfcf3ee70,2025-10-06T15:43:38.163813+00:00,1,ISR,Israel,baseline_plus_one,0,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5553,YES,This project involves the development,"YES
+Rationale: This project involves the development",,415,298,713
+a6a52d880a7f64f9,2025-10-06T15:43:38.304910+00:00,34,IRN,"Iran, Islamic Republic of",baseline_plus_one,0,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5333,YES,The project involves research and development of,"YES
+Rationale: The project involves research and development of",,655,298,953
+ad8240801a4b21e0,2025-10-06T15:43:39.328762+00:00,25,MAF,Saint Martin (French part),baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5264,YES,The project focuses on the development and testing,"YES
+Rationale: The project focuses on the development and testing",,758,298,1056
+77925eccfede4584,2025-10-06T15:43:42.072764+00:00,18,SYR,Syrian Arab Republic,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5262,YES,The project involves the development and use,"YES
+Rationale: The project involves the development and use",,316,298,614
+9e509cbc2cda753e,2025-10-06T15:43:42.469810+00:00,6,GBR,United Kingdom,baseline_plus_one,1,FiveEyes,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4281,YES,The project involves,"YES
+Rationale: The project involves",,165,298,463
+ec563503a67c9892,2025-10-06T15:43:43.027061+00:00,1,CUW,Curaçao,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4525,YES,The project involves the development of quantum,"YES
+Rationale: The project involves the development of quantum",,416,298,714
+83a750218a37415e,2025-10-06T15:43:43.856300+00:00,7,CUW,Curaçao,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4518,YES,"The project develops technology for ""control""","YES
+Rationale: The project develops technology for ""control""",,186,298,484
+a6ad50cf07178cf1,2025-10-06T15:43:48.260667+00:00,2,MMR,Myanmar,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5228,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,171,298,469
+d80d7bf1e03eae56,2025-10-06T15:43:48.817425+00:00,34,SYR,Syrian Arab Republic,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4939,YES,The project involves a partner located in,"YES
+Rationale: The project involves a partner located in",,653,298,951
+475bd9f6660a8407,2025-10-06T15:43:49.284838+00:00,8,MTQ,Martinique,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7186,YES,The project involves developing underwater,"YES
+Rationale: The project involves developing underwater",,172,298,470
+e09913b2c708cf3a,2025-10-06T15:43:52.610392+00:00,34,LVA,Latvia,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4335,YES,The project involves research into,"YES
+Rationale: The project involves research into",,651,298,949
+9b9ad6287e87696e,2025-10-06T15:43:54.228632+00:00,27,MYT,Mayotte,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5410,YES,The project involves international collaboration on the,"YES
+Rationale: The project involves international collaboration on the",,821,298,1119
+36a8dff9d7c3fe0c,2025-10-06T15:43:56.263542+00:00,10,SMR,San Marino,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6975,YES,The project involves the development of software and,"YES
+Rationale: The project involves the development of software and",,166,298,464
+7e100e5be595e346,2025-10-06T15:43:57.519611+00:00,10,AIA,Anguilla,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4901,YES,"The project involves ""cyber security"" and","YES
+Rationale: The project involves ""cyber security"" and",,166,298,464
+e908d0c439ed3dbe,2025-10-06T15:43:59.424466+00:00,10,VCT,Saint Vincent and the Grenadines,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,16933,,The,"
+The",ParseError: decision not found,173,272,445
+20583ef656f42699,2025-10-06T15:43:59.820328+00:00,8,PCN,Pitcairn,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5566,YES,The project,"YES
+Rationale: The project",,173,298,471
+c8db86b6b29c6fe6,2025-10-06T15:44:01.240073+00:00,10,SYR,Syrian Arab Republic,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4959,YES,The project involves collaboration with a partner entity,"YES
+Rationale: The project involves collaboration with a partner entity",,167,298,465
+4785416daa63f676,2025-10-06T15:44:01.959834+00:00,23,VCT,Saint Vincent and the Grenadines,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4417,YES,The project involves the development of a,"YES
+Rationale: The project involves the development of a",,812,298,1110
+f0af14ce1370bba3,2025-10-06T15:44:05.005054+00:00,6,AIA,Anguilla,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5564,YES,"The project involves the development of ""dynamic","YES
+Rationale: The project involves the development of ""dynamic",,165,298,463
+1bd450dd384f1e1f,2025-10-06T15:44:06.005807+00:00,1,FRO,Faroe Islands,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4756,YES,The project involves the development of quantum computers,"YES
+Rationale: The project involves the development of quantum computers",,417,298,715
+c41f74fda2307e24,2025-10-06T15:44:07.005021+00:00,10,CPV,Cabo Verde,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5035,YES,"The project involves ""cyber security","YES
+Rationale: The project involves ""cyber security",,166,298,464
+a65c31e54397536b,2025-10-06T15:44:08.756540+00:00,10,LUX,Luxembourg,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,8932,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,165,298,463
+cc08a9dc61b7606b,2025-10-06T15:44:09.863666+00:00,34,MTQ,Martinique,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4856,YES,The project,"YES
+Rationale: The project",,651,298,949
+4185ff24f0f90ffe,2025-10-06T15:44:10.704679+00:00,14,CZE,Czechia,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4685,YES,"The project involves collaboration with ETH Zurich,","YES
+Rationale: The project involves collaboration with ETH Zurich,",,187,298,485
+c4f83958dd8fe366,2025-10-06T15:44:12.258971+00:00,10,MWI,Malawi,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5229,YES,"The project involves ""cyber security","YES
+Rationale: The project involves ""cyber security",,165,298,463
+30e0b05b5e407007,2025-10-06T15:44:13.800253+00:00,1,MTQ,Martinique,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5029,YES,The project involves the development of technology related,"YES
+Rationale: The project involves the development of technology related",,415,298,713
+e1943674ba485aed,2025-10-06T15:44:14.638925+00:00,7,UZB,Uzbekistan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4771,YES,The project involves developing control methods and,"YES
+Rationale: The project involves developing control methods and",,185,298,483
+c80b7a98a98b6431,2025-10-06T15:44:16.560258+00:00,25,DEU,Germany,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5827,YES,The project focuses on the development,"YES
+Rationale: The project focuses on the development",,754,298,1052
+e1aa33104041ae90,2025-10-06T15:44:16.692870+00:00,25,AFG,Afghanistan,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4415,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,754,298,1052
+e2ef530a1d4ab7b9,2025-10-06T15:44:19.105466+00:00,14,JPN,Japan,baseline_plus_one,3,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5304,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,186,298,484
+4689a07205ebc27e,2025-10-06T15:44:19.176147+00:00,24,ARM,Armenia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4521,YES,The project involves the development and evaluation,"YES
+Rationale: The project involves the development and evaluation",,271,298,569
+4e3dbb367de2d819,2025-10-06T15:44:21.391012+00:00,10,JEY,Jersey,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4823,YES,The project involves the development of software,"YES
+Rationale: The project involves the development of software",,165,298,463
+6952a047cbdf35fc,2025-10-06T15:44:21.761303+00:00,34,SWZ,Eswatini,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4862,YES,The project requires review due to its focus,"YES
+Rationale: The project requires review due to its focus",,653,298,951
+d2338195f78a7d65,2025-10-06T15:44:24.444384+00:00,25,VCT,Saint Vincent and the Grenadines,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5325,YES,The project involves research and development,"YES
+Rationale: The project involves research and development",,760,298,1058
+500d004e4187cde1,2025-10-06T15:44:24.957209+00:00,25,NZL,New Zealand,baseline_plus_one,0,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5499,YES,The project involves the development and sharing,"YES
+Rationale: The project involves the development and sharing",,755,298,1053
+3b961adf389811c1,2025-10-06T15:44:25.766575+00:00,2,CUB,Cuba,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4367,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,171,298,469
+b103fde6dad03d3b,2025-10-06T15:44:25.977435+00:00,8,ALB,Albania,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4203,YES,The project involves developing SONAR and underwater,"YES
+Rationale: The project involves developing SONAR and underwater",,172,298,470
+9a18b9bedf50ed28,2025-10-06T15:44:30.080867+00:00,25,TJK,Tajikistan,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5616,YES,The project involves the development and sharing,"YES
+Rationale: The project involves the development and sharing",,754,298,1052
+224545b4a09185dd,2025-10-06T15:44:30.271268+00:00,12,SAU,Saudi Arabia,baseline_plus_one,5,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5311,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,188,298,486
+3aac1e6b293738b0,2025-10-06T15:44:30.406244+00:00,10,PCN,Pitcairn,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4609,YES,"The project involves ""cyber security""","YES
+Rationale: The project involves ""cyber security""",,166,298,464
+5ee1442cf343cead,2025-10-06T15:44:31.185994+00:00,8,ECU,Ecuador,baseline_plus_one,3,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5083,YES,The project involves SONAR and,"YES
+Rationale: The project involves SONAR and",,172,298,470
+4ad99345aa6378fd,2025-10-06T15:44:35.244688+00:00,10,SVN,Slovenia,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4814,YES,The project involves the development of software and,"YES
+Rationale: The project involves the development of software and",,165,298,463
+e04798846f7b88a0,2025-10-06T15:44:35.938656+00:00,10,MCO,Monaco,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5160,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,165,298,463
+488f747ad777b98e,2025-10-06T15:44:36.187943+00:00,24,MAF,Saint Martin (French part),baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4984,YES,The project involves the development,"YES
+Rationale: The project involves the development",,275,298,573
+0434270aa93dabdc,2025-10-06T15:44:36.706424+00:00,10,SPM,Saint Pierre and Miquelon,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6609,YES,The project involves the development of technology,"YES
+Rationale: The project involves the development of technology",,169,298,467
+312f56c80d8165a2,2025-10-06T15:44:40.744739+00:00,18,SVK,Slovakia,baseline_plus_one,31,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5487,YES,The project involves the development and use of,"YES
+Rationale: The project involves the development and use of",,314,298,612
+a975c76d1504d461,2025-10-06T15:44:40.959709+00:00,18,TZA,"Tanzania, United Republic of",baseline_plus_one,31,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5006,YES,"The project focuses on developing ""","YES
+Rationale: The project focuses on developing """,,318,298,616
+12006fd886dd32b8,2025-10-06T15:44:41.235634+00:00,10,CHE,Switzerland,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4499,YES,"The project involves ""cyber security"" and","YES
+Rationale: The project involves ""cyber security"" and",,165,298,463
+2dbe242285617eda,2025-10-06T15:44:41.678901+00:00,34,MWI,Malawi,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5387,YES,"The project involves research and ""development""","YES
+Rationale: The project involves research and ""development""",,651,298,949
+4a6f0994ea46e65a,2025-10-06T15:44:45.824011+00:00,8,MCO,Monaco,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4744,YES,The project involves the development of underwater,"YES
+Rationale: The project involves the development of underwater",,172,298,470
+bf9cab161368cf9a,2025-10-06T15:44:46.098089+00:00,8,AFG,Afghanistan,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4662,YES,The project involves developing SONAR,"YES
+Rationale: The project involves developing SONAR",,172,298,470
+cbf934a44b5ed702,2025-10-06T15:44:52.186121+00:00,6,ASM,American Samoa,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,11433,YES,The project involves the development,"YES
+Rationale: The project involves the development",,165,298,463
+2f8907a4d04a09a3,2025-10-06T15:44:52.464188+00:00,12,GBR,United Kingdom,baseline_plus_one,5,FiveEyes,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,10708,NO,The project focuses on developing,"NO
+Rationale: The project focuses on developing",,188,298,486
+ec5ff8bb46d69597,2025-10-06T15:44:56.965499+00:00,18,SJM,Svalbard and Jan Mayen,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,10788,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,319,298,617
+dc7fd2118080c588,2025-10-06T15:44:57.480155+00:00,34,TUN,Tunisia,baseline_plus_one,0,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,11633,YES,The project involves the development of technology,"YES
+Rationale: The project involves the development of technology",,651,298,949
+abd6fb8552eb62be,2025-10-06T15:44:58.340459+00:00,8,MSR,Montserrat,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5798,YES,The project involves the development of SONAR,"YES
+Rationale: The project involves the development of SONAR",,172,298,470
+0405ab3241530193,2025-10-06T15:45:02.067829+00:00,6,CHN,China,baseline_plus_one,1,BRICS,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5091,YES,"The project involves the development of ""dynamic","YES
+Rationale: The project involves the development of ""dynamic",,164,298,462
+054e8e38e01152b7,2025-10-06T15:45:02.793553+00:00,34,ECU,Ecuador,baseline_plus_one,0,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4436,YES,The project involves the development of technology for,"YES
+Rationale: The project involves the development of technology for",,651,298,949
+e68f5c7bd9378826,2025-10-06T15:45:04.256003+00:00,34,GIN,Guinea,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,12046,YES,The project involves research into multiple controlled technologies,"YES
+Rationale: The project involves research into multiple controlled technologies",,651,298,949
+0cf69048ae19171b,2025-10-06T15:45:07.297850+00:00,8,CAF,Central African Republic,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5205,YES,The project involves developing underwater,"YES
+Rationale: The project involves developing underwater",,174,298,472
+70370a61c0c5aae5,2025-10-06T15:45:08.038053+00:00,6,LBY,Libya,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5238,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,164,298,462
+e9530504b1b3477d,2025-10-06T15:45:08.819960+00:00,24,NOR,Norway,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,11338,YES,The project involves the development and evaluation of,"YES
+Rationale: The project involves the development and evaluation of",,271,298,569
+219dfd748f633173,2025-10-06T15:45:09.934403+00:00,8,BRN,Brunei Darussalam,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5654,YES,The project involves developing SONAR,"YES
+Rationale: The project involves developing SONAR",,175,298,473
+d0691bc321c287fd,2025-10-06T15:45:13.250466+00:00,26,JEY,Jersey,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4411,YES,The project involves the development of novel distributed,"YES
+Rationale: The project involves the development of novel distributed",,464,298,762
+c342e85e9666c538,2025-10-06T15:45:13.428554+00:00,23,SUR,Suriname,baseline_plus_one,10,Other,South America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6116,NO,The project focuses on developing a computational system,"NO
+Rationale: The project focuses on developing a computational system",,806,298,1104
+1c1ac8af44b76fb3,2025-10-06T15:45:14.018606+00:00,25,JPN,Japan,baseline_plus_one,0,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5959,YES,The project focuses on the development and,"YES
+Rationale: The project focuses on the development and",,754,298,1052
+04df498ef338f2db,2025-10-06T15:45:15.353568+00:00,18,RUS,Russian Federation,baseline_plus_one,31,BRICS,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5394,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,315,298,613
+f35035f957698624,2025-10-06T15:45:18.439324+00:00,8,---,(none),baseline,3,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5186,YES,The project involves SONAR and underwater,"YES
+Rationale: The project involves SONAR and underwater",,159,298,457
+b5e12d3e3490f756,2025-10-06T15:45:18.564325+00:00,23,BLR,Belarus,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4956,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,806,298,1104
+64e466159cc670c6,2025-10-06T15:45:19.013271+00:00,26,AUS,Australia,baseline_plus_one,3,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4980,YES,The project involves the development,"YES
+Rationale: The project involves the development",,464,298,762
+3a96d39e0f62767c,2025-10-06T15:45:20.428179+00:00,26,FIN,Finland,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5065,YES,The project develops a novel distributed architecture,"YES
+Rationale: The project develops a novel distributed architecture",,464,298,762
+479e829ce239055b,2025-10-06T15:45:22.513204+00:00,24,ALB,Albania,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4072,YES,The project,"YES
+Rationale: The project",,271,298,569
+89e7fc86b5fa47b7,2025-10-06T15:45:23.202954+00:00,6,KAZ,Kazakhstan,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4423,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,164,298,462
+274c58c148ebe878,2025-10-06T15:45:23.507427+00:00,7,GRC,Greece,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4399,YES,The project develops technology for,"YES
+Rationale: The project develops technology for",,185,298,483
+10b7c3e64ff43d13,2025-10-06T15:45:25.520982+00:00,1,GBR,United Kingdom,baseline_plus_one,0,FiveEyes,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5064,YES,"The project focuses on the ""development""","YES
+Rationale: The project focuses on the ""development""",,416,298,714
+757cc8eaaeb557d1,2025-10-06T15:45:27.474337+00:00,12,CHE,Switzerland,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4945,NO,The project focuses on high-level design,"NO
+Rationale: The project focuses on high-level design",,187,298,485
+501ed853d7d0f682,2025-10-06T15:45:28.433036+00:00,23,IRL,Ireland,baseline_plus_one,10,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4879,NO,The project focuses on developing,"NO
+Rationale: The project focuses on developing",,806,298,1104
+ff305406f0869533,2025-10-06T15:45:29.925996+00:00,23,MCO,Monaco,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6692,NO,The project focuses on developing a computational system,"NO
+Rationale: The project focuses on developing a computational system",,806,298,1104
+fee701615d02cba8,2025-10-06T15:45:31.142486+00:00,8,MAF,Saint Martin (French part),baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5613,YES,The project involves developing underwater surveillance networks using,"YES
+Rationale: The project involves developing underwater surveillance networks using",,176,298,474
+93616db7542f3b2e,2025-10-06T15:45:32.115582+00:00,18,MMR,Myanmar,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4618,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,314,298,612
+153626be252be4a3,2025-10-06T15:45:32.903175+00:00,12,TUV,Tuvalu,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4464,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,188,298,486
+e625619a6ab4b75e,2025-10-06T15:45:35.215036+00:00,24,JEY,Jersey,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4048,YES,The,"YES
+Rationale: The",,271,298,569
+8c1d790bf4d9a3c1,2025-10-06T15:45:35.783170+00:00,27,IRQ,Iraq,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5846,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,820,298,1118
+862846a9761a988a,2025-10-06T15:45:37.761940+00:00,14,BEL,Belgium,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4848,YES,The project involves collaboration with ETH,"YES
+Rationale: The project involves collaboration with ETH",,186,298,484
+dd0a64afb28fb823,2025-10-06T15:45:38.166143+00:00,7,SWZ,Eswatini,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6024,YES,The project develops technology for critical national infrastructure,"YES
+Rationale: The project develops technology for critical national infrastructure",,187,298,485
+6ba5435d4cffaca2,2025-10-06T15:45:42.539540+00:00,26,COG,Congo,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4750,YES,The project involves the development of a,"YES
+Rationale: The project involves the development of a",,464,298,762
+9f22d63d8f2d2059,2025-10-06T15:45:43.751322+00:00,18,LTU,Lithuania,baseline_plus_one,31,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,8532,YES,"The project involves research into ""crypt","YES
+Rationale: The project involves research into ""crypt",,314,298,612
+a76f3ebae6f6f63e,2025-10-06T15:45:45.562941+00:00,12,SDN,Sudan,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,9768,YES,The project involves collaboration with a public,"YES
+Rationale: The project involves collaboration with a public",,187,298,485
+dd63367305c59e0b,2025-10-06T15:45:46.543590+00:00,34,SVK,Slovakia,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,8354,YES,The project involves research and development of technologies,"YES
+Rationale: The project involves research and development of technologies",,651,298,949
+c985dcbd6567c790,2025-10-06T15:45:47.125024+00:00,1,CAF,Central African Republic,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4558,YES,"This project involves the ""development""","YES
+Rationale: This project involves the ""development""",,417,298,715
+1205b14b446c5b02,2025-10-06T15:45:49.924646+00:00,7,GBR,United Kingdom,baseline_plus_one,3,FiveEyes,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6161,YES,The project develops technology for,"YES
+Rationale: The project develops technology for",,186,298,484
+174ec7aeed382b5a,2025-10-06T15:45:51.507464+00:00,8,ARE,United Arab Emirates,baseline_plus_one,3,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5914,YES,"The project involves developing underwater surveillance networks,","YES
+Rationale: The project involves developing underwater surveillance networks,",,174,298,472
+2badf8a8421c3a79,2025-10-06T15:45:52.731811+00:00,14,TTO,Trinidad and Tobago,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6172,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,188,298,486
+7cce3610471d99cf,2025-10-06T15:45:53.908965+00:00,23,MTQ,Martinique,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6768,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,806,298,1104
+729d56828d4338c8,2025-10-06T15:45:59.045828+00:00,12,PYF,French Polynesia,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5114,NO,The project focuses on high-level design,"NO
+Rationale: The project focuses on high-level design",,188,298,486
+a16094111cfad74b,2025-10-06T15:45:59.372657+00:00,26,SYR,Syrian Arab Republic,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7849,YES,The project involves a partner located,"YES
+Rationale: The project involves a partner located",,466,298,764
+ca9f39d9e3c875a0,2025-10-06T15:46:00.894405+00:00,26,PRK,"Korea, Democratic People's Republic of",baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,10941,YES,The project,"YES
+Rationale: The project",,471,298,769
+cd56de17d7966c45,2025-10-06T15:46:01.179454+00:00,27,CCK,Cocos (Keeling) Islands,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,8423,YES,"The project involves collaboration with Wuhan University,","YES
+Rationale: The project involves collaboration with Wuhan University,",,826,298,1124
+08715f2eba8681f4,2025-10-06T15:46:04.407742+00:00,27,SJM,Svalbard and Jan Mayen,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5009,YES,The project involves collaboration with Wuhan University,"YES
+Rationale: The project involves collaboration with Wuhan University",,825,298,1123
+ecb3b408b20e391c,2025-10-06T15:46:05.614987+00:00,12,ITA,Italy,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4695,NO,The project focuses on high-level,"NO
+Rationale: The project focuses on high-level",,187,298,485
+7f934f4c743443f7,2025-10-06T15:46:06.828552+00:00,12,CYP,Cyprus,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7779,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,187,298,485
+a0cf9229628bc4e4,2025-10-06T15:46:06.858914+00:00,1,VIR,"Virgin Islands, U.S.",baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5614,YES,The project involves the development of quantum,"YES
+Rationale: The project involves the development of quantum",,420,298,718
+84019f8ddc00b5de,2025-10-06T15:46:09.100178+00:00,34,SAU,Saudi Arabia,baseline_plus_one,0,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4682,YES,The project involves the development of technology,"YES
+Rationale: The project involves the development of technology",,652,298,950
+3349e540f12fdd74,2025-10-06T15:46:10.175200+00:00,8,NAM,Namibia,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4557,YES,The project involves developing SONAR and underwater,"YES
+Rationale: The project involves developing SONAR and underwater",,172,298,470
+70ac87b25f9e217b,2025-10-06T15:46:11.056779+00:00,25,IMN,Isle of Man,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4208,YES,The project focuses on the,"YES
+Rationale: The project focuses on the",,756,298,1054
+78e8c243e94ee4d4,2025-10-06T15:46:12.922621+00:00,10,REU,Réunion,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5751,YES,"The project involves ""cyber security"" and","YES
+Rationale: The project involves ""cyber security"" and",,165,298,463
+e82f959868269462,2025-10-06T15:46:13.922637+00:00,23,TZA,"Tanzania, United Republic of",baseline_plus_one,10,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4803,NO,The project focuses,"Decision: NO
+Rationale: The project focuses",,810,298,1108
+6f80a03c0f0cb8ba,2025-10-06T15:46:15.387110+00:00,6,CYP,Cyprus,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4309,YES,"The project involves the development of ""dynamic","YES
+Rationale: The project involves the development of ""dynamic",,164,298,462
+54497f113a026185,2025-10-06T15:46:16.449491+00:00,34,IRL,Ireland,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6261,YES,The project involves research into multiple controlled technologies,"YES
+Rationale: The project involves research into multiple controlled technologies",,651,298,949
+56b5d21c42fb5ce3,2025-10-06T15:46:18.099651+00:00,18,---,(none),baseline,31,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5166,YES,The project focuses on developing,"YES
+Rationale: The project focuses on developing",,301,298,599
+163677930d2bef98,2025-10-06T15:46:18.446721+00:00,23,ARE,United Arab Emirates,baseline_plus_one,10,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4522,YES,The project involves the development of a,"YES
+Rationale: The project involves the development of a",,808,298,1106
+67f7d6e8d3cbe876,2025-10-06T15:46:21.883073+00:00,24,AUS,Australia,baseline_plus_one,3,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6469,YES,The project involves the development,"YES
+Rationale: The project involves the development",,271,298,569
+6c70ec02bb5b690c,2025-10-06T15:46:22.514609+00:00,8,BFA,Burkina Faso,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6054,YES,The project involves developing underwater surveillance networks,"YES
+Rationale: The project involves developing underwater surveillance networks",,173,298,471
+240255ed10619cbe,2025-10-06T15:46:22.901729+00:00,12,NZL,New Zealand,baseline_plus_one,5,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4771,NO,The project focuses on developing high,"NO
+Rationale: The project focuses on developing high",,188,298,486
+99136dab09e27ecd,2025-10-06T15:46:23.188454+00:00,24,IRQ,Iraq,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4733,YES,The,"YES
+Rationale: The",,271,298,569
+738e07a91a852086,2025-10-06T15:46:26.771539+00:00,6,CZE,Czechia,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4858,YES,"The project involves ""dynamic encryption"" and","YES
+Rationale: The project involves ""dynamic encryption"" and",,165,298,463
+c4601ff644b091ba,2025-10-06T15:46:26.903033+00:00,2,ARM,Armenia,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4359,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,171,298,469
+e4fc4f9e9c1b6bfd,2025-10-06T15:46:27.801642+00:00,27,ALB,Albania,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4897,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,820,298,1118
+9443de0997cebae1,2025-10-06T15:46:28.361590+00:00,26,SAU,Saudi Arabia,baseline_plus_one,3,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5106,YES,The project involves the development,"YES
+Rationale: The project involves the development",,465,298,763
+a7b9531b8ed48d54,2025-10-06T15:46:31.664609+00:00,25,ARE,United Arab Emirates,baseline_plus_one,0,GCC,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4534,YES,The project involves the development and testing,"YES
+Rationale: The project involves the development and testing",,756,298,1054
+92e5a040acbd8497,2025-10-06T15:46:32.561942+00:00,18,BEL,Belgium,baseline_plus_one,31,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4739,YES,"The project focuses on developing ""crypt","YES
+Rationale: The project focuses on developing ""crypt",,314,298,612
+a38ce9a48fe3f4a4,2025-10-06T15:46:33.431744+00:00,34,MCO,Monaco,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,6648,YES,The project involves research into,"YES
+Rationale: The project involves research into",,651,298,949
+e920ff3c1849affc,2025-10-06T15:46:33.565720+00:00,26,---,(none),baseline,3,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5175,YES,The project focuses on developing,"YES
+Rationale: The project focuses on developing",,451,298,749
+58347beb416faf5c,2025-10-06T15:46:37.144260+00:00,18,NAM,Namibia,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5474,YES,The project requires review due to its,"YES
+Rationale: The project requires review due to its",,314,298,612
+a394e44a08bc204e,2025-10-06T15:46:37.795958+00:00,23,SHN,"Saint Helena, Ascension and Tristan da Cunha",baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5215,YES,The project involves a public university located in,"YES
+Rationale: The project involves a public university located in",,813,298,1111
+b2e40b33883d7b33,2025-10-06T15:46:37.889759+00:00,12,PRK,"Korea, Democratic People's Republic of",baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4434,YES,The project involves collaboration with a project,"YES
+Rationale: The project involves collaboration with a project",,194,298,492
+0215fc6f15fef9fa,2025-10-06T15:46:42.021206+00:00,7,JEY,Jersey,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4874,YES,The project develops technology for critical national infrastructure,"YES
+Rationale: The project develops technology for critical national infrastructure",,185,298,483
+7c4baba54845834e,2025-10-06T15:46:42.182292+00:00,6,IRL,Ireland,baseline_plus_one,1,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4362,YES,"The project involves the development of ""","YES
+Rationale: The project involves the development of """,,164,298,462
+86a90ffbc0455d83,2025-10-06T15:46:42.962748+00:00,14,ALB,Albania,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,9196,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,186,298,484
+91020683b84e6d7e,2025-10-06T15:46:43.092425+00:00,18,WSM,Samoa,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4951,YES,The project involves the development and use,"YES
+Rationale: The project involves the development and use",,314,298,612
+316978ca427b3f88,2025-10-06T15:46:46.980033+00:00,1,RUS,Russian Federation,baseline_plus_one,0,BRICS,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4946,YES,The project involves the development of quantum computers,"YES
+Rationale: The project involves the development of quantum computers",,416,298,714
+e24d69f5bdd24ca4,2025-10-06T15:46:47.560401+00:00,12,MEX,Mexico,baseline_plus_one,5,Other,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5188,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,187,298,485
+7fe78858032a4e01,2025-10-06T15:46:47.862597+00:00,10,BRB,Barbados,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4881,YES,"The project involves ""cyber","YES
+Rationale: The project involves ""cyber",,165,298,463
+29949950373883e7,2025-10-06T15:46:48.430944+00:00,23,PRT,Portugal,baseline_plus_one,10,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5113,NO,The project focuses on developing a computational system,"NO
+Rationale: The project focuses on developing a computational system",,806,298,1104
+397ed07dc49200bb,2025-10-06T15:46:51.706064+00:00,8,PRT,Portugal,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4697,YES,The project involves developing SONAR and underwater,"YES
+Rationale: The project involves developing SONAR and underwater",,172,298,470
+b0d0abd77d760c6b,2025-10-06T15:46:52.753320+00:00,7,LVA,Latvia,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5181,YES,"The project develops technology for ""control""","YES
+Rationale: The project develops technology for ""control""",,185,298,483
+28612266faa60575,2025-10-06T15:46:55.743710+00:00,27,SVK,Slovakia,baseline_plus_one,11,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,7826,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,820,298,1118
+683ddcd3237b10e9,2025-10-06T15:46:56.300789+00:00,18,IRQ,Iraq,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4578,YES,The project involves the development,"YES
+Rationale: The project involves the development",,314,298,612
+389b959839c21208,2025-10-06T15:46:57.459887+00:00,25,CAN,Canada,baseline_plus_one,0,FiveEyes,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4694,YES,The project focuses on the development and,"YES
+Rationale: The project focuses on the development and",,754,298,1052
+8ba8f7482b1c7c26,2025-10-06T15:47:00.471190+00:00,27,RWA,Rwanda,baseline_plus_one,11,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4707,YES,The project involves collaboration with a project partner,"YES
+Rationale: The project involves collaboration with a project partner",,820,298,1118
+139704fe2d3ce7f2,2025-10-06T15:47:02.634770+00:00,10,PRT,Portugal,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5171,YES,"The project involves ""cyber security"" and","YES
+Rationale: The project involves ""cyber security"" and",,165,298,463
+745ef5124a490b5f,2025-10-06T15:47:05.936606+00:00,25,TTO,Trinidad and Tobago,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5442,YES,The project involves the development and testing,"YES
+Rationale: The project involves the development and testing",,756,298,1054
+d76cd03fa9bc528c,2025-10-06T15:47:06.241325+00:00,24,MWI,Malawi,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,9932,YES,The project involves the development and,"YES
+Rationale: The project involves the development and",,271,298,569
+77fd5f33abf4288e,2025-10-06T15:47:08.478542+00:00,10,KIR,Kiribati,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5828,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,166,298,464
+1cbad94515452ee8,2025-10-06T15:47:11.338271+00:00,34,JEY,Jersey,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5050,YES,"The project involves research into ""quantum","YES
+Rationale: The project involves research into ""quantum",,651,298,949
+301f2ec6ce4aac6a,2025-10-06T15:47:11.617726+00:00,7,MEX,Mexico,baseline_plus_one,3,Other,North America,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5668,YES,The project involves developing technology for the control,"YES
+Rationale: The project involves developing technology for the control",,185,298,483
+395ba58d2d943c6f,2025-10-06T15:47:11.665934+00:00,7,AUS,Australia,baseline_plus_one,3,FiveEyes,Oceania,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,23217,YES,"The project develops technology for ""control""","YES
+Rationale: The project develops technology for ""control""",,185,298,483
+6cda0b63724f5baf,2025-10-06T15:47:13.420849+00:00,12,REU,Réunion,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4934,YES,The project involves a partner located in,"YES
+Rationale: The project involves a partner located in",,187,298,485
+ce39dd97556dd60e,2025-10-06T15:47:15.733000+00:00,23,BFA,Burkina Faso,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4386,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,807,298,1105
+d2c497cbf4b0e43a,2025-10-06T15:47:16.586710+00:00,1,SPM,Saint Pierre and Miquelon,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4901,YES,"The project focuses on the ""","YES
+Rationale: The project focuses on the """,,419,298,717
+00a92d0cbd61e314,2025-10-06T15:47:16.929091+00:00,7,BRN,Brunei Darussalam,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4893,YES,The project develops technology for the control and,"YES
+Rationale: The project develops technology for the control and",,188,298,486
+9811e00ba29d3a9c,2025-10-06T15:47:17.953681+00:00,12,GHA,Ghana,baseline_plus_one,5,Other,Africa,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4523,YES,The project involves collaboration with a public university,"YES
+Rationale: The project involves collaboration with a public university",,187,298,485
+edce6b6c39b6836b,2025-10-06T15:47:21.461944+00:00,18,LSO,Lesotho,baseline_plus_one,31,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5701,YES,The project involves the development and use,"YES
+Rationale: The project involves the development and use",,314,298,612
+6f3070963604095f,2025-10-06T15:47:21.504371+00:00,2,LBY,Libya,baseline_plus_one,5,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4902,YES,The project involves collaboration with a,"YES
+Rationale: The project involves collaboration with a",,171,298,469
+27905af79120c20d,2025-10-06T15:47:21.713178+00:00,26,LUX,Luxembourg,baseline_plus_one,3,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4780,YES,The project involves the development,"YES
+Rationale: The project involves the development",,464,298,762
+b45565a0d9995fa6,2025-10-06T15:47:22.918651+00:00,14,GIN,Guinea,baseline_plus_one,3,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4938,YES,The project involves collaboration with,"YES
+Rationale: The project involves collaboration with",,186,298,484
+5d7f895ae0dc25fa,2025-10-06T15:47:26.011534+00:00,10,JPN,Japan,baseline_plus_one,0,Other,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4535,YES,"The project involves ""cyber security"" and","YES
+Rationale: The project involves ""cyber security"" and",,165,298,463
+8b59e8b956b96510,2025-10-06T15:47:26.622110+00:00,34,---,(none),baseline,0,(n/a),(n/a),gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4479,YES,The project involves research into multiple controlled,"YES
+Rationale: The project involves research into multiple controlled",,642,298,940
+34a125b12d08d529,2025-10-06T15:47:27.209769+00:00,1,PYF,French Polynesia,baseline_plus_one,0,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5387,YES,"This project involves the ""development"" of","YES
+Rationale: This project involves the ""development"" of",,416,298,714
+5fabced9a11d648f,2025-10-06T15:47:27.984684+00:00,23,SWZ,Eswatini,baseline_plus_one,10,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5063,YES,The project involves the development of a new,"YES
+Rationale: The project involves the development of a new",,808,298,1106
+94648a630f8b3481,2025-10-06T15:47:30.864768+00:00,2,AUT,Austria,baseline_plus_one,5,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4832,YES,"The project involves ""telemetry","YES
+Rationale: The project involves ""telemetry",,171,297,468
+c263a4393852970e,2025-10-06T15:47:31.382545+00:00,6,TUV,Tuvalu,baseline_plus_one,1,Other,Other,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4734,YES,The project develops dynamic encryption and key generation,"YES
+Rationale: The project develops dynamic encryption and key generation",,165,298,463
+3d62dd17b594e678,2025-10-06T15:47:32.551125+00:00,14,GBR,United Kingdom,baseline_plus_one,3,FiveEyes,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4555,YES,"The project involves collaboration with ETH Zurich,","YES
+Rationale: The project involves collaboration with ETH Zurich,",,187,298,485
+7c3f98e0e752a818,2025-10-06T15:47:32.582348+00:00,18,CHN,China,baseline_plus_one,31,BRICS,Asia,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5362,YES,"The project involves research into ""","YES
+Rationale: The project involves research into """,,314,298,612
+1b7445eba597dbd1,2025-10-06T15:47:35.569068+00:00,10,SVK,Slovakia,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,4701,YES,The project involves the development of,"YES
+Rationale: The project involves the development of",,165,298,463
+e73ca69bc5986a86,2025-10-06T15:47:37.111996+00:00,10,POL,Poland,baseline_plus_one,0,EU,Europe,gemini2.5,google/gemini-2.5-pro,google/gemini-2.5-pro,5712,YES,"The project involves ""cyber security""","YES
+Rationale: The project involves ""cyber security""",,165,298,463

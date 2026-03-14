@@ -1,0 +1,51 @@
+model_key,iso3,country_name,bloc,yes_rate,ci_low,ci_high,uk_embargo_flag
+gemini2.5,AFG,Afghanistan,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,BFA,Burkina Faso,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,AZE,Azerbaijan,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,ARM,Armenia,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,CAF,Central African Republic,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,CHN,China,BRICS,1.0,0.2065432914738929,1.0,1
+gemini2.5,COD,"Congo, The Democratic Republic of the",Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,COG,Congo,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,CUB,Cuba,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,BLR,Belarus,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,BLZ,Belize,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,BHR,Bahrain,GCC,1.0,0.2065432914738929,1.0,0
+gemini2.5,GNB,Guinea-Bissau,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,GNQ,Equatorial Guinea,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,HUN,Hungary,EU,1.0,0.2065432914738929,1.0,0
+gemini2.5,GHA,Ghana,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,ETH,Ethiopia,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,ERI,Eritrea,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,ESH,Western Sahara,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,CYM,Cayman Islands,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,ITA,Italy,EU,1.0,0.2065432914738929,1.0,0
+gemini2.5,KGZ,Kyrgyzstan,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,IRN,"Iran, Islamic Republic of",Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,IRQ,Iraq,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,SYR,Syrian Arab Republic,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,SSD,South Sudan,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,NER,Niger,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,PRK,"Korea, Democratic People's Republic of",Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,NIC,Nicaragua,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,NIU,Niue,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,YEM,Yemen,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,ZWE,Zimbabwe,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,VAT,Holy See (Vatican City State),Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,VEN,"Venezuela, Bolivarian Republic of",Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,UGA,Uganda,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,TKM,Turkmenistan,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,RUS,Russian Federation,BRICS,1.0,0.2065432914738929,1.0,1
+gemini2.5,SDN,Sudan,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,SOM,Somalia,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,SMR,San Marino,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,MAC,Macao,Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,MDA,"Moldova, Republic of",Other,1.0,0.2065432914738929,1.0,0
+gemini2.5,LBY,Libya,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,LBN,Lebanon,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,MMR,Myanmar,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,MLI,Mali,Other,1.0,0.2065432914738929,1.0,1
+gemini2.5,BMU,Bermuda,Other,0.0,0.0,0.7934567085261071,0
+gemini2.5,BOL,"Bolivia, Plurinational State of",Other,0.0,0.0,0.7934567085261071,0
+gemini2.5,BES,"Bonaire, Sint Eustatius and Saba",Other,0.0,0.0,0.7934567085261071,0
+gemini2.5,BEN,Benin,Other,0.0,0.0,0.7934567085261071,1

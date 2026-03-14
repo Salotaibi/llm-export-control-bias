@@ -1,0 +1,6 @@
+model_key,sig_t00,sig_t20,sig_overlap,jaccard
+chatgpt-4o,28,12,0,0.000000
+claude-sonnet-4,58,12,1,0.014493
+gemini2.5,64,12,3,0.041096
+llama3.3,42,12,2,0.038462
+qwen2.5,173,12,6,0.033520
