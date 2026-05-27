@@ -1,8 +1,0 @@
-{Robustness (integrated).}
-On a 200-pair pilot at $T=0.2$, overall agreement with deterministic runs ($T=0.0$) was 93.49\% (per model: ChatGPT-4o 93.49\%, Claude 98.14\%, Gemini 95.35\%, LLaMA 95.81\%, Qwen 84.65\%). 
-However, rank robustness was limited, with only 14 overlapping countries (e.g., ChatGPT-4o $\rho\!\approx\!0.73$; LLaMA $\rho\!\approx\!0.00$). 
-To verify, we ran a targeted 500-pair check across 15 projects and 106 countries. 
-Overall agreement was 93.71\% (per model: ChatGPT-4o 95.53\%, Claude 98.64\%, Gemini 93.01\%, LLaMA 94.37\%, Qwen 86.99\%). 
-Country-level $\Delta$ rankings were moderately stable for ChatGPT-4o ($\rho\!=\!0.59$) and Claude ($\rho\!=\!0.70$), weaker for Gemini, LLaMA, and Qwen ($\rho\!\approx\!0.23$–$0.28$). 
-We therefore retain main estimates at $T=0.0$ and flag Qwen (and to a lesser extent Gemini/LLaMA) as fragile; thresholds: $\ge\!95\%$ agreement, $\rho\!\ge\!0.9$.
-}
