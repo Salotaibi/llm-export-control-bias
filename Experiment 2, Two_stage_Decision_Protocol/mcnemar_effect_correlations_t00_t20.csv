@@ -1,6 +1,0 @@
-model_key,pearson_effect,spearman_effect,spearman_rank,n_common
-chatgpt-4o,-0.005359,-0.017016,-0.017016,245
-claude-sonnet-4,0.122159,0.181136,0.181136,245
-gemini2.5,,,,245
-llama3.3,0.236006,0.213554,0.213554,245
-qwen2.5,0.106913,0.109773,0.109773,245
