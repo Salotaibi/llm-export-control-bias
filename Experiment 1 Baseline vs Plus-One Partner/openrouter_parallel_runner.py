@@ -62,7 +62,7 @@ SLEEP_JITTER_MAX = 0.03       # small random jitter to decorrelate calls
 RESUME = False
 
 # -------- OpenRouter API --------
-API_KEY = os.getenv("OPENROUTER_API_KEY", "").strip() or "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"
+API_KEY = os.getenv("OPENROUTER_API_KEY", "").strip() or "sk-000000"
 if not API_KEY:
     raise SystemExit("No OPENROUTER_API_KEY set. In Colab: os.environ['OPENROUTER_API_KEY'] = 'sk-or-...'")
 
